@@ -56384,23 +56384,39 @@
         },
         {
           "Count": 3,
-          "CardName": "Orcish Bowmasters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sorin of House Markov"
+          "CardName": "Sheoldred, the Apocalypse"
         },
         {
           "Count": 4,
-          "CardName": "Boggart Trawler"
+          "CardName": "Thoughtseize"
         },
         {
           "Count": 2,
           "CardName": "Graveyard Trespasser"
         },
         {
+          "Count": 1,
+          "CardName": "Sorin of House Markov"
+        },
+        {
           "Count": 3,
-          "CardName": "Sheoldred, the Apocalypse"
+          "CardName": "Force of Despair"
+        },
+        {
+          "Count": 4,
+          "CardName": "Necrodominance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inquisition of Kozilek"
+        },
+        {
+          "Count": 14,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
         },
         {
           "Count": 3,
@@ -56411,50 +56427,26 @@
           "CardName": "Requiting Hex"
         },
         {
-          "Count": 3,
-          "CardName": "Force of Despair"
-        },
-        {
           "Count": 4,
           "CardName": "Fell the Profane"
         },
         {
           "Count": 4,
-          "CardName": "Soul Spike"
-        },
-        {
-          "Count": 2,
-          "CardName": "Inquisition of Kozilek"
-        },
-        {
-          "Count": 4,
-          "CardName": "Thoughtseize"
-        },
-        {
-          "Count": 4,
-          "CardName": "Necrodominance"
+          "CardName": "Boggart Trawler"
         },
         {
           "Count": 2,
           "CardName": "Castle Locthwain"
         },
         {
-          "Count": 14,
-          "CardName": "Swamp"
+          "Count": 4,
+          "CardName": "Soul Spike"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
-          "CardName": "Fatal Push"
-        },
-        {
-          "Count": 2,
-          "CardName": "Illness in the Ranks"
-        },
-        {
-          "Count": 1,
-          "CardName": "Surgical Extraction"
+          "CardName": "Flare of Malice"
         },
         {
           "Count": 3,
@@ -56462,7 +56454,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Day of Black Sun"
+          "CardName": "Fatal Push"
         },
         {
           "Count": 2,
@@ -56470,15 +56462,11 @@
         },
         {
           "Count": 1,
-          "CardName": "Bontu's Last Reckoning"
-        },
-        {
-          "Count": 1,
           "CardName": "Go Blank"
         },
         {
           "Count": 1,
-          "CardName": "Shatter Assumptions"
+          "CardName": "Surgical Extraction"
         },
         {
           "Count": 1,
@@ -56486,7 +56474,19 @@
         },
         {
           "Count": 1,
-          "CardName": "Flare of Malice"
+          "CardName": "Shatter Assumptions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bontu's Last Reckoning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Illness in the Ranks"
         }
       ]
     },
@@ -93213,5 +93213,6 @@
       "GWP": 0.3333333,
       "OGWP": 0.3902778
     }
-  ]
+  ],
+  "Statut": "Ended"
 }
