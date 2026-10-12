@@ -304,7 +304,7 @@
     },
     {
       "Date": null,
-      "Player": "pedro bustos",
+      "Player": "Pedro Bustos Acevedo",
       "Result": "3st Place",
       "AnchorUri": "https://melee.gg/Decklist/View/1873260b-bb36-477a-bb6a-b4df00455e82",
       "Mainboard": [
@@ -5770,7 +5770,7 @@
     },
     {
       "Date": null,
-      "Player": "owrni",
+      "Player": "Jcvidana",
       "Result": "42th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/4989a010-41f2-4a3c-bbdf-b4de015a5d5b",
       "Mainboard": [
@@ -14002,83 +14002,11 @@
       "Mainboard": [
         {
           "Count": 4,
-          "CardName": "Ral, Monsoon Mage"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ruby Medallion"
-        },
-        {
-          "Count": 1,
-          "CardName": "Artist's Talent"
-        },
-        {
-          "Count": 4,
-          "CardName": "Reckless Impulse"
-        },
-        {
-          "Count": 4,
-          "CardName": "Wrenn's Resolve"
-        },
-        {
-          "Count": 4,
-          "CardName": "Manamorphose"
-        },
-        {
-          "Count": 4,
           "CardName": "Pyretic Ritual"
         },
         {
-          "Count": 4,
-          "CardName": "Desperate Ritual"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hex Magic"
-        },
-        {
-          "Count": 3,
-          "CardName": "Past in Flames"
-        },
-        {
-          "Count": 2,
-          "CardName": "Valakut Awakening"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wish"
-        },
-        {
-          "Count": 2,
-          "CardName": "Twinned Vision"
-        },
-        {
-          "Count": 4,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 2,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wooded Foothills"
-        },
-        {
           "Count": 1,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sunbaked Canyon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sacred Foundry"
+          "CardName": "Elegant Parlor"
         },
         {
           "Count": 1,
@@ -14086,17 +14014,89 @@
         },
         {
           "Count": 1,
-          "CardName": "Elegant Parlor"
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinned Vision"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
         },
         {
           "Count": 4,
           "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut Awakening"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Artist's Talent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hex Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
         }
       ],
       "Sideboard": [
         {
-          "Count": 3,
-          "CardName": "Prismatic Ending"
+          "Count": 1,
+          "CardName": "Stormscale Scion"
         },
         {
           "Count": 3,
@@ -14107,12 +14107,8 @@
           "CardName": "Wear // Tear"
         },
         {
-          "Count": 1,
-          "CardName": "Brotherhood's End"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fire Magic"
+          "Count": 3,
+          "CardName": "Prismatic Ending"
         },
         {
           "Count": 1,
@@ -14124,15 +14120,19 @@
         },
         {
           "Count": 1,
-          "CardName": "Grapeshot"
-        },
-        {
-          "Count": 1,
           "CardName": "Empty the Warrens"
         },
         {
           "Count": 1,
-          "CardName": "Stormscale Scion"
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brotherhood's End"
         }
       ]
     },
@@ -14976,51 +14976,31 @@
       "Mainboard": [
         {
           "Count": 4,
-          "CardName": "Ral, Monsoon Mage"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ruby Medallion"
-        },
-        {
-          "Count": 4,
-          "CardName": "Manamorphose"
-        },
-        {
-          "Count": 4,
-          "CardName": "Desperate Ritual"
-        },
-        {
-          "Count": 4,
           "CardName": "Pyretic Ritual"
         },
         {
-          "Count": 4,
-          "CardName": "Reckless Impulse"
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
         },
         {
           "Count": 4,
-          "CardName": "Wrenn's Resolve"
-        },
-        {
-          "Count": 3,
-          "CardName": "Hex Magic"
+          "CardName": "Arid Mesa"
         },
         {
           "Count": 2,
           "CardName": "Twinned Vision"
         },
         {
-          "Count": 3,
-          "CardName": "Past in Flames"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wish"
-        },
-        {
-          "Count": 1,
-          "CardName": "Artist's Talent"
+          "Count": 4,
+          "CardName": "Reckless Impulse"
         },
         {
           "Count": 1,
@@ -15028,7 +15008,63 @@
         },
         {
           "Count": 1,
-          "CardName": "Grapeshot"
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn's Resolve"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Artist's Talent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hex Magic"
         },
         {
           "Count": 1,
@@ -15040,73 +15076,29 @@
         },
         {
           "Count": 1,
-          "CardName": "Gemstone Caverns"
-        },
-        {
-          "Count": 1,
-          "CardName": "Commercial District"
-        },
-        {
-          "Count": 1,
-          "CardName": "Stomping Ground"
-        },
-        {
-          "Count": 1,
-          "CardName": "Elegant Parlor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sacred Foundry"
-        },
-        {
-          "Count": 1,
-          "CardName": "Scalding Tarn"
-        },
-        {
-          "Count": 1,
           "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
-          "CardName": "Wooded Foothills"
-        },
-        {
-          "Count": 4,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mountain"
         }
       ],
       "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
         {
           "Count": 3,
           "CardName": "Orim's Chant"
         },
         {
           "Count": 2,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 2,
           "CardName": "Wear // Tear"
-        },
-        {
-          "Count": 2,
-          "CardName": "Brotherhood's End"
-        },
-        {
-          "Count": 2,
-          "CardName": "Surgical Extraction"
-        },
-        {
-          "Count": 1,
-          "CardName": "Empty the Warrens"
         },
         {
           "Count": 1,
           "CardName": "Siege Smash"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
         },
         {
           "Count": 1,
@@ -15114,7 +15106,15 @@
         },
         {
           "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
           "CardName": "Grapeshot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brotherhood's End"
         }
       ]
     },
@@ -15812,27 +15812,7 @@
       "Mainboard": [
         {
           "Count": 2,
-          "CardName": "Nethergoyf"
-        },
-        {
-          "Count": 4,
-          "CardName": "Moonshadow"
-        },
-        {
-          "Count": 4,
-          "CardName": "Dark Matter Manipulator"
-        },
-        {
-          "Count": 4,
-          "CardName": "Street Wraith"
-        },
-        {
-          "Count": 4,
-          "CardName": "Detective's Phoenix"
-        },
-        {
-          "Count": 2,
-          "CardName": "Troll of Khazad-dûm"
+          "CardName": "Swamp"
         },
         {
           "Count": 4,
@@ -15844,11 +15824,55 @@
         },
         {
           "Count": 2,
-          "CardName": "Unholy Heat"
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
         },
         {
           "Count": 1,
           "CardName": "Kolaghan's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Matter Manipulator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nethergoyf"
         },
         {
           "Count": 4,
@@ -15856,39 +15880,15 @@
         },
         {
           "Count": 2,
-          "CardName": "Fatal Push"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mishra's Bauble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Blood Moon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Nihil Spellbomb"
-        },
-        {
-          "Count": 4,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 2,
           "CardName": "Raucous Theater"
         },
         {
-          "Count": 2,
-          "CardName": "Marsh Flats"
+          "Count": 4,
+          "CardName": "Detective's Phoenix"
         },
         {
           "Count": 2,
-          "CardName": "Verdant Catacombs"
-        },
-        {
-          "Count": 1,
-          "CardName": "Arena of Glory"
+          "CardName": "Unholy Heat"
         },
         {
           "Count": 3,
@@ -15896,21 +15896,29 @@
         },
         {
           "Count": 2,
-          "CardName": "Swamp"
+          "CardName": "Marsh Flats"
         },
         {
-          "Count": 1,
-          "CardName": "Mountain"
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
         }
       ],
       "Sideboard": [
         {
           "Count": 1,
-          "CardName": "Dreams of Steel and Oil"
+          "CardName": "Fatal Push"
         },
         {
           "Count": 1,
-          "CardName": "Fatal Push"
+          "CardName": "Dreams of Steel and Oil"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
         },
         {
           "Count": 1,
@@ -15921,24 +15929,16 @@
           "CardName": "Blood Moon"
         },
         {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
-        },
-        {
           "Count": 2,
           "CardName": "Orcish Bowmasters"
         },
         {
-          "Count": 2,
-          "CardName": "Surgical Extraction"
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
         },
         {
           "Count": 2,
           "CardName": "Meltdown"
-        },
-        {
-          "Count": 3,
-          "CardName": "Obsidian Charmaw"
         },
         {
           "Count": 1,
@@ -25794,7 +25794,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "MarianoCalderon",
           "Result": "2-1-0"
         },
@@ -25979,7 +25979,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "owrni",
+          "Player1": "Jcvidana",
           "Player2": "Andypotter10",
           "Result": "2-1-0"
         },
@@ -26294,7 +26294,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "Juli0BAD",
           "Result": "2-0-0"
         },
@@ -26360,7 +26360,7 @@
         },
         {
           "Player1": "Gamma1001",
-          "Player2": "owrni",
+          "Player2": "Jcvidana",
           "Result": "2-1-0"
         },
         {
@@ -26784,7 +26784,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "Diegoxcvb",
           "Result": "2-0-0"
         },
@@ -26939,7 +26939,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "owrni",
+          "Player1": "Jcvidana",
           "Player2": "NotMyTempo",
           "Result": "2-1-0"
         },
@@ -27269,7 +27269,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "JVmaster4",
           "Result": "2-0-0"
         },
@@ -27424,7 +27424,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "owrni",
+          "Player1": "Jcvidana",
           "Player2": "Mauricio Molina",
           "Result": "2-1-0"
         },
@@ -27764,7 +27764,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "Erick Manuel Lopez Basulto",
           "Result": "2-0-0"
         },
@@ -27799,7 +27799,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "owrni",
+          "Player1": "Jcvidana",
           "Player2": "XxBlueDragonxX",
           "Result": "2-0-0"
         },
@@ -28204,7 +28204,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "ekvzk",
           "Result": "2-1-0"
         },
@@ -28320,7 +28320,7 @@
         },
         {
           "Player1": "ServantArcher1",
-          "Player2": "owrni",
+          "Player2": "Jcvidana",
           "Result": "2-0-0"
         },
         {
@@ -28595,11 +28595,11 @@
         },
         {
           "Player1": "Dagoberto Silva",
-          "Player2": "pedro bustos",
+          "Player2": "Pedro Bustos Acevedo",
           "Result": "0-0-3"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "Dagoberto Silva",
           "Result": "0-0-3"
         },
@@ -28655,7 +28655,7 @@
         },
         {
           "Player1": "reacklml",
-          "Player2": "owrni",
+          "Player2": "Jcvidana",
           "Result": "2-0-0"
         },
         {
@@ -28949,13 +28949,13 @@
           "Result": "0-0-3"
         },
         {
-          "Player1": "pedro bustos",
+          "Player1": "Pedro Bustos Acevedo",
           "Player2": "Javier Calvo",
           "Result": "0-0-3"
         },
         {
           "Player1": "Javier Calvo",
-          "Player2": "pedro bustos",
+          "Player2": "Pedro Bustos Acevedo",
           "Result": "0-0-3"
         },
         {
@@ -29109,7 +29109,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "owrni",
+          "Player1": "Jcvidana",
           "Player2": "MoisesCrow",
           "Result": "2-0-0"
         },
@@ -29279,6 +29279,56 @@
           "Result": "1-1-0"
         }
       ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "Allan Ayapan",
+          "Player2": "ekvzk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dagoberto Silva",
+          "Player2": "Javier Legaspi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pedro Bustos Acevedo",
+          "Player2": "LuisRodriguez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Javier Calvo",
+          "Player2": "LuisAvbax",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 10",
+      "Matches": [
+        {
+          "Player1": "Allan Ayapan",
+          "Player2": "Javier Calvo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dagoberto Silva",
+          "Player2": "Pedro Bustos Acevedo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 11",
+      "Matches": [
+        {
+          "Player1": "Allan Ayapan",
+          "Player2": "Dagoberto Silva",
+          "Result": "2-0-0"
+        }
+      ]
     }
   ],
   "Standings": [
@@ -29286,7 +29336,7 @@
       "Rank": 1,
       "Player": "Allan Ayapan",
       "Points": 22,
-      "Wins": 7,
+      "Wins": 9,
       "Losses": 0,
       "Draws": 1,
       "OMWP": 0.5881944,
@@ -29297,7 +29347,7 @@
       "Rank": 2,
       "Player": "Dagoberto Silva",
       "Points": 20,
-      "Wins": 6,
+      "Wins": 8,
       "Losses": 0,
       "Draws": 2,
       "OMWP": 0.6614583,
@@ -29306,10 +29356,10 @@
     },
     {
       "Rank": 3,
-      "Player": "pedro bustos",
+      "Player": "Pedro Bustos Acevedo",
       "Points": 20,
-      "Wins": 6,
-      "Losses": 0,
+      "Wins": 7,
+      "Losses": 1,
       "Draws": 2,
       "OMWP": 0.6458333,
       "GWP": 0.7,
@@ -29319,8 +29369,8 @@
       "Rank": 4,
       "Player": "Javier Calvo",
       "Points": 19,
-      "Wins": 6,
-      "Losses": 1,
+      "Wins": 7,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.671875,
       "GWP": 0.7,
@@ -29331,7 +29381,7 @@
       "Player": "LuisAvbax",
       "Points": 19,
       "Wins": 6,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.609375,
       "GWP": 0.6086957,
@@ -29342,7 +29392,7 @@
       "Player": "LuisRodriguez",
       "Points": 19,
       "Wins": 6,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.5989583,
       "GWP": 0.6842105,
@@ -29353,7 +29403,7 @@
       "Player": "Javier Legaspi",
       "Points": 19,
       "Wins": 6,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.596875,
       "GWP": 0.6190476,
@@ -29364,7 +29414,7 @@
       "Player": "ekvzk",
       "Points": 19,
       "Wins": 6,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.59375,
       "GWP": 0.6363636,
@@ -29735,7 +29785,7 @@
     },
     {
       "Rank": 42,
-      "Player": "owrni",
+      "Player": "Jcvidana",
       "Points": 15,
       "Wins": 5,
       "Losses": 3,
@@ -31307,5 +31357,5 @@
       "OGWP": 0.3481481
     }
   ],
-  "Statut": "In Progress"
+  "Statut": "Ended"
 }
