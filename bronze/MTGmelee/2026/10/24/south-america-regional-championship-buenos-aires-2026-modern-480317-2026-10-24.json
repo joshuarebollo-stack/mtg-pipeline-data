@@ -8,142 +8,8 @@
   "Decks": [
     {
       "Date": null,
-      "Player": "Jhonatan Restrepo",
-      "Result": "1st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/78b83388-1f67-41a5-a6a0-b4eb00591de5",
-      "Mainboard": [
-        {
-          "Count": 4,
-          "CardName": "Ugin's Labyrinth"
-        },
-        {
-          "Count": 3,
-          "CardName": "Blade of the Bloodchief"
-        },
-        {
-          "Count": 2,
-          "CardName": "Dismember"
-        },
-        {
-          "Count": 6,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 4,
-          "CardName": "Basking Broodscale"
-        },
-        {
-          "Count": 4,
-          "CardName": "Eldrazi Temple"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cavern of Souls"
-        },
-        {
-          "Count": 1,
-          "CardName": "Springleaf Drum"
-        },
-        {
-          "Count": 4,
-          "CardName": "Kozilek's Command"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ba Sing Se"
-        },
-        {
-          "Count": 4,
-          "CardName": "Malevolent Rumble"
-        },
-        {
-          "Count": 3,
-          "CardName": "Glaring Fleshraker"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sowing Mycospawn"
-        },
-        {
-          "Count": 3,
-          "CardName": "Ancient Stirrings"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Haywire Mite"
-        },
-        {
-          "Count": 1,
-          "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 3,
-          "CardName": "Emrakul, the Promised End"
-        },
-        {
-          "Count": 2,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 2,
-          "CardName": "Devourer of Destiny"
-        },
-        {
-          "Count": 4,
-          "CardName": "Urza's Saga"
-        },
-        {
-          "Count": 2,
-          "CardName": "Sire of Seven Deaths"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 2,
-          "CardName": "Thought-Knot Seer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Nature's Claim"
-        },
-        {
-          "Count": 3,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 2,
-          "CardName": "Trinisphere"
-        },
-        {
-          "Count": 1,
-          "CardName": "Thief of Existence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Grafdigger's Cage"
-        },
-        {
-          "Count": 2,
-          "CardName": "Warping Wail"
-        }
-      ]
-    },
-    {
-      "Date": null,
       "Player": "LuisVenegas",
-      "Result": "2st Place",
+      "Result": "1st Place",
       "AnchorUri": "https://melee.gg/Decklist/View/78413feb-6698-4f9c-bcda-b4ea00260963",
       "Mainboard": [
         {
@@ -280,150 +146,8 @@
     },
     {
       "Date": null,
-      "Player": "Roger Landim",
-      "Result": "3st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/38fccc1f-cd3c-4ce2-9830-b4ed000e5d01",
-      "Mainboard": [
-        {
-          "Count": 1,
-          "CardName": "Thundering Falls"
-        },
-        {
-          "Count": 4,
-          "CardName": "Silence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hall of Storm Giants"
-        },
-        {
-          "Count": 1,
-          "CardName": "Otawara, Soaring City"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 2,
-          "CardName": "Erode"
-        },
-        {
-          "Count": 3,
-          "CardName": "Arid Mesa"
-        },
-        {
-          "Count": 1,
-          "CardName": "Monumental Henge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Razorgrass Ambush"
-        },
-        {
-          "Count": 3,
-          "CardName": "Preordain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Floodfarm Verge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Orim's Chant"
-        },
-        {
-          "Count": 2,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Isochron Scepter"
-        },
-        {
-          "Count": 4,
-          "CardName": "Teferi, Time Raveler"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mystic Gate"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Mind Stone"
-        },
-        {
-          "Count": 4,
-          "CardName": "Narset, Parter of Veils"
-        },
-        {
-          "Count": 2,
-          "CardName": "Meticulous Archive"
-        },
-        {
-          "Count": 4,
-          "CardName": "Day's Undoing"
-        },
-        {
-          "Count": 2,
-          "CardName": "Prismatic Ending"
-        },
-        {
-          "Count": 4,
-          "CardName": "Solitude"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sink into Stupor"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 3,
-          "CardName": "Wrath of the Skies"
-        },
-        {
-          "Count": 1,
-          "CardName": "Geier Reach Sanitarium"
-        }
-      ],
-      "Sideboard": [
-        {
-          "Count": 1,
-          "CardName": "Kaheera, the Orphanguard"
-        },
-        {
-          "Count": 2,
-          "CardName": "High Noon"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mystical Dispute"
-        },
-        {
-          "Count": 3,
-          "CardName": "Consign to Memory"
-        },
-        {
-          "Count": 2,
-          "CardName": "The Wandering Emperor"
-        },
-        {
-          "Count": 3,
-          "CardName": "Rest in Peace"
-        }
-      ]
-    },
-    {
-      "Date": null,
       "Player": "Rulo",
-      "Result": "4th Place",
+      "Result": "2st Place",
       "AnchorUri": "https://melee.gg/Decklist/View/29f69e84-4ec4-4126-8ae2-b4e9015a23cf",
       "Mainboard": [
         {
@@ -547,6 +271,282 @@
         {
           "Count": 4,
           "CardName": "Sanctum Prelate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Jhonatan Restrepo",
+      "Result": "3st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/78b83388-1f67-41a5-a6a0-b4eb00591de5",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ugin's Labyrinth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sire of Seven Deaths"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature's Claim"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thief of Existence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Roger Landim",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/38fccc1f-cd3c-4ce2-9830-b4ed000e5d01",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Razorgrass Ambush"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Gate"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Day's Undoing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mystical Dispute"
         },
         {
           "Count": 3,
@@ -39594,7 +39594,7 @@
     },
     {
       "Date": null,
-      "Player": "Katanga",
+      "Player": "Eduardo Plaza",
       "Result": "286th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/31719fe9-cebe-4a89-b63b-b4ec0132c9b3",
       "Mainboard": [
@@ -55492,23 +55492,23 @@
       "RoundName": "Round 1",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "🦧Lion Santiago",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Dihuen",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "ValeroMTG",
+          "Player1": "Rulo",
+          "Player2": "Martin Quiroga",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Rulo",
-          "Player2": "Martin Quiroga",
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "🦧Lion Santiago",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "ValeroMTG",
           "Result": "2-0-0"
         },
         {
@@ -55983,7 +55983,7 @@
         },
         {
           "Player1": "Francisco Silva Júnior",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-0-0"
         },
         {
@@ -56542,24 +56542,24 @@
       "RoundName": "Round 2",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Doblep",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Nicolas De prada",
-          "Result": "2-0-0"
-        },
-        {
-          "Player1": "Roger Landim",
-          "Player2": "Arthur Vieira",
           "Result": "2-0-0"
         },
         {
           "Player1": "Rulo",
           "Player2": "joaoclaudioms",
           "Result": "1-1-0"
+        },
+        {
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Doblep",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Arthur Vieira",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Luis Guilherme Magalhães Queiroz",
@@ -57507,7 +57507,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Katanga",
+          "Player1": "Eduardo Plaza",
           "Player2": "luisdesouza10",
           "Result": "2-1-0"
         },
@@ -57617,23 +57617,23 @@
       "RoundName": "Round 3",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Federico Giardini",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Nekomarfi",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "Mateus Martins",
+          "Player1": "Rulo",
+          "Player2": "aloaiza23",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Rulo",
-          "Player2": "aloaiza23",
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Federico Giardini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Mateus Martins",
           "Result": "2-0-0"
         },
         {
@@ -58228,7 +58228,7 @@
         },
         {
           "Player1": "nahuel mestre",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-1-0"
         },
         {
@@ -58607,23 +58607,23 @@
       "RoundName": "Round 4",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "njxrg",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "Thiago Souza",
           "Player2": "LuisVenegas",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "Axel Arian Rodriguez",
+          "Player1": "Rulo",
+          "Player2": "Leonardo87",
           "Result": "2-1-0"
         },
         {
-          "Player1": "Rulo",
-          "Player2": "Leonardo87",
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "njxrg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Axel Arian Rodriguez",
           "Result": "2-1-0"
         },
         {
@@ -58723,7 +58723,7 @@
         },
         {
           "Player1": "Nahuel Roson",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-1-0"
         },
         {
@@ -59542,24 +59542,24 @@
       "RoundName": "Round 5",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Mauricio Flores",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "raphaludo",
           "Result": "2-1-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "Mateus Mayer",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "Rulo",
           "Player2": "Glauber Teixeira",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Mauricio Flores",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Mateus Mayer",
+          "Result": "2-0-0"
         },
         {
           "Player1": "Luis Guilherme Magalhães Queiroz",
@@ -60348,7 +60348,7 @@
         },
         {
           "Player1": "Luis guilherme Cherubini",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-1-0"
         },
         {
@@ -60387,24 +60387,24 @@
       "RoundName": "Round 6",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Matias Barroso",
-          "Result": "2-0-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Fernando Gonzalez",
           "Result": "2-1-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "André Ramos Lima",
-          "Result": "1-1-0"
-        },
-        {
           "Player1": "Rulo",
           "Player2": "Alexis Winer",
           "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Matias Barroso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "André Ramos Lima",
+          "Result": "1-1-0"
         },
         {
           "Player1": "Luis Guilherme Magalhães Queiroz",
@@ -61072,7 +61072,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Katanga",
+          "Player1": "Eduardo Plaza",
           "Player2": "Dieguebar",
           "Result": "2-0-0"
         },
@@ -61087,23 +61087,23 @@
       "RoundName": "Round 7",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Christian Calcano",
-          "Result": "2-1-0"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Matias Barroso",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "Frank William",
+          "Player1": "Rulo",
+          "Player2": "mateusjordaomonteiro",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Rulo",
-          "Player2": "mateusjordaomonteiro",
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Christian Calcano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Frank William",
           "Result": "2-0-0"
         },
         {
@@ -61518,7 +61518,7 @@
         },
         {
           "Player1": "Alejandro Solano",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-1-0"
         },
         {
@@ -61687,24 +61687,24 @@
       "RoundName": "Round 8",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Rastaf",
+          "Player1": "LuisVenegas",
+          "Player2": "mateusjordaomonteiro",
           "Result": "2-0-0"
         },
         {
-          "Player1": "LuisVenegas",
-          "Player2": "mateusjordaomonteiro",
+          "Player1": "Rulo",
+          "Player2": "André Ramos Lima",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Rastaf",
           "Result": "2-0-0"
         },
         {
           "Player1": "Roger Landim",
           "Player2": "gabriel martinez",
           "Result": "2-1-0"
-        },
-        {
-          "Player1": "Rulo",
-          "Player2": "André Ramos Lima",
-          "Result": "2-0-0"
         },
         {
           "Player1": "Luis Guilherme Magalhães Queiroz",
@@ -62168,7 +62168,7 @@
         },
         {
           "Player1": "Pompas",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-1-0"
         }
       ]
@@ -62177,23 +62177,23 @@
       "RoundName": "Round 9",
       "Matches": [
         {
-          "Player1": "Jhonatan Restrepo",
-          "Player2": "Roger Landim",
-          "Result": "0-0-3"
-        },
-        {
           "Player1": "LuisVenegas",
           "Player2": "Patricio Roman",
           "Result": "2-0-0"
         },
         {
-          "Player1": "Roger Landim",
-          "Player2": "Jhonatan Restrepo",
+          "Player1": "Rulo",
+          "Player2": "Christian Calcano",
           "Result": "0-0-3"
         },
         {
-          "Player1": "Rulo",
-          "Player2": "Christian Calcano",
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Roger Landim",
+          "Result": "0-0-3"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "Jhonatan Restrepo",
           "Result": "0-0-3"
         },
         {
@@ -62603,7 +62603,7 @@
         },
         {
           "Player1": "meirelles1",
-          "Player2": "Katanga",
+          "Player2": "Eduardo Plaza",
           "Result": "2-0-0"
         },
         {
@@ -62612,25 +62612,64 @@
           "Result": "2-0-0"
         }
       ]
+    },
+    {
+      "RoundName": "Round 10",
+      "Matches": [
+        {
+          "Player1": "LuisVenegas",
+          "Player2": "Christian Calcano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rulo",
+          "Player2": "Luis Guilherme Magalhães Queiroz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jhonatan Restrepo",
+          "Player2": "Mazzakre",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roger Landim",
+          "Player2": "André Ramos Lima",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 11",
+      "Matches": [
+        {
+          "Player1": "LuisVenegas",
+          "Player2": "Roger Landim",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rulo",
+          "Player2": "Jhonatan Restrepo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 12",
+      "Matches": [
+        {
+          "Player1": "LuisVenegas",
+          "Player2": "Rulo",
+          "Result": "2-1-0"
+        }
+      ]
     }
   ],
   "Standings": [
     {
       "Rank": 1,
-      "Player": "Jhonatan Restrepo",
-      "Points": 25,
-      "Wins": 8,
-      "Losses": 0,
-      "Draws": 1,
-      "OMWP": 0.6661523,
-      "GWP": 0.7391304,
-      "OGWP": 0.6177044
-    },
-    {
-      "Rank": 2,
       "Player": "LuisVenegas",
       "Points": 24,
-      "Wins": 8,
+      "Wins": 10,
       "Losses": 1,
       "Draws": 0,
       "OMWP": 0.6028807,
@@ -62638,21 +62677,10 @@
       "OGWP": 0.580753
     },
     {
-      "Rank": 3,
-      "Player": "Roger Landim",
-      "Points": 23,
-      "Wins": 7,
-      "Losses": 0,
-      "Draws": 2,
-      "OMWP": 0.6444004,
-      "GWP": 0.7619048,
-      "OGWP": 0.5884336
-    },
-    {
-      "Rank": 4,
+      "Rank": 2,
       "Player": "Rulo",
       "Points": 23,
-      "Wins": 7,
+      "Wins": 9,
       "Losses": 0,
       "Draws": 2,
       "OMWP": 0.5787037,
@@ -62660,11 +62688,33 @@
       "OGWP": 0.5629919
     },
     {
+      "Rank": 3,
+      "Player": "Jhonatan Restrepo",
+      "Points": 25,
+      "Wins": 9,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6661523,
+      "GWP": 0.7391304,
+      "OGWP": 0.6177044
+    },
+    {
+      "Rank": 4,
+      "Player": "Roger Landim",
+      "Points": 23,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6444004,
+      "GWP": 0.7619048,
+      "OGWP": 0.5884336
+    },
+    {
       "Rank": 5,
       "Player": "Luis Guilherme Magalhães Queiroz",
       "Points": 22,
       "Wins": 7,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.6851852,
       "GWP": 0.6666667,
@@ -62675,7 +62725,7 @@
       "Player": "André Ramos Lima",
       "Points": 22,
       "Wins": 7,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.6470312,
       "GWP": 0.75,
@@ -62686,7 +62736,7 @@
       "Player": "Christian Calcano",
       "Points": 22,
       "Wins": 7,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.6246914,
       "GWP": 0.6956522,
@@ -62697,7 +62747,7 @@
       "Player": "Mazzakre",
       "Points": 22,
       "Wins": 7,
-      "Losses": 1,
+      "Losses": 2,
       "Draws": 1,
       "OMWP": 0.6017784,
       "GWP": 0.64,
@@ -65752,7 +65802,7 @@
     },
     {
       "Rank": 286,
-      "Player": "Katanga",
+      "Player": "Eduardo Plaza",
       "Points": 6,
       "Wins": 2,
       "Losses": 7,
@@ -67093,5 +67143,5 @@
       "OGWP": 0.3333333
     }
   ],
-  "Statut": "In Progress"
+  "Statut": "Ended"
 }
