@@ -10410,7 +10410,7 @@
     },
     {
       "Date": null,
-      "Player": "Noé Fauquenoi",
+      "Player": "Xenowan",
       "Result": "75th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/f8aed305-34aa-49aa-9a41-b488006fed05",
       "Mainboard": [
@@ -30234,7 +30234,7 @@
     },
     {
       "Date": null,
-      "Player": "Aug5275",
+      "Player": "Liujixin",
       "Result": "217th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/5c9e46bc-c512-4a1b-937a-b487004bc3a1",
       "Mainboard": [
@@ -50915,7 +50915,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "AlexMacIsaac",
           "Result": "2-0-0"
         },
@@ -51320,7 +51320,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Aug5275",
+          "Player1": "Liujixin",
           "Player2": "Alex Wendling",
           "Result": "2-1-0"
         },
@@ -51705,7 +51705,7 @@
           "Result": "1-1-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "Davor Detecnik",
           "Result": "2-1-0"
         },
@@ -52240,7 +52240,7 @@
           "Result": "1-1-0"
         },
         {
-          "Player1": "Aug5275",
+          "Player1": "Liujixin",
           "Player2": "Koki Nakamura",
           "Result": "2-1-0"
         },
@@ -52655,7 +52655,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "Justin Schabel",
           "Result": "2-0-0"
         },
@@ -53056,7 +53056,7 @@
         },
         {
           "Player1": "Jean Zveibil",
-          "Player2": "Aug5275",
+          "Player2": "Liujixin",
           "Result": "2-0-0"
         },
         {
@@ -53666,7 +53666,7 @@
         },
         {
           "Player1": "AndrewHuber",
-          "Player2": "Noé Fauquenoi",
+          "Player2": "Xenowan",
           "Result": "2-1-0"
         },
         {
@@ -54015,7 +54015,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Aug5275",
+          "Player1": "Liujixin",
           "Player2": "AlexMacIsaac",
           "Result": "2-1-0"
         },
@@ -54540,7 +54540,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "Michael DeBenedetto-Plummer",
           "Result": "2-1-0"
         },
@@ -54925,7 +54925,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Aug5275",
+          "Player1": "Liujixin",
           "Player2": "Gonçalo Bragança",
           "Result": "2-0-0"
         },
@@ -55350,7 +55350,7 @@
           "Result": "1-1-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "Charis Kikidis",
           "Result": "2-0-0"
         },
@@ -55366,7 +55366,7 @@
         },
         {
           "Player1": "Josep Sanfeliu",
-          "Player2": "Aug5275",
+          "Player2": "Liujixin",
           "Result": "2-0-0"
         },
         {
@@ -55905,7 +55905,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "RICHMOND TAN",
           "Result": "2-1-0"
         },
@@ -56445,7 +56445,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Noé Fauquenoi",
+          "Player1": "Xenowan",
           "Player2": "SethManfieldMTG",
           "Result": "2-0-0"
         },
@@ -56806,7 +56806,7 @@
         },
         {
           "Player1": "Marco Belacca",
-          "Player2": "Noé Fauquenoi",
+          "Player2": "Xenowan",
           "Result": "2-0-0"
         },
         {
@@ -57461,7 +57461,7 @@
         },
         {
           "Player1": "Jacob Nagro",
-          "Player2": "Noé Fauquenoi",
+          "Player2": "Xenowan",
           "Result": "2-0-0"
         },
         {
@@ -58739,7 +58739,7 @@
     },
     {
       "Rank": 75,
-      "Player": "Noé Fauquenoi",
+      "Player": "Xenowan",
       "Points": 28,
       "Wins": 9,
       "Losses": 6,
@@ -60301,7 +60301,7 @@
     },
     {
       "Rank": 217,
-      "Player": "Aug5275",
+      "Player": "Liujixin",
       "Points": 16,
       "Wins": 5,
       "Losses": 6,
@@ -61905,5 +61905,6 @@
       "GWP": 0.3333333,
       "OGWP": 0.4363359
     }
-  ]
+  ],
+  "Statut": "Ended"
 }
