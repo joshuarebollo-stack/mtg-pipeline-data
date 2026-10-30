@@ -31043,6 +31043,54 @@
       "AnchorUri": "https://melee.gg/Decklist/View/1d112c6e-ae96-44cf-8d34-b4c2016300e8",
       "Mainboard": [
         {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fblthp, the Lost"
+        },
+        {
+          "Count": 3,
+          "CardName": "Coiling Oracle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
           "Count": 4,
           "CardName": "Abhorrent Oculus"
         },
@@ -31052,79 +31100,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Boseiju, Who Endures"
-        },
-        {
-          "Count": 1,
           "CardName": "Breeding Pool"
-        },
-        {
-          "Count": 1,
-          "CardName": "Clarion Conqueror"
-        },
-        {
-          "Count": 3,
-          "CardName": "Coiling Oracle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Endurance"
-        },
-        {
-          "Count": 2,
-          "CardName": "Fblthp, the Lost"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flare of Denial"
-        },
-        {
-          "Count": 4,
-          "CardName": "Flooded Strand"
-        },
-        {
-          "Count": 3,
-          "CardName": "Force of Negation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Harbinger of the Seas"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hedge Maze"
-        },
-        {
-          "Count": 4,
-          "CardName": "Ice-Fang Coatl"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lush Portico"
-        },
-        {
-          "Count": 4,
-          "CardName": "Misty Rainforest"
-        },
-        {
-          "Count": 3,
-          "CardName": "Portable Hole"
-        },
-        {
-          "Count": 4,
-          "CardName": "Shardless Agent"
-        },
-        {
-          "Count": 4,
-          "CardName": "Sink into Stupor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Snow-Covered Forest"
         },
         {
           "Count": 2,
@@ -31132,34 +31108,46 @@
         },
         {
           "Count": 3,
-          "CardName": "Subtlety"
+          "CardName": "Force of Negation"
         },
         {
           "Count": 1,
           "CardName": "Tamiyo, Inquisitive Student"
         },
         {
-          "Count": 1,
-          "CardName": "Temple Garden"
+          "Count": 4,
+          "CardName": "Shardless Agent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ice-Fang Coatl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
         },
         {
           "Count": 1,
-          "CardName": "Windswept Heath"
-        }
-      ],
-      "Sideboard": [
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
+        },
         {
           "Count": 1,
           "CardName": "Clarion Conqueror"
         },
         {
-          "Count": 3,
-          "CardName": "Consign to Memory"
-        },
-        {
           "Count": 1,
-          "CardName": "Eidolon of Rhetoric"
-        },
+          "CardName": "Endurance"
+        }
+      ],
+      "Sideboard": [
         {
           "Count": 1,
           "CardName": "Endurance"
@@ -31170,7 +31158,7 @@
         },
         {
           "Count": 1,
-          "CardName": "Harbinger of the Seas"
+          "CardName": "Eidolon of Rhetoric"
         },
         {
           "Count": 3,
@@ -31181,8 +31169,20 @@
           "CardName": "Stern Scolding"
         },
         {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
           "Count": 2,
           "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
         }
       ]
     },
@@ -33314,7 +33314,7 @@
     },
     {
       "Date": null,
-      "Player": "Joshua Meagher",
+      "Player": "Josh Meagher",
       "Result": "240th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/5dd51653-6490-4b5a-b207-b4c201601ee2",
       "Mainboard": [
@@ -35676,7 +35676,7 @@
     },
     {
       "Date": null,
-      "Player": "DinoIA",
+      "Player": "Ivan Ayala",
       "Result": "257th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/1213ac1e-e7e1-4d06-b446-b4c2015b6e75",
       "Mainboard": [
@@ -37750,7 +37750,7 @@
     },
     {
       "Date": null,
-      "Player": "Astrid W.",
+      "Player": "Astrid :3",
       "Result": "272th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/116c1779-4c0c-4e10-b207-b4c20167f195",
       "Mainboard": [
@@ -46018,7 +46018,7 @@
     },
     {
       "Date": null,
-      "Player": "bakkenal",
+      "Player": "Michael Li",
       "Result": "330th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/0be8e7c8-7c08-4e47-875b-b4c20118512e",
       "Mainboard": [
@@ -76318,7 +76318,7 @@
     },
     {
       "Date": null,
-      "Player": "kenton najdzien",
+      "Player": "KennyN",
       "Result": "546th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/26917421-dddd-4f47-a89e-b4c200e58447",
       "Mainboard": [
@@ -79316,7 +79316,7 @@
     },
     {
       "Date": null,
-      "Player": "NSingman",
+      "Player": "Bradley Skubic",
       "Result": "567th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/7b2cc34a-83eb-4d72-88d7-b4c201681b44",
       "Mainboard": [
@@ -126189,64 +126189,8 @@
       "AnchorUri": "https://melee.gg/Decklist/View/0d9de2ea-fc2c-42a9-b5a1-b4c200398cad",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Aether Spellbomb"
-        },
-        {
-          "Count": 1,
-          "CardName": "Agatha's Soul Cauldron"
-        },
-        {
-          "Count": 1,
-          "CardName": "Disruptor Flute"
-        },
-        {
-          "Count": 1,
-          "CardName": "Minamo, School at Water's Edge"
-        },
-        {
-          "Count": 4,
-          "CardName": "Emry, Lurker of the Loch"
-        },
-        {
-          "Count": 1,
-          "CardName": "Expedition Map"
-        },
-        {
-          "Count": 1,
-          "CardName": "Grinding Station"
-        },
-        {
-          "Count": 4,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Island"
-        },
-        {
           "Count": 3,
-          "CardName": "Loki, God of Mischief"
-        },
-        {
-          "Count": 2,
-          "CardName": "Metallic Rebuke"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mishra's Bauble"
-        },
-        {
-          "Count": 3,
-          "CardName": "Mox Amber"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mox Opal"
-        },
-        {
-          "Count": 4,
-          "CardName": "Oswald Fiddlebender"
+          "CardName": "Portable Hole"
         },
         {
           "Count": 1,
@@ -126254,31 +126198,19 @@
         },
         {
           "Count": 1,
-          "CardName": "Pithing Needle"
-        },
-        {
-          "Count": 3,
-          "CardName": "Portable Hole"
-        },
-        {
-          "Count": 2,
-          "CardName": "Scalding Tarn"
+          "CardName": "Agatha's Soul Cauldron"
         },
         {
           "Count": 1,
-          "CardName": "Scrabbling Claws"
+          "CardName": "Grinding Station"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
         },
         {
           "Count": 4,
-          "CardName": "Seachrome Coast"
-        },
-        {
-          "Count": 3,
-          "CardName": "Sewer-veillance Cam"
-        },
-        {
-          "Count": 1,
-          "CardName": "Skateboard"
+          "CardName": "Oswald Fiddlebender"
         },
         {
           "Count": 4,
@@ -126286,7 +126218,75 @@
         },
         {
           "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mox Amber"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aether Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emry, Lurker of the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minamo, School at Water's Edge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 3,
+          "CardName": "Loki, God of Mischief"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scrabbling Claws"
+        },
+        {
+          "Count": 2,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 4,
           "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
         }
       ],
       "Sideboard": [
@@ -126295,16 +126295,24 @@
           "CardName": "Aang, Swift Savior"
         },
         {
-          "Count": 3,
-          "CardName": "Consign to Memory"
-        },
-        {
           "Count": 1,
           "CardName": "Damping Sphere"
         },
         {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
           "Count": 3,
           "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
         },
         {
           "Count": 1,
@@ -126317,14 +126325,6 @@
         {
           "Count": 1,
           "CardName": "Soul-Guide Lantern"
-        },
-        {
-          "Count": 2,
-          "CardName": "Teferi, Time Raveler"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Bauble"
         }
       ]
     },
@@ -135300,7 +135300,7 @@
     },
     {
       "Date": null,
-      "Player": "Tfresor",
+      "Player": "Tucker Resor",
       "Result": "967th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/5da030e2-0c64-42db-a95f-b4c200c8213b",
       "Mainboard": [
@@ -153336,7 +153336,7 @@
     },
     {
       "Date": null,
-      "Player": "jlparisi",
+      "Player": "Joseph Parisi",
       "Result": "1097th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/2ac92e5a-f2db-4f5a-a6de-b4c2016075ab",
       "Mainboard": [
@@ -175356,7 +175356,7 @@
     },
     {
       "Date": null,
-      "Player": "AleS64",
+      "Player": "konfuz3",
       "Result": "1253th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/b95b9d78-07b5-44a8-98c7-b4aa00e40150",
       "Mainboard": [
@@ -176236,7 +176236,7 @@
     },
     {
       "Date": null,
-      "Player": "woopdeloop",
+      "Player": "Ryan Vig",
       "Result": "1259th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/36122d60-49d3-4cd8-9c6f-b4c20144ead9",
       "Mainboard": [
@@ -190380,7 +190380,7 @@
     },
     {
       "Date": null,
-      "Player": "CapitalGainz",
+      "Player": "BlankCard",
       "Result": "1359th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/6673c03a-5c7d-4afe-b566-b4c200e44f84",
       "Mainboard": [
@@ -192766,7 +192766,7 @@
     },
     {
       "Date": null,
-      "Player": "Matthew Dillon",
+      "Player": "DocDillon",
       "Result": "1376th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/a3d992a5-0d1b-4ff4-8fde-b4c10184f4b5",
       "Mainboard": [
@@ -209820,51 +209820,23 @@
       "Mainboard": [
         {
           "Count": 4,
-          "CardName": "Arid Mesa"
+          "CardName": "Dragon's Rage Channeler"
         },
         {
           "Count": 1,
-          "CardName": "Bloodstained Mire"
-        },
-        {
-          "Count": 4,
-          "CardName": "Cori-Steel Cutter"
-        },
-        {
-          "Count": 4,
-          "CardName": "Dragon's Rage Channeler"
+          "CardName": "Thundering Falls"
         },
         {
           "Count": 3,
           "CardName": "Expressive Iteration"
         },
         {
-          "Count": 2,
-          "CardName": "Fiery Islet"
-        },
-        {
           "Count": 4,
-          "CardName": "Lava Dart"
+          "CardName": "Arid Mesa"
         },
         {
           "Count": 4,
           "CardName": "Lightning Bolt"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mishra's Bauble"
-        },
-        {
-          "Count": 4,
-          "CardName": "Monastery Swiftspear"
-        },
-        {
-          "Count": 3,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 4,
-          "CardName": "Mutagenic Growth"
         },
         {
           "Count": 4,
@@ -209876,41 +209848,69 @@
         },
         {
           "Count": 4,
-          "CardName": "Slickshot Show-Off"
+          "CardName": "Mutagenic Growth"
         },
         {
           "Count": 3,
-          "CardName": "Steam Vents"
+          "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Thundering Falls"
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
         },
         {
           "Count": 1,
           "CardName": "Unholy Heat"
         },
         {
+          "Count": 3,
+          "CardName": "Steam Vents"
+        },
+        {
           "Count": 2,
           "CardName": "Violent Urge"
         },
         {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
           "Count": 2,
-          "CardName": "Wooded Foothills"
+          "CardName": "Fiery Islet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
         }
       ],
       "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
         {
           "Count": 3,
           "CardName": "Consign to Memory"
         },
         {
           "Count": 2,
-          "CardName": "Into the Flood Maw"
-        },
-        {
-          "Count": 1,
-          "CardName": "Meltdown"
+          "CardName": "Spell Snare"
         },
         {
           "Count": 2,
@@ -209918,15 +209918,15 @@
         },
         {
           "Count": 2,
-          "CardName": "Spell Snare"
-        },
-        {
-          "Count": 1,
-          "CardName": "Surgical Extraction"
+          "CardName": "Into the Flood Maw"
         },
         {
           "Count": 2,
           "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltdown"
         },
         {
           "Count": 2,
@@ -210089,7 +210089,7 @@
         },
         {
           "Player1": "Chris Cherubini",
-          "Player2": "AleS64",
+          "Player2": "konfuz3",
           "Result": "2-0-0"
         },
         {
@@ -211183,7 +211183,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Evan Vetter",
           "Result": "2-1-0"
         },
@@ -211259,7 +211259,7 @@
         },
         {
           "Player1": "Alexander Luckhardt",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-0-0"
         },
         {
@@ -211323,7 +211323,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Casey Himick",
           "Result": "2-0-0"
         },
@@ -211583,7 +211583,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "Matthew Richter",
           "Result": "2-0-0"
         },
@@ -211684,7 +211684,7 @@
         },
         {
           "Player1": "Ds1119",
-          "Player2": "jlparisi",
+          "Player2": "Joseph Parisi",
           "Result": "2-0-0"
         },
         {
@@ -212379,7 +212379,7 @@
         },
         {
           "Player1": "philipapw",
-          "Player2": "kenton najdzien",
+          "Player2": "KennyN",
           "Result": "2-1-0"
         },
         {
@@ -212459,7 +212459,7 @@
         },
         {
           "Player1": "st3amkin",
-          "Player2": "NSingman",
+          "Player2": "Bradley Skubic",
           "Result": "2-0-0"
         },
         {
@@ -213109,7 +213109,7 @@
         },
         {
           "Player1": "Mathew Hartwick",
-          "Player2": "woopdeloop",
+          "Player2": "Ryan Vig",
           "Result": "2-0-0"
         },
         {
@@ -213383,7 +213383,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "CapitalGainz",
+          "Player1": "BlankCard",
           "Player2": "Tom Kessler",
           "Result": "2-0-0"
         },
@@ -213414,7 +213414,7 @@
         },
         {
           "Player1": "Zac Jacques",
-          "Player2": "Tfresor",
+          "Player2": "Tucker Resor",
           "Result": "2-0-0"
         },
         {
@@ -213824,7 +213824,7 @@
         },
         {
           "Player1": "DMunny",
-          "Player2": "Matthew Dillon",
+          "Player2": "DocDillon",
           "Result": "2-1-0"
         },
         {
@@ -214944,7 +214944,7 @@
         },
         {
           "Player1": "Luca Scorziello",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-1-0"
         },
         {
@@ -215018,7 +215018,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Vince Nicastro",
           "Result": "2-0-0"
         },
@@ -215088,7 +215088,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "jacob fumich",
           "Result": "2-1-0"
         },
@@ -215338,7 +215338,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "MLux",
           "Result": "2-0-0"
         },
@@ -215914,7 +215914,7 @@
         },
         {
           "Player1": "Case Alexander",
-          "Player2": "AleS64",
+          "Player2": "konfuz3",
           "Result": "2-0-0"
         },
         {
@@ -216053,7 +216053,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "kenton najdzien",
+          "Player1": "KennyN",
           "Player2": "jonathon custer",
           "Result": "2-1-0"
         },
@@ -216094,7 +216094,7 @@
         },
         {
           "Player1": "Dan Schriever",
-          "Player2": "CapitalGainz",
+          "Player2": "BlankCard",
           "Result": "2-1-0"
         },
         {
@@ -216123,7 +216123,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "NSingman",
+          "Player1": "Bradley Skubic",
           "Player2": "sean hutt",
           "Result": "2-1-0"
         },
@@ -216489,7 +216489,7 @@
         },
         {
           "Player1": "InsideGames",
-          "Player2": "jlparisi",
+          "Player2": "Joseph Parisi",
           "Result": "2-0-0"
         },
         {
@@ -217103,7 +217103,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Tfresor",
+          "Player1": "Tucker Resor",
           "Player2": "Xavier Wofford",
           "Result": "2-1-0"
         },
@@ -217538,7 +217538,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "woopdeloop",
+          "Player1": "Ryan Vig",
           "Player2": "Ryan Bowles",
           "Result": "2-1-0"
         },
@@ -217598,7 +217598,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Matthew Dillon",
+          "Player1": "DocDillon",
           "Player2": "Confucius",
           "Result": "2-0-0"
         },
@@ -218014,7 +218014,7 @@
         },
         {
           "Player1": "Ryan Funkhouser",
-          "Player2": "Tfresor",
+          "Player2": "Tucker Resor",
           "Result": "2-1-0"
         },
         {
@@ -218289,7 +218289,7 @@
         },
         {
           "Player1": "Evann Lapointe",
-          "Player2": "woopdeloop",
+          "Player2": "Ryan Vig",
           "Result": "2-0-0"
         },
         {
@@ -218778,7 +218778,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Tjertel",
           "Result": "2-0-0"
         },
@@ -218809,7 +218809,7 @@
         },
         {
           "Player1": "Drew Kobus",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-1-0"
         },
         {
@@ -218919,7 +218919,7 @@
         },
         {
           "Player1": "jvogel64",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "2-0-0"
         },
         {
@@ -219124,7 +219124,7 @@
         },
         {
           "Player1": "Liina Orlesky",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-0-0"
         },
         {
@@ -219829,7 +219829,7 @@
         },
         {
           "Player1": "Ethan Miller",
-          "Player2": "kenton najdzien",
+          "Player2": "KennyN",
           "Result": "2-1-0"
         },
         {
@@ -219913,7 +219913,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "NSingman",
+          "Player1": "Bradley Skubic",
           "Player2": "Nick Edwards",
           "Result": "2-0-0"
         },
@@ -220828,7 +220828,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "jlparisi",
+          "Player1": "Joseph Parisi",
           "Player2": "Muhaned",
           "Result": "2-1-0"
         },
@@ -221014,7 +221014,7 @@
         },
         {
           "Player1": "K1llr_kyle",
-          "Player2": "CapitalGainz",
+          "Player2": "BlankCard",
           "Result": "2-1-0"
         },
         {
@@ -221109,12 +221109,12 @@
         },
         {
           "Player1": "Timothy Mack",
-          "Player2": "AleS64",
+          "Player2": "konfuz3",
           "Result": "2-1-0"
         },
         {
           "Player1": "Larry Coleman",
-          "Player2": "Matthew Dillon",
+          "Player2": "DocDillon",
           "Result": "2-1-0"
         },
         {
@@ -221823,7 +221823,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "Zane Toledo",
           "Result": "2-0-0"
         },
@@ -222493,7 +222493,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Siegfried Wagner",
           "Result": "2-0-0"
         },
@@ -222553,7 +222553,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "tomfulks",
           "Result": "2-0-0"
         },
@@ -222628,7 +222628,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "JudahS",
           "Result": "2-1-0"
         },
@@ -223039,7 +223039,7 @@
         },
         {
           "Player1": "SethSull",
-          "Player2": "NSingman",
+          "Player2": "Bradley Skubic",
           "Result": "2-0-0"
         },
         {
@@ -223528,7 +223528,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "kenton najdzien",
+          "Player1": "KennyN",
           "Player2": "Thien Nguyen",
           "Result": "2-0-0"
         },
@@ -223924,7 +223924,7 @@
         },
         {
           "Player1": "Christopher Baur",
-          "Player2": "woopdeloop",
+          "Player2": "Ryan Vig",
           "Result": "2-1-0"
         },
         {
@@ -224064,7 +224064,7 @@
         },
         {
           "Player1": "Ryan Simpson",
-          "Player2": "Tfresor",
+          "Player2": "Tucker Resor",
           "Result": "2-1-0"
         },
         {
@@ -224519,7 +224519,7 @@
         },
         {
           "Player1": "Brendan Becker",
-          "Player2": "Matthew Dillon",
+          "Player2": "DocDillon",
           "Result": "2-0-0"
         },
         {
@@ -224803,7 +224803,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "jlparisi",
+          "Player1": "Joseph Parisi",
           "Player2": "Colvisca",
           "Result": "2-1-0"
         },
@@ -224854,7 +224854,7 @@
         },
         {
           "Player1": "Lucas Beach",
-          "Player2": "CapitalGainz",
+          "Player2": "BlankCard",
           "Result": "2-0-0"
         },
         {
@@ -224993,7 +224993,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "AleS64",
+          "Player1": "konfuz3",
           "Player2": "Newton Cheng",
           "Result": "2-1-0"
         },
@@ -225189,12 +225189,12 @@
         },
         {
           "Player1": "Chase Santayana",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "2-1-0"
         },
         {
           "Player1": "Benny Zeoli",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-0-0"
         },
         {
@@ -226213,7 +226213,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Carson Lewis",
           "Result": "2-0-0"
         },
@@ -226508,7 +226508,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "Spencer Asral",
           "Result": "2-0-0"
         },
@@ -227018,7 +227018,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "NSingman",
+          "Player1": "Bradley Skubic",
           "Player2": "Bailey Montressor",
           "Result": "2-1-0"
         },
@@ -227159,7 +227159,7 @@
         },
         {
           "Player1": "KettleWhip",
-          "Player2": "kenton najdzien",
+          "Player2": "KennyN",
           "Result": "2-0-0"
         },
         {
@@ -227364,7 +227364,7 @@
         },
         {
           "Player1": "Stephen Brown",
-          "Player2": "jlparisi",
+          "Player2": "Joseph Parisi",
           "Result": "2-0-0"
         },
         {
@@ -227864,7 +227864,7 @@
         },
         {
           "Player1": "Michael LaBombard",
-          "Player2": "CapitalGainz",
+          "Player2": "BlankCard",
           "Result": "2-1-0"
         },
         {
@@ -227874,7 +227874,7 @@
         },
         {
           "Player1": "Matthew Dale",
-          "Player2": "AleS64",
+          "Player2": "konfuz3",
           "Result": "2-0-0"
         },
         {
@@ -227954,7 +227954,7 @@
         },
         {
           "Player1": "Juniper Stevens",
-          "Player2": "woopdeloop",
+          "Player2": "Ryan Vig",
           "Result": "2-0-0"
         },
         {
@@ -228078,7 +228078,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Tfresor",
+          "Player1": "Tucker Resor",
           "Player2": "Devin Berger",
           "Result": "2-1-0"
         },
@@ -229408,7 +229408,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Will Kollmansberger",
           "Result": "2-1-0"
         },
@@ -229518,7 +229518,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Jack Doucet",
           "Result": "2-1-0"
         },
@@ -229563,7 +229563,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Jason Figaro",
           "Result": "2-0-0"
         },
@@ -229788,7 +229788,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "Matthew Figueras",
           "Result": "2-0-0"
         },
@@ -230344,7 +230344,7 @@
         },
         {
           "Player1": "Bailey Montressor",
-          "Player2": "jlparisi",
+          "Player2": "Joseph Parisi",
           "Result": "2-0-0"
         },
         {
@@ -230408,7 +230408,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "NSingman",
+          "Player1": "Bradley Skubic",
           "Player2": "Joseph Birkenheuer",
           "Result": "2-0-0"
         },
@@ -230488,7 +230488,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "kenton najdzien",
+          "Player1": "KennyN",
           "Player2": "Ryan Cooper",
           "Result": "2-0-0"
         },
@@ -231299,7 +231299,7 @@
         },
         {
           "Player1": "Jacob Koshak",
-          "Player2": "Tfresor",
+          "Player2": "Tucker Resor",
           "Result": "2-1-0"
         },
         {
@@ -231529,7 +231529,7 @@
         },
         {
           "Player1": "Ibzan Lagos",
-          "Player2": "CapitalGainz",
+          "Player2": "BlankCard",
           "Result": "2-0-0"
         },
         {
@@ -231738,7 +231738,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Ryan Hayes",
           "Result": "2-0-0"
         },
@@ -231794,7 +231794,7 @@
         },
         {
           "Player1": "Christian Vasquez",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-1-0"
         },
         {
@@ -232508,7 +232508,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "peterkirk1",
           "Result": "2-1-0"
         },
@@ -232614,7 +232614,7 @@
         },
         {
           "Player1": "Bradley Schlesinger",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "2-1-0"
         },
         {
@@ -233214,7 +233214,7 @@
         },
         {
           "Player1": "OphM1",
-          "Player2": "NSingman",
+          "Player2": "Bradley Skubic",
           "Result": "2-0-0"
         },
         {
@@ -233428,7 +233428,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "kenton najdzien",
+          "Player1": "KennyN",
           "Player2": "coastae",
           "Result": "2-0-0"
         },
@@ -234103,7 +234103,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Tfresor",
+          "Player1": "Tucker Resor",
           "Player2": "Mulambo",
           "Result": "2-0-0"
         },
@@ -234429,7 +234429,7 @@
         },
         {
           "Player1": "Jake Coenen",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-1-0"
         },
         {
@@ -234708,7 +234708,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "bakkenal",
+          "Player1": "Michael Li",
           "Player2": "Sam White",
           "Result": "2-1-0"
         },
@@ -234774,7 +234774,7 @@
         },
         {
           "Player1": "Michael Yunker",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-1-0"
         },
         {
@@ -235208,7 +235208,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Jacob Cupp",
           "Result": "2-1-0"
         },
@@ -235823,7 +235823,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "kenton najdzien",
+          "Player1": "KennyN",
           "Player2": "Thomas Heffernan",
           "Result": "2-0-0"
         },
@@ -236024,7 +236024,7 @@
         },
         {
           "Player1": "Hunter Curtis",
-          "Player2": "NSingman",
+          "Player2": "Bradley Skubic",
           "Result": "1-1-0"
         },
         {
@@ -236033,7 +236033,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "NSingman",
+          "Player1": "Bradley Skubic",
           "Player2": "Hunter Curtis",
           "Result": "1-1-0"
         },
@@ -236594,7 +236594,7 @@
         },
         {
           "Player1": "Brian Rogers",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-0-0"
         },
         {
@@ -237193,7 +237193,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "iharris",
           "Result": "2-1-0"
         },
@@ -237253,7 +237253,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Joshua Schaffer",
           "Result": "2-0-0"
         },
@@ -237318,7 +237318,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Kyohei Kusakabe",
           "Result": "2-0-0"
         },
@@ -237514,7 +237514,7 @@
         },
         {
           "Player1": "Jacob Burman",
-          "Player2": "kenton najdzien",
+          "Player2": "KennyN",
           "Result": "2-1-0"
         },
         {
@@ -238489,7 +238489,7 @@
         },
         {
           "Player1": "Wappa Hamada",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-1-0"
         },
         {
@@ -238578,7 +238578,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Ryan Brozovich",
           "Result": "2-0-0"
         },
@@ -238718,7 +238718,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "andrewfreytag",
           "Result": "2-0-0"
         },
@@ -238753,7 +238753,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Javier Beasley",
           "Result": "0-0-3"
         },
@@ -238804,7 +238804,7 @@
         },
         {
           "Player1": "Javier Beasley",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "0-0-3"
         }
       ]
@@ -239419,7 +239419,7 @@
         },
         {
           "Player1": "MarB149",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-0-0"
         },
         {
@@ -239504,7 +239504,7 @@
         },
         {
           "Player1": "Zach Spors",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-1-0"
         },
         {
@@ -239593,7 +239593,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "Joshua Meagher",
+          "Player1": "Josh Meagher",
           "Player2": "Anthony Girard",
           "Result": "2-1-0"
         },
@@ -239638,7 +239638,7 @@
           "Result": "2-0-0"
         },
         {
-          "Player1": "Astrid W.",
+          "Player1": "Astrid :3",
           "Player2": "Nick Branan",
           "Result": "2-1-0"
         },
@@ -240359,7 +240359,7 @@
         },
         {
           "Player1": "James Dimitrov",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-1-0"
         },
         {
@@ -240383,7 +240383,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "DinoIA",
+          "Player1": "Ivan Ayala",
           "Player2": "Brian Bachman",
           "Result": "2-1-0"
         },
@@ -240404,7 +240404,7 @@
         },
         {
           "Player1": "Ian Flinn",
-          "Player2": "bakkenal",
+          "Player2": "Michael Li",
           "Result": "2-1-0"
         },
         {
@@ -240429,7 +240429,7 @@
         },
         {
           "Player1": "Eoin McDonnell",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "2-0-0"
         },
         {
@@ -240769,7 +240769,7 @@
         },
         {
           "Player1": "Louis Salerno",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-0-0"
         },
         {
@@ -241104,7 +241104,7 @@
         },
         {
           "Player1": "John Puglisi Clark",
-          "Player2": "Astrid W.",
+          "Player2": "Astrid :3",
           "Result": "2-1-0"
         },
         {
@@ -241144,7 +241144,7 @@
         },
         {
           "Player1": "Alex Yatsenko",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-1-0"
         },
         {
@@ -241729,7 +241729,7 @@
         },
         {
           "Player1": "Erick Gonzalez-Vega",
-          "Player2": "DinoIA",
+          "Player2": "Ivan Ayala",
           "Result": "2-0-0"
         },
         {
@@ -241799,7 +241799,7 @@
         },
         {
           "Player1": "TJ Vyner",
-          "Player2": "Joshua Meagher",
+          "Player2": "Josh Meagher",
           "Result": "2-0-0"
         },
         {
@@ -245482,7 +245482,7 @@
     },
     {
       "Rank": 240,
-      "Player": "Joshua Meagher",
+      "Player": "Josh Meagher",
       "Points": 24,
       "Wins": 8,
       "Losses": 6,
@@ -245669,7 +245669,7 @@
     },
     {
       "Rank": 257,
-      "Player": "DinoIA",
+      "Player": "Ivan Ayala",
       "Points": 24,
       "Wins": 8,
       "Losses": 6,
@@ -245834,7 +245834,7 @@
     },
     {
       "Rank": 272,
-      "Player": "Astrid W.",
+      "Player": "Astrid :3",
       "Points": 22,
       "Wins": 7,
       "Losses": 5,
@@ -246472,7 +246472,7 @@
     },
     {
       "Rank": 330,
-      "Player": "bakkenal",
+      "Player": "Michael Li",
       "Points": 18,
       "Wins": 6,
       "Losses": 6,
@@ -248848,7 +248848,7 @@
     },
     {
       "Rank": 546,
-      "Player": "kenton najdzien",
+      "Player": "KennyN",
       "Points": 15,
       "Wins": 5,
       "Losses": 4,
@@ -249079,7 +249079,7 @@
     },
     {
       "Rank": 567,
-      "Player": "NSingman",
+      "Player": "Bradley Skubic",
       "Points": 13,
       "Wins": 4,
       "Losses": 3,
@@ -253479,7 +253479,7 @@
     },
     {
       "Rank": 967,
-      "Player": "Tfresor",
+      "Player": "Tucker Resor",
       "Points": 9,
       "Wins": 3,
       "Losses": 4,
@@ -254909,7 +254909,7 @@
     },
     {
       "Rank": 1097,
-      "Player": "jlparisi",
+      "Player": "Joseph Parisi",
       "Points": 6,
       "Wins": 2,
       "Losses": 4,
@@ -256625,7 +256625,7 @@
     },
     {
       "Rank": 1253,
-      "Player": "AleS64",
+      "Player": "konfuz3",
       "Points": 3,
       "Wins": 1,
       "Losses": 4,
@@ -256691,7 +256691,7 @@
     },
     {
       "Rank": 1259,
-      "Player": "woopdeloop",
+      "Player": "Ryan Vig",
       "Points": 3,
       "Wins": 1,
       "Losses": 4,
@@ -257791,7 +257791,7 @@
     },
     {
       "Rank": 1359,
-      "Player": "CapitalGainz",
+      "Player": "BlankCard",
       "Points": 3,
       "Wins": 1,
       "Losses": 5,
@@ -257978,7 +257978,7 @@
     },
     {
       "Rank": 1376,
-      "Player": "Matthew Dillon",
+      "Player": "DocDillon",
       "Points": 3,
       "Wins": 1,
       "Losses": 3,
@@ -259285,5 +259285,6 @@
       "GWP": 0.3333333,
       "OGWP": 0.3333333
     }
-  ]
+  ],
+  "Statut": "Ended"
 }

@@ -42744,7 +42744,7 @@
     },
     {
       "Date": null,
-      "Player": "mvyru",
+      "Player": "liusiteng",
       "Result": "303th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/dafb5361-cb4a-48a8-b9fc-b4c200896fc1",
       "Mainboard": [
@@ -57270,7 +57270,7 @@
     },
     {
       "Date": null,
-      "Player": "Birdstrike1999",
+      "Player": "zhaoshuyang",
       "Result": "404th Place",
       "AnchorUri": "https://melee.gg/Decklist/View/734a2330-82ff-419f-9665-b4c100788254",
       "Mainboard": [
@@ -57889,7 +57889,7 @@
         },
         {
           "Player1": "WANGZIJIAN",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "2-1-0"
         },
         {
@@ -58304,7 +58304,7 @@
         },
         {
           "Player1": "HaoL",
-          "Player2": "Birdstrike1999",
+          "Player2": "zhaoshuyang",
           "Result": "2-0-0"
         },
         {
@@ -59319,7 +59319,7 @@
         },
         {
           "Player1": "恩惠 杨",
-          "Player2": "Birdstrike1999",
+          "Player2": "zhaoshuyang",
           "Result": "2-0-0"
         },
         {
@@ -59394,7 +59394,7 @@
         },
         {
           "Player1": "Shin33",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "2-0-0"
         },
         {
@@ -60408,7 +60408,7 @@
           "Result": "2-1-0"
         },
         {
-          "Player1": "mvyru",
+          "Player1": "liusiteng",
           "Player2": "-",
           "Result": "2-0-0"
         },
@@ -60779,7 +60779,7 @@
         },
         {
           "Player1": "Chang Zheng",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "2-0-0"
         },
         {
@@ -62084,7 +62084,7 @@
         },
         {
           "Player1": "wuweijie",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "2-0-0"
         },
         {
@@ -63003,7 +63003,7 @@
           "Result": "0-0-0"
         },
         {
-          "Player1": "mvyru",
+          "Player1": "liusiteng",
           "Player2": "Bravo1993atTSJL",
           "Result": "2-0-0"
         },
@@ -63629,7 +63629,7 @@
         },
         {
           "Player1": "hankwhere",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "2-0-0"
         },
         {
@@ -64204,11 +64204,11 @@
         },
         {
           "Player1": "YuRao",
-          "Player2": "mvyru",
+          "Player2": "liusiteng",
           "Result": "0-0-0"
         },
         {
-          "Player1": "mvyru",
+          "Player1": "liusiteng",
           "Player2": "YuRao",
           "Result": "0-2-0"
         }
@@ -68085,7 +68085,7 @@
     },
     {
       "Rank": 303,
-      "Player": "mvyru",
+      "Player": "liusiteng",
       "Points": 6,
       "Wins": 2,
       "Losses": 6,
@@ -69196,7 +69196,7 @@
     },
     {
       "Rank": 404,
-      "Player": "Birdstrike1999",
+      "Player": "zhaoshuyang",
       "Points": 0,
       "Wins": 0,
       "Losses": 2,
@@ -69205,5 +69205,6 @@
       "GWP": 0.3333333,
       "OGWP": 0.375
     }
-  ]
+  ],
+  "Statut": "Ended"
 }
