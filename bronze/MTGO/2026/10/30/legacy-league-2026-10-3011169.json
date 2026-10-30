@@ -1,0 +1,740 @@
+{
+  "Tournament": {
+    "Date": "2026-10-30",
+    "Name": "Legacy League",
+    "Uri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "Zolgia108",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_Zolgia108",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Countryside"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Linebreaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 3,
+          "CardName": "It That Heralds the End"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reality Smasher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastescape Battlemage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Confluence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "JohnGranvik",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_JohnGranvik",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blast Zone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dark Depths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exploration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Quarter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Life from the Loam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maze of Ith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sphere of Resistance"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Tabernacle at Pendrell Vale"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thespian's Stage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Choke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Icetill Explorer"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "MathiasHardStyle",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_MathiasHardStyle",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Linebreaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 3,
+          "CardName": "It That Heralds the End"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reality Smasher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Secluded Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastescape Battlemage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Confluence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summon: Bahamut"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warping Wail"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "Alvas",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_Alvas",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unholy Heat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Bauble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Volcanic Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Massacre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "Paypa",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_Paypa",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Agate Instigator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lazotep Quarry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plateau"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sand Scout"
+        },
+        {
+          "Count": 3,
+          "CardName": "Static Prison"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 1,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-30T00:00:00+00:00",
+      "Player": "Calambity",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-10-3011169#deck_Calambity",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Beseech the Mirror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burning Wish"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Death Wish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea's Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gamble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Runehorn Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Song of Creation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Taiga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tendrils of Agony"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Beseech the Mirror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Confusion in the Ranks"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Peer into the Abyss"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tendrils of Agony"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Veil of Summer"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
