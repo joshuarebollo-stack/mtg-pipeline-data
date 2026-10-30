@@ -1,7 +1,4725 @@
 {
- "Lands": [],
- "NonLands": [],
- "Colorless": [],
- "NotFound": [],
- "updated_at": "2026-10-30T09:17:46Z"
+ "Lands": [
+  {
+   "Name": "A.I.M. Labs",
+   "Color": "UB"
+  },
+  {
+   "Name": "Abandoned Air Temple",
+   "Color": "W"
+  },
+  {
+   "Name": "Abstergo Entertainment",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Abundant Countryside",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Adagia, Windswept Bastion",
+   "Color": "W"
+  },
+  {
+   "Name": "Aether Hub",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Agna Qel'a",
+   "Color": "U"
+  },
+  {
+   "Name": "Ally Encampment",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Ancient Ziggurat",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Asgardian Citadel",
+   "Color": "WR"
+  },
+  {
+   "Name": "Avengers Hangar",
+   "Color": "WU"
+  },
+  {
+   "Name": "Avengers Tower",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Ba Sing Se",
+   "Color": "G"
+  },
+  {
+   "Name": "Baxter Building",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Birnin Zana Plaza",
+   "Color": "WG"
+  },
+  {
+   "Name": "Boiling Rock Prison",
+   "Color": "BR"
+  },
+  {
+   "Name": "Capital City",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Cascading Cataracts",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Castle Doom",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Cavern of Souls",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "City of Brass",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Command Bridge",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Conduit Pylons",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Crumbling Vestige",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Crystal Grotto",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Dark Fortress",
+   "Color": "BR"
+  },
+  {
+   "Name": "Dimension X",
+   "Color": "WR"
+  },
+  {
+   "Name": "Eclipsed Realms",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Eumidian Hatchery",
+   "Color": "B"
+  },
+  {
+   "Name": "Evendo, Waking Haven",
+   "Color": "G"
+  },
+  {
+   "Name": "Fields of Strife",
+   "Color": "WR"
+  },
+  {
+   "Name": "Fire Nation Palace",
+   "Color": "R"
+  },
+  {
+   "Name": "Fisk Tower",
+   "Color": "WB"
+  },
+  {
+   "Name": "Foot Headquarters",
+   "Color": "WB"
+  },
+  {
+   "Name": "Forbidden Orchard",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Forum of Amity",
+   "Color": "WB"
+  },
+  {
+   "Name": "Gathering Place",
+   "Color": "WG"
+  },
+  {
+   "Name": "Gemstone Caverns",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Gemstone Mine",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Gleaming Bastion",
+   "Color": "WU"
+  },
+  {
+   "Name": "Glimmervoid",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Great Hall of the Biblioplex",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Hall of Oracles",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Heap Gate",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Hell's Kitchen",
+   "Color": "BR"
+  },
+  {
+   "Name": "Hidden Grotto",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Hidden Lair",
+   "Color": "UB"
+  },
+  {
+   "Name": "Holdout Settlement",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Interplanar Beacon",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Jasmine Dragon Tea Shop",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Kavaron, Memorial World",
+   "Color": "R"
+  },
+  {
+   "Name": "Lazotep Quarry",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Los Diablos Missile Base",
+   "Color": "RG"
+  },
+  {
+   "Name": "Lotus Field",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Maelstrom of the Spirit Dragon",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Mana Confluence",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Meditation Pools",
+   "Color": "UG"
+  },
+  {
+   "Name": "Mirrex",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Nykthos, Shrine to Nyx",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Oscorp Industries",
+   "Color": "UBR"
+  },
+  {
+   "Name": "Paradox Gardens",
+   "Color": "UG"
+  },
+  {
+   "Name": "Pit of Offerings",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Planar Nexus",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Plaza of Heroes",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Power Depot",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Pym Technologies",
+   "Color": "UG"
+  },
+  {
+   "Name": "Rain-Slicked Copse",
+   "Color": "UG"
+  },
+  {
+   "Name": "Realm of Koh",
+   "Color": "B"
+  },
+  {
+   "Name": "Roiling Canopy",
+   "Color": "G"
+  },
+  {
+   "Name": "Scene of the Crime",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Secluded Courtyard",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Shimmerdrift Vale",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Sinister Hideout",
+   "Color": "UB"
+  },
+  {
+   "Name": "Spectacle Summit",
+   "Color": "UR"
+  },
+  {
+   "Name": "Spire of Industry",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Stark Industries",
+   "Color": "UR"
+  },
+  {
+   "Name": "Starting Town",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Subterranean Cavern",
+   "Color": "BG"
+  },
+  {
+   "Name": "Sunken Citadel",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Surveillance Room",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Survivors' Encampment",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Susur Secundi, Void Altar",
+   "Color": "B"
+  },
+  {
+   "Name": "Talon Gates of Madara",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Tarnation Vista",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "The Lonely Mountain",
+   "Color": "R"
+  },
+  {
+   "Name": "The Mycosynth Gardens",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Theorist's Sanctum",
+   "Color": "U"
+  },
+  {
+   "Name": "Theorix Annex",
+   "Color": "UB"
+  },
+  {
+   "Name": "Three Tree City",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Titan's Grave",
+   "Color": "BG"
+  },
+  {
+   "Name": "Training Compound",
+   "Color": "RG"
+  },
+  {
+   "Name": "Transformative Commons",
+   "Color": "UG"
+  },
+  {
+   "Name": "Unclaimed Territory",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "University Campus",
+   "Color": "WU"
+  },
+  {
+   "Name": "Urban Retreat",
+   "Color": "WUG"
+  },
+  {
+   "Name": "Urborg, Tomb of Yawgmoth",
+   "Color": "B"
+  },
+  {
+   "Name": "Uthros, Titanic Godcore",
+   "Color": "U"
+  },
+  {
+   "Name": "Valgavoth's Lair",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Yavimaya, Cradle of Growth",
+   "Color": "G"
+  }
+ ],
+ "NonLands": [
+  {
+   "Name": "A.I.M. Scientists",
+   "Color": "U"
+  },
+  {
+   "Name": "Aang's Iceberg",
+   "Color": "W"
+  },
+  {
+   "Name": "Aang, Swift Savior",
+   "Color": "WU"
+  },
+  {
+   "Name": "Aang, at the Crossroads",
+   "Color": "WUG"
+  },
+  {
+   "Name": "Abandon Attachments",
+   "Color": "UR"
+  },
+  {
+   "Name": "Abigale, Eloquent First-Year",
+   "Color": "WB"
+  },
+  {
+   "Name": "Abomination, Terrifying Titan",
+   "Color": "RG"
+  },
+  {
+   "Name": "Absorbing Man",
+   "Color": "UG"
+  },
+  {
+   "Name": "Accumulate Wisdom",
+   "Color": "U"
+  },
+  {
+   "Name": "Act of Aggression",
+   "Color": "R"
+  },
+  {
+   "Name": "Adept Watershaper",
+   "Color": "W"
+  },
+  {
+   "Name": "Adventurous Eater // Have a Bite",
+   "Color": "B"
+  },
+  {
+   "Name": "Aerial Doombot",
+   "Color": "U"
+  },
+  {
+   "Name": "Aerid Konstrari",
+   "Color": "RG"
+  },
+  {
+   "Name": "Agent 13, Sharon Carter",
+   "Color": "W"
+  },
+  {
+   "Name": "Agent Maria Hill",
+   "Color": "W"
+  },
+  {
+   "Name": "Agent Phil Coulson",
+   "Color": "W"
+  },
+  {
+   "Name": "Agent of Atlas",
+   "Color": "W"
+  },
+  {
+   "Name": "Agents of HYDRA",
+   "Color": "B"
+  },
+  {
+   "Name": "Agents of S.H.I.E.L.D.",
+   "Color": "W"
+  },
+  {
+   "Name": "Air Nomad Legacy",
+   "Color": "WU"
+  },
+  {
+   "Name": "Airbender Ascension",
+   "Color": "W"
+  },
+  {
+   "Name": "Airbender's Reversal",
+   "Color": "W"
+  },
+  {
+   "Name": "Airbending Lesson",
+   "Color": "W"
+  },
+  {
+   "Name": "Ajani Resolute",
+   "Color": "W"
+  },
+  {
+   "Name": "Ajani Unrelenting",
+   "Color": "R"
+  },
+  {
+   "Name": "Ajani's Anguish",
+   "Color": "R"
+  },
+  {
+   "Name": "Ajani's Response",
+   "Color": "W"
+  },
+  {
+   "Name": "Ajani, Outland Chaperone",
+   "Color": "W"
+  },
+  {
+   "Name": "Alien Invasion",
+   "Color": "RG"
+  },
+  {
+   "Name": "All-Fates Stalker",
+   "Color": "W"
+  },
+  {
+   "Name": "Allies at Last",
+   "Color": "G"
+  },
+  {
+   "Name": "Alpharael, Dreaming Acolyte",
+   "Color": "UB"
+  },
+  {
+   "Name": "Ambitious Augmenter",
+   "Color": "G"
+  },
+  {
+   "Name": "Anchovy & Banana Pizza",
+   "Color": "B"
+  },
+  {
+   "Name": "Ant-Man's Army",
+   "Color": "G"
+  },
+  {
+   "Name": "Ant-Man, Colony Commander",
+   "Color": "UG"
+  },
+  {
+   "Name": "Antiquities on the Loose",
+   "Color": "W"
+  },
+  {
+   "Name": "Apostle's Blessing",
+   "Color": "W"
+  },
+  {
+   "Name": "Appa, Steadfast Guardian",
+   "Color": "W"
+  },
+  {
+   "Name": "April O'Neil, Hacktivist",
+   "Color": "U"
+  },
+  {
+   "Name": "Arachne, Psionic Weaver",
+   "Color": "W"
+  },
+  {
+   "Name": "Araña, Heart of the Spider",
+   "Color": "WR"
+  },
+  {
+   "Name": "Arcane Amphisbaena",
+   "Color": "G"
+  },
+  {
+   "Name": "Arcane Omens",
+   "Color": "B"
+  },
+  {
+   "Name": "Archenemy's Charm",
+   "Color": "B"
+  },
+  {
+   "Name": "Ares, God of War",
+   "Color": "BR"
+  },
+  {
+   "Name": "Ark of Hunger",
+   "Color": "WR"
+  },
+  {
+   "Name": "Armaggon, Future Shark",
+   "Color": "B"
+  },
+  {
+   "Name": "Arni, Humble Scribe",
+   "Color": "U"
+  },
+  {
+   "Name": "Arnyn, Deathbloom Botanist",
+   "Color": "B"
+  },
+  {
+   "Name": "Ascendant Dustspeaker",
+   "Color": "W"
+  },
+  {
+   "Name": "Ashiok, Dream Render",
+   "Color": "UB"
+  },
+  {
+   "Name": "Ashling's Command",
+   "Color": "UR"
+  },
+  {
+   "Name": "Ashling, Rekindled",
+   "Color": "R"
+  },
+  {
+   "Name": "Astelli Reclaimer",
+   "Color": "W"
+  },
+  {
+   "Name": "Atlantean Cavalry",
+   "Color": "U"
+  },
+  {
+   "Name": "Atlantis Attacks",
+   "Color": "U"
+  },
+  {
+   "Name": "Attuma, Atlantean Warlord",
+   "Color": "U"
+  },
+  {
+   "Name": "Aunt May",
+   "Color": "W"
+  },
+  {
+   "Name": "Auntie's Sentence",
+   "Color": "B"
+  },
+  {
+   "Name": "Aurora Awakener",
+   "Color": "G"
+  },
+  {
+   "Name": "Avatar of Burgeoning Echoes",
+   "Color": "UG"
+  },
+  {
+   "Name": "Avatar's Wrath",
+   "Color": "W"
+  },
+  {
+   "Name": "Avengers Disassembled",
+   "Color": "R"
+  },
+  {
+   "Name": "Avengers: Under Siege",
+   "Color": "BR"
+  },
+  {
+   "Name": "Azog, Moria's Ruin",
+   "Color": "B"
+  },
+  {
+   "Name": "Azor's Elocutors",
+   "Color": "WU"
+  },
+  {
+   "Name": "Badgermole Cub",
+   "Color": "G"
+  },
+  {
+   "Name": "Baron Helmut Zemo",
+   "Color": "B"
+  },
+  {
+   "Name": "Beast, Erudite Aerialist",
+   "Color": "UG"
+  },
+  {
+   "Name": "Bejeweled Warg",
+   "Color": "G"
+  },
+  {
+   "Name": "Belladonna Took",
+   "Color": "W"
+  },
+  {
+   "Name": "Beorn the Fierce",
+   "Color": "G"
+  },
+  {
+   "Name": "Beorn's Hospitality",
+   "Color": "G"
+  },
+  {
+   "Name": "Beseech the Queen",
+   "Color": "B"
+  },
+  {
+   "Name": "Bestial Incursion",
+   "Color": "G"
+  },
+  {
+   "Name": "Beyond the Quiet",
+   "Color": "W"
+  },
+  {
+   "Name": "Bilbo Baggins, Burglar",
+   "Color": "U"
+  },
+  {
+   "Name": "Bilbo's Gambit",
+   "Color": "W"
+  },
+  {
+   "Name": "Bilbo, Thief in the Night",
+   "Color": "U"
+  },
+  {
+   "Name": "Biotech Specialist",
+   "Color": "RG"
+  },
+  {
+   "Name": "Bitterbloom Bearer",
+   "Color": "B"
+  },
+  {
+   "Name": "Black Cat, Cunning Thief",
+   "Color": "B"
+  },
+  {
+   "Name": "Black Panther, Vanguard",
+   "Color": "WG"
+  },
+  {
+   "Name": "Black Widow, Double Agent",
+   "Color": "WB"
+  },
+  {
+   "Name": "Black Widow, Super Spy",
+   "Color": "B"
+  },
+  {
+   "Name": "Blade Historian",
+   "Color": "WR"
+  },
+  {
+   "Name": "Blazing Firesinger // Seething Song",
+   "Color": "R"
+  },
+  {
+   "Name": "Blech, Loafing Pest",
+   "Color": "BG"
+  },
+  {
+   "Name": "Bloodsoaked Insight",
+   "Color": "BR"
+  },
+  {
+   "Name": "Bofur, Reliable Guardian",
+   "Color": "W"
+  },
+  {
+   "Name": "Boggart Cursecrafter",
+   "Color": "BR"
+  },
+  {
+   "Name": "Boggart Mischief",
+   "Color": "B"
+  },
+  {
+   "Name": "Bogslither's Embrace",
+   "Color": "B"
+  },
+  {
+   "Name": "Boiling Rock Rioter",
+   "Color": "B"
+  },
+  {
+   "Name": "Bold Biochemist",
+   "Color": "U"
+  },
+  {
+   "Name": "Bolg's Company",
+   "Color": "BR"
+  },
+  {
+   "Name": "Boomerang Basics",
+   "Color": "U"
+  },
+  {
+   "Name": "Boomerang, Blade Flinger",
+   "Color": "B"
+  },
+  {
+   "Name": "Borough Backup",
+   "Color": "W"
+  },
+  {
+   "Name": "Borrowed Knowledge",
+   "Color": "WR"
+  },
+  {
+   "Name": "Brave Brawler",
+   "Color": "W"
+  },
+  {
+   "Name": "Break Under Pressure",
+   "Color": "B"
+  },
+  {
+   "Name": "Bruce Banner",
+   "Color": "U"
+  },
+  {
+   "Name": "Brush Off",
+   "Color": "U"
+  },
+  {
+   "Name": "Budding Insurgent",
+   "Color": "G"
+  },
+  {
+   "Name": "Bullseye, Death Dealer",
+   "Color": "BR"
+  },
+  {
+   "Name": "Burning Curiosity",
+   "Color": "R"
+  },
+  {
+   "Name": "Burning-Tree Emissary",
+   "Color": "RG"
+  },
+  {
+   "Name": "Call Damage Control",
+   "Color": "G"
+  },
+  {
+   "Name": "Callous Inspector",
+   "Color": "B"
+  },
+  {
+   "Name": "Cantankerous Keepers",
+   "Color": "G"
+  },
+  {
+   "Name": "Captain America, Living Legend",
+   "Color": "WU"
+  },
+  {
+   "Name": "Captain America, Super-Soldier",
+   "Color": "W"
+  },
+  {
+   "Name": "Captain America, Wings of Freedom",
+   "Color": "W"
+  },
+  {
+   "Name": "Captain Mar-Vell, Space-Born",
+   "Color": "W"
+  },
+  {
+   "Name": "Captain Marvel, Earth's Protector",
+   "Color": "W"
+  },
+  {
+   "Name": "Carnage, Crimson Chaos",
+   "Color": "BR"
+  },
+  {
+   "Name": "Carnivorous Cultivator",
+   "Color": "G"
+  },
+  {
+   "Name": "Carnivorous Cultivator // Enroot",
+   "Color": "G"
+  },
+  {
+   "Name": "Casey Jones, Vigilante",
+   "Color": "R"
+  },
+  {
+   "Name": "Catharsis",
+   "Color": "WR"
+  },
+  {
+   "Name": "Cauldron of Essence",
+   "Color": "BG"
+  },
+  {
+   "Name": "Cease // Desist",
+   "Color": "WBG"
+  },
+  {
+   "Name": "Cease/Desist",
+   "Color": "WBG"
+  },
+  {
+   "Name": "Celestial Reunion",
+   "Color": "G"
+  },
+  {
+   "Name": "Chameleon, Master of Disguise",
+   "Color": "U"
+  },
+  {
+   "Name": "Champion of the Weird",
+   "Color": "B"
+  },
+  {
+   "Name": "Champions of the Perfect",
+   "Color": "G"
+  },
+  {
+   "Name": "Champions of the Shoal",
+   "Color": "U"
+  },
+  {
+   "Name": "Chandra's Emberling",
+   "Color": "R"
+  },
+  {
+   "Name": "Chandra, Chill of Compliance",
+   "Color": "U"
+  },
+  {
+   "Name": "Chief Warg's Company",
+   "Color": "BG"
+  },
+  {
+   "Name": "Chomping Changeling",
+   "Color": "G"
+  },
+  {
+   "Name": "Clachan Festival",
+   "Color": "W"
+  },
+  {
+   "Name": "Claim the Kingdom",
+   "Color": "G"
+  },
+  {
+   "Name": "Clash of Elements",
+   "Color": "UR"
+  },
+  {
+   "Name": "Cloak and Dagger, Entwined",
+   "Color": "WB"
+  },
+  {
+   "Name": "Close Encounter",
+   "Color": "G"
+  },
+  {
+   "Name": "Collective Inferno",
+   "Color": "R"
+  },
+  {
+   "Name": "Colleen Wing, Street Samurai",
+   "Color": "W"
+  },
+  {
+   "Name": "Colorstorm Stallion",
+   "Color": "UR"
+  },
+  {
+   "Name": "Combustion Technique",
+   "Color": "R"
+  },
+  {
+   "Name": "Compel Brutality",
+   "Color": "G"
+  },
+  {
+   "Name": "Consult the Star Charts",
+   "Color": "U"
+  },
+  {
+   "Name": "Cool but Rude",
+   "Color": "R"
+  },
+  {
+   "Name": "Cosmogoyf",
+   "Color": "BG"
+  },
+  {
+   "Name": "Cosmogrand Zenith",
+   "Color": "W"
+  },
+  {
+   "Name": "Council of Reeds",
+   "Color": "U"
+  },
+  {
+   "Name": "Countersculpt",
+   "Color": "U"
+  },
+  {
+   "Name": "Crime/Punishment",
+   "Color": "WBG"
+  },
+  {
+   "Name": "Crimson Operative",
+   "Color": "R"
+  },
+  {
+   "Name": "Crossbones, Malicious Mercenary",
+   "Color": "B"
+  },
+  {
+   "Name": "Crossover Collaboration",
+   "Color": "R"
+  },
+  {
+   "Name": "Crowd of True Believers",
+   "Color": "W"
+  },
+  {
+   "Name": "Cruel Alliance",
+   "Color": "B"
+  },
+  {
+   "Name": "Cruel Calculations",
+   "Color": "U"
+  },
+  {
+   "Name": "Cryogen Relic",
+   "Color": "U"
+  },
+  {
+   "Name": "Cryoshatter",
+   "Color": "U"
+  },
+  {
+   "Name": "Cunning Nightbonder",
+   "Color": "UB"
+  },
+  {
+   "Name": "Curious Farm Animals",
+   "Color": "W"
+  },
+  {
+   "Name": "Cut Propulsion",
+   "Color": "R"
+  },
+  {
+   "Name": "Dai Li Indoctrination",
+   "Color": "B"
+  },
+  {
+   "Name": "Dancing from Dark to Dawn",
+   "Color": "G"
+  },
+  {
+   "Name": "Dark Deed",
+   "Color": "B"
+  },
+  {
+   "Name": "Dark Leo & Shredder",
+   "Color": "WB"
+  },
+  {
+   "Name": "Dark Matter Manipulator",
+   "Color": "B"
+  },
+  {
+   "Name": "Darklight Phoenix",
+   "Color": "B"
+  },
+  {
+   "Name": "Dawnhand Dissident",
+   "Color": "B"
+  },
+  {
+   "Name": "Day of Black Sun",
+   "Color": "B"
+  },
+  {
+   "Name": "Daydream",
+   "Color": "W"
+  },
+  {
+   "Name": "Deadly Precision",
+   "Color": "B"
+  },
+  {
+   "Name": "Death in the Family",
+   "Color": "B"
+  },
+  {
+   "Name": "Death to Our Enemies",
+   "Color": "R"
+  },
+  {
+   "Name": "Deathrite Shaman",
+   "Color": "BG"
+  },
+  {
+   "Name": "Deceit",
+   "Color": "UB"
+  },
+  {
+   "Name": "Decorum Dissertation",
+   "Color": "B"
+  },
+  {
+   "Name": "Decoy Ploy",
+   "Color": "B"
+  },
+  {
+   "Name": "Deepway Navigator",
+   "Color": "WU"
+  },
+  {
+   "Name": "Denzilore Fatehold",
+   "Color": "WU"
+  },
+  {
+   "Name": "Depower",
+   "Color": "U"
+  },
+  {
+   "Name": "Desolation Prowler",
+   "Color": "B"
+  },
+  {
+   "Name": "Desolation of Smaug",
+   "Color": "R"
+  },
+  {
+   "Name": "Desperate Plea",
+   "Color": "B"
+  },
+  {
+   "Name": "Devastating Onslaught",
+   "Color": "R"
+  },
+  {
+   "Name": "Dig Site Inventory",
+   "Color": "W"
+  },
+  {
+   "Name": "Dina's Guidance",
+   "Color": "BG"
+  },
+  {
+   "Name": "Dismember",
+   "Color": "B"
+  },
+  {
+   "Name": "Disruptor of Currents",
+   "Color": "U"
+  },
+  {
+   "Name": "Dissection Practice",
+   "Color": "B"
+  },
+  {
+   "Name": "Divergent Equation",
+   "Color": "U"
+  },
+  {
+   "Name": "Divert Disaster",
+   "Color": "U"
+  },
+  {
+   "Name": "Diviner of Victory // Unwind History",
+   "Color": "U"
+  },
+  {
+   "Name": "Divining Duelist",
+   "Color": "U"
+  },
+  {
+   "Name": "Doc Samson, Super Psychiatrist",
+   "Color": "G"
+  },
+  {
+   "Name": "Doctor Doom",
+   "Color": "B"
+  },
+  {
+   "Name": "Doctor Doom, Unrivaled",
+   "Color": "B"
+  },
+  {
+   "Name": "Does Machines",
+   "Color": "U"
+  },
+  {
+   "Name": "Dori, Bearer of Friends",
+   "Color": "R"
+  },
+  {
+   "Name": "Dovin, Hand of Control",
+   "Color": "WU"
+  },
+  {
+   "Name": "Down in the Valley",
+   "Color": "G"
+  },
+  {
+   "Name": "Down, Down to Goblin-town",
+   "Color": "B"
+  },
+  {
+   "Name": "Draconic Visitor",
+   "Color": "R"
+  },
+  {
+   "Name": "Dream Beavers",
+   "Color": "B"
+  },
+  {
+   "Name": "Duel Tactics",
+   "Color": "R"
+  },
+  {
+   "Name": "Dundoolin Weaver",
+   "Color": "G"
+  },
+  {
+   "Name": "Dwalin, Weaponmaster",
+   "Color": "WR"
+  },
+  {
+   "Name": "Dwarven Mauler",
+   "Color": "R"
+  },
+  {
+   "Name": "Dyadrine, Synthesis Amalgam",
+   "Color": "WG"
+  },
+  {
+   "Name": "Dáin Ironfoot",
+   "Color": "R"
+  },
+  {
+   "Name": "Dáin's Company",
+   "Color": "WR"
+  },
+  {
+   "Name": "Earth King's Lieutenant",
+   "Color": "WG"
+  },
+  {
+   "Name": "Earth Kingdom Jailer",
+   "Color": "W"
+  },
+  {
+   "Name": "Earth Kingdom Protectors",
+   "Color": "W"
+  },
+  {
+   "Name": "Earth's Mightiest Heroes",
+   "Color": "G"
+  },
+  {
+   "Name": "Earthbender Ascension",
+   "Color": "G"
+  },
+  {
+   "Name": "Earthbending Lesson",
+   "Color": "G"
+  },
+  {
+   "Name": "Earthen Ally",
+   "Color": "G"
+  },
+  {
+   "Name": "Eclipsed Boggart",
+   "Color": "BR"
+  },
+  {
+   "Name": "Eddie Brock",
+   "Color": "B"
+  },
+  {
+   "Name": "Edgar, Ancient Bloodlord",
+   "Color": "WB"
+  },
+  {
+   "Name": "Edge Rover",
+   "Color": "G"
+  },
+  {
+   "Name": "Eirdu, Carrier of Dawn",
+   "Color": "W"
+  },
+  {
+   "Name": "Electro, Assaulting Battery",
+   "Color": "R"
+  },
+  {
+   "Name": "Elegy Acolyte",
+   "Color": "B"
+  },
+  {
+   "Name": "Elektra, Daughter of the Hand",
+   "Color": "B"
+  },
+  {
+   "Name": "Elemental Mascot",
+   "Color": "UR"
+  },
+  {
+   "Name": "Elite Interceptor",
+   "Color": "W"
+  },
+  {
+   "Name": "Elven Raft-Steerer",
+   "Color": "U"
+  },
+  {
+   "Name": "Embrace the Paradox",
+   "Color": "UG"
+  },
+  {
+   "Name": "Emergency Eject",
+   "Color": "W"
+  },
+  {
+   "Name": "Emeritus of Abundance",
+   "Color": "G"
+  },
+  {
+   "Name": "Emeritus of Abundance // Regrowth",
+   "Color": "G"
+  },
+  {
+   "Name": "Emeritus of Conflict // Lightning Bolt",
+   "Color": "R"
+  },
+  {
+   "Name": "Emeritus of Ideation",
+   "Color": "U"
+  },
+  {
+   "Name": "Emeritus of Ideation // Ancestral Recall",
+   "Color": "U"
+  },
+  {
+   "Name": "Emeritus of Truce",
+   "Color": "W"
+  },
+  {
+   "Name": "Emeritus of Woe // Demonic Tutor",
+   "Color": "B"
+  },
+  {
+   "Name": "Emil, Vastlands Roamer",
+   "Color": "G"
+  },
+  {
+   "Name": "Emptiness",
+   "Color": "WB"
+  },
+  {
+   "Name": "Enchanted Evening",
+   "Color": "WU"
+  },
+  {
+   "Name": "Enchanted River's Grasp",
+   "Color": "U"
+  },
+  {
+   "Name": "End of the Hunt",
+   "Color": "B"
+  },
+  {
+   "Name": "Enlightened Confidant",
+   "Color": "W"
+  },
+  {
+   "Name": "Enter the Avatar State",
+   "Color": "W"
+  },
+  {
+   "Name": "Entropic Battlecruiser",
+   "Color": "B"
+  },
+  {
+   "Name": "Environmental Scientist",
+   "Color": "G"
+  },
+  {
+   "Name": "Erode",
+   "Color": "W"
+  },
+  {
+   "Name": "Essence Burn",
+   "Color": "R"
+  },
+  {
+   "Name": "Eumidian Terrabotanist",
+   "Color": "G"
+  },
+  {
+   "Name": "Everlasting Torment",
+   "Color": "BR"
+  },
+  {
+   "Name": "Evil's Thrall",
+   "Color": "R"
+  },
+  {
+   "Name": "Exalted Sunborn",
+   "Color": "W"
+  },
+  {
+   "Name": "Exhibition Tidecaller",
+   "Color": "U"
+  },
+  {
+   "Name": "Explosive Prodigy",
+   "Color": "R"
+  },
+  {
+   "Name": "Expressive Firedancer",
+   "Color": "R"
+  },
+  {
+   "Name": "Extrapolate the Impossible",
+   "Color": "B"
+  },
+  {
+   "Name": "Falcon, Winged Wonder",
+   "Color": "U"
+  },
+  {
+   "Name": "Famished Worldsire",
+   "Color": "G"
+  },
+  {
+   "Name": "Fantastic Elasticity",
+   "Color": "U"
+  },
+  {
+   "Name": "Fatehold Charm",
+   "Color": "WU"
+  },
+  {
+   "Name": "Fblthp, Impossibly Lost",
+   "Color": "U"
+  },
+  {
+   "Name": "Ferocity of the Hunt",
+   "Color": "BG"
+  },
+  {
+   "Name": "Fiend Artisan",
+   "Color": "BG"
+  },
+  {
+   "Name": "Figure of Fable",
+   "Color": "WG"
+  },
+  {
+   "Name": "Fin Fang Foom",
+   "Color": "R"
+  },
+  {
+   "Name": "Firebender Ascension",
+   "Color": "R"
+  },
+  {
+   "Name": "Firebending Lesson",
+   "Color": "R"
+  },
+  {
+   "Name": "Firebending Student",
+   "Color": "R"
+  },
+  {
+   "Name": "Firespout",
+   "Color": "RG"
+  },
+  {
+   "Name": "Flamebraider",
+   "Color": "R"
+  },
+  {
+   "Name": "Flashback",
+   "Color": "R"
+  },
+  {
+   "Name": "Flickering Hound",
+   "Color": "W"
+  },
+  {
+   "Name": "Flitterwing Nuisance",
+   "Color": "U"
+  },
+  {
+   "Name": "Flourishing Grapple",
+   "Color": "G"
+  },
+  {
+   "Name": "Flow State",
+   "Color": "U"
+  },
+  {
+   "Name": "Foggy Swamp Visions",
+   "Color": "B"
+  },
+  {
+   "Name": "Foot Ninjas",
+   "Color": "WB"
+  },
+  {
+   "Name": "Formidable Speaker",
+   "Color": "G"
+  },
+  {
+   "Name": "Fracturing Gust",
+   "Color": "WG"
+  },
+  {
+   "Name": "Frenzied Baloth",
+   "Color": "G"
+  },
+  {
+   "Name": "Frozen in Ice",
+   "Color": "U"
+  },
+  {
+   "Name": "Full Bore",
+   "Color": "R"
+  },
+  {
+   "Name": "Fulminator Mage",
+   "Color": "BR"
+  },
+  {
+   "Name": "Fulminous Forte",
+   "Color": "R"
+  },
+  {
+   "Name": "Fungal Colossus",
+   "Color": "G"
+  },
+  {
+   "Name": "Futurist Forge",
+   "Color": "U"
+  },
+  {
+   "Name": "Fíli the Pathfinder",
+   "Color": "W"
+  },
+  {
+   "Name": "Gandalf, Goblins' Bane",
+   "Color": "R"
+  },
+  {
+   "Name": "Gandalf, Wandering Wizard",
+   "Color": "U"
+  },
+  {
+   "Name": "Gangly Stompling",
+   "Color": "RG"
+  },
+  {
+   "Name": "Garruk, Curse Breaker",
+   "Color": "G"
+  },
+  {
+   "Name": "Garruk, Veiled Butcher",
+   "Color": "B"
+  },
+  {
+   "Name": "Geist of Saint Thalia",
+   "Color": "U"
+  },
+  {
+   "Name": "Gene Pollinator",
+   "Color": "G"
+  },
+  {
+   "Name": "Genemorph Imago",
+   "Color": "UG"
+  },
+  {
+   "Name": "Germinate Recruits",
+   "Color": "W"
+  },
+  {
+   "Name": "Germination Practicum",
+   "Color": "G"
+  },
+  {
+   "Name": "Ghost, Spectral Saboteur",
+   "Color": "UB"
+  },
+  {
+   "Name": "Giant-Sized Flying Ant",
+   "Color": "U"
+  },
+  {
+   "Name": "Gideon the Oathless",
+   "Color": "B"
+  },
+  {
+   "Name": "Gideon's Memorial",
+   "Color": "W"
+  },
+  {
+   "Name": "Gift of Orzhova",
+   "Color": "WB"
+  },
+  {
+   "Name": "Gigantic Big Bear",
+   "Color": "G"
+  },
+  {
+   "Name": "Gigastorm Titan",
+   "Color": "U"
+  },
+  {
+   "Name": "Gitaxian Probe",
+   "Color": "U"
+  },
+  {
+   "Name": "Glasswing Grace",
+   "Color": "WB"
+  },
+  {
+   "Name": "Gleaming Splendor",
+   "Color": "W"
+  },
+  {
+   "Name": "Glen Elendra Guardian",
+   "Color": "U"
+  },
+  {
+   "Name": "Glen Elendra's Answer",
+   "Color": "U"
+  },
+  {
+   "Name": "Glider Staff",
+   "Color": "W"
+  },
+  {
+   "Name": "Glorious Decay",
+   "Color": "G"
+  },
+  {
+   "Name": "Glóin the Mighty",
+   "Color": "R"
+  },
+  {
+   "Name": "Go Nuts!",
+   "Color": "G"
+  },
+  {
+   "Name": "Goblin Plate Mail",
+   "Color": "BR"
+  },
+  {
+   "Name": "Gollum the Abandoned",
+   "Color": "B"
+  },
+  {
+   "Name": "Gollum, Riddle Master",
+   "Color": "B"
+  },
+  {
+   "Name": "Gran-Gran",
+   "Color": "U"
+  },
+  {
+   "Name": "Grapple with Death",
+   "Color": "BG"
+  },
+  {
+   "Name": "Grave Researcher // Reanimate",
+   "Color": "B"
+  },
+  {
+   "Name": "Great Divide Guide",
+   "Color": "G"
+  },
+  {
+   "Name": "Great Forest Druid",
+   "Color": "G"
+  },
+  {
+   "Name": "Greenhouse Propagator",
+   "Color": "G"
+  },
+  {
+   "Name": "Grim Reaper, Lethal Legionnaire",
+   "Color": "B"
+  },
+  {
+   "Name": "Group Project",
+   "Color": "W"
+  },
+  {
+   "Name": "Grub's Command",
+   "Color": "BR"
+  },
+  {
+   "Name": "Grub, Storied Matriarch",
+   "Color": "B"
+  },
+  {
+   "Name": "Guerrilla Gorilla",
+   "Color": "G"
+  },
+  {
+   "Name": "Guiding Hydra",
+   "Color": "W"
+  },
+  {
+   "Name": "Gut Shot",
+   "Color": "R"
+  },
+  {
+   "Name": "Guttural Response",
+   "Color": "RG"
+  },
+  {
+   "Name": "Gwen Stacy",
+   "Color": "R"
+  },
+  {
+   "Name": "Gyruda, Doom of Depths",
+   "Color": "UB"
+  },
+  {
+   "Name": "HULK SMASH!",
+   "Color": "R"
+  },
+  {
+   "Name": "HYDRA Assault Robot",
+   "Color": "R"
+  },
+  {
+   "Name": "HYDRA Infiltration",
+   "Color": "B"
+  },
+  {
+   "Name": "HYDRA Troopers",
+   "Color": "B"
+  },
+  {
+   "Name": "Hakoda, Selfless Commander",
+   "Color": "W"
+  },
+  {
+   "Name": "Haliya, Guided by Light",
+   "Color": "W"
+  },
+  {
+   "Name": "Hapatra, the Desert Frost",
+   "Color": "U"
+  },
+  {
+   "Name": "Hardened Academic",
+   "Color": "WR"
+  },
+  {
+   "Name": "Hardlight Containment",
+   "Color": "W"
+  },
+  {
+   "Name": "Harmonized Trio",
+   "Color": "U"
+  },
+  {
+   "Name": "Hawkeye's Bow",
+   "Color": "R"
+  },
+  {
+   "Name": "Hawkeye, Master Marksman",
+   "Color": "R"
+  },
+  {
+   "Name": "Hawkeye, Young Avenger",
+   "Color": "R"
+  },
+  {
+   "Name": "Head of the Hunt",
+   "Color": "B"
+  },
+  {
+   "Name": "Heartwood Crafter",
+   "Color": "G"
+  },
+  {
+   "Name": "Heartwood Crafter // Soul Tether",
+   "Color": "G"
+  },
+  {
+   "Name": "Heated Argument",
+   "Color": "R"
+  },
+  {
+   "Name": "Helicarrier Strike",
+   "Color": "W"
+  },
+  {
+   "Name": "Hellcat, Undying Vigilante",
+   "Color": "G"
+  },
+  {
+   "Name": "Hercules, Prince of Power",
+   "Color": "G"
+  },
+  {
+   "Name": "Hero in Training",
+   "Color": "W"
+  },
+  {
+   "Name": "Heroes' Hangout",
+   "Color": "R"
+  },
+  {
+   "Name": "Hex Magic",
+   "Color": "R"
+  },
+  {
+   "Name": "Hexhaven Invigorator",
+   "Color": "G"
+  },
+  {
+   "Name": "Hexing Squelcher",
+   "Color": "R"
+  },
+  {
+   "Name": "Hide on the Ceiling",
+   "Color": "U"
+  },
+  {
+   "Name": "High Perfect Morcant",
+   "Color": "BG"
+  },
+  {
+   "Name": "Hire a Crew",
+   "Color": "R"
+  },
+  {
+   "Name": "Hogaak, Arisen Necropolis",
+   "Color": "BG"
+  },
+  {
+   "Name": "Honest Work",
+   "Color": "U"
+  },
+  {
+   "Name": "Hour of Defeat",
+   "Color": "B"
+  },
+  {
+   "Name": "How to Start a Riot",
+   "Color": "R"
+  },
+  {
+   "Name": "Hulk, Gamma Goliath",
+   "Color": "RG"
+  },
+  {
+   "Name": "Hulkling, Burgeoning Bruiser",
+   "Color": "G"
+  },
+  {
+   "Name": "Human Torch, Johnny Storm",
+   "Color": "R"
+  },
+  {
+   "Name": "Hydraulic Helper",
+   "Color": "U"
+  },
+  {
+   "Name": "Hydro-Man, Fluid Felon",
+   "Color": "U"
+  },
+  {
+   "Name": "Hylderblade",
+   "Color": "B"
+  },
+  {
+   "Name": "I Am Iron Man",
+   "Color": "U"
+  },
+  {
+   "Name": "Icetill Explorer",
+   "Color": "G"
+  },
+  {
+   "Name": "Icy Reception",
+   "Color": "U"
+  },
+  {
+   "Name": "Identity Echo",
+   "Color": "R"
+  },
+  {
+   "Name": "Imperious Inkmage",
+   "Color": "WB"
+  },
+  {
+   "Name": "Impractical Joke",
+   "Color": "R"
+  },
+  {
+   "Name": "Improvisation Capstone",
+   "Color": "R"
+  },
+  {
+   "Name": "Improvised Arsenal",
+   "Color": "R"
+  },
+  {
+   "Name": "Ingris Stingerquill",
+   "Color": "BR"
+  },
+  {
+   "Name": "Inkshape Demonstrator",
+   "Color": "W"
+  },
+  {
+   "Name": "Inside Information",
+   "Color": "B"
+  },
+  {
+   "Name": "Inside Out",
+   "Color": "UR"
+  },
+  {
+   "Name": "Inspired Tethermage",
+   "Color": "G"
+  },
+  {
+   "Name": "Invasion Reinforcements",
+   "Color": "W"
+  },
+  {
+   "Name": "Invasion Submersible",
+   "Color": "U"
+  },
+  {
+   "Name": "Iroh's Demonstration",
+   "Color": "R"
+  },
+  {
+   "Name": "Iroh, Tea Master",
+   "Color": "WR"
+  },
+  {
+   "Name": "Iron Fist, Living Weapon",
+   "Color": "R"
+  },
+  {
+   "Name": "Iron Hills Blacksmith",
+   "Color": "W"
+  },
+  {
+   "Name": "Iron Hills Stalwart",
+   "Color": "R"
+  },
+  {
+   "Name": "Iron Lad, Diverging Destiny",
+   "Color": "U"
+  },
+  {
+   "Name": "Iron Man, Master of Machines",
+   "Color": "UR"
+  },
+  {
+   "Name": "Iron-Shield Elf",
+   "Color": "B"
+  },
+  {
+   "Name": "Ironheart, Clever Champion",
+   "Color": "U"
+  },
+  {
+   "Name": "It'll Quench Ya!",
+   "Color": "U"
+  },
+  {
+   "Name": "Jace's Machinations",
+   "Color": "U"
+  },
+  {
+   "Name": "Jace, Reality Sculptor",
+   "Color": "U"
+  },
+  {
+   "Name": "Jackal, Genius Geneticist",
+   "Color": "UG"
+  },
+  {
+   "Name": "Jadzi, Steward of Fate",
+   "Color": "U"
+  },
+  {
+   "Name": "Jegantha, the Wellspring",
+   "Color": "RG"
+  },
+  {
+   "Name": "Jennifer Walters",
+   "Color": "W"
+  },
+  {
+   "Name": "Justice, Vance Astrovik",
+   "Color": "U"
+  },
+  {
+   "Name": "K'un-Lun Warrior",
+   "Color": "R"
+  },
+  {
+   "Name": "Ka-Zar of the Savage Land",
+   "Color": "G"
+  },
+  {
+   "Name": "Kaheera, the Orphanguard",
+   "Color": "WG"
+  },
+  {
+   "Name": "Kang the Conqueror",
+   "Color": "U"
+  },
+  {
+   "Name": "Kang, Temporal Tyrant",
+   "Color": "UB"
+  },
+  {
+   "Name": "Katara, the Fearless",
+   "Color": "WUG"
+  },
+  {
+   "Name": "Kavaron Harrier",
+   "Color": "R"
+  },
+  {
+   "Name": "Keruga, the Macrosage",
+   "Color": "UG"
+  },
+  {
+   "Name": "Kid Loki",
+   "Color": "U"
+  },
+  {
+   "Name": "Killmonger, Scourge of Wakanda",
+   "Color": "BG"
+  },
+  {
+   "Name": "King T'Challa",
+   "Color": "WU"
+  },
+  {
+   "Name": "Kingpin's Enforcers",
+   "Color": "B"
+  },
+  {
+   "Name": "Kinscaer Sentry",
+   "Color": "W"
+  },
+  {
+   "Name": "Kiora of Fire and Ashes",
+   "Color": "R"
+  },
+  {
+   "Name": "Kiora, Behemoth Beckoner",
+   "Color": "UG"
+  },
+  {
+   "Name": "Kirol, History Buff // Pack a Punch",
+   "Color": "WR"
+  },
+  {
+   "Name": "Kitchen Finks",
+   "Color": "WG"
+  },
+  {
+   "Name": "Kitsune's Technique",
+   "Color": "U"
+  },
+  {
+   "Name": "Klaw, Sonic Subjugator",
+   "Color": "B"
+  },
+  {
+   "Name": "Knight of Wundagore",
+   "Color": "G"
+  },
+  {
+   "Name": "Kobolds of Kher Keep",
+   "Color": "R"
+  },
+  {
+   "Name": "Konstrari Charm",
+   "Color": "RG"
+  },
+  {
+   "Name": "Koth, the Geomancer",
+   "Color": "R"
+  },
+  {
+   "Name": "Krang, Master Mind",
+   "Color": "U"
+  },
+  {
+   "Name": "Kree Commandos",
+   "Color": "W"
+  },
+  {
+   "Name": "Kree Sentinel",
+   "Color": "R"
+  },
+  {
+   "Name": "Kíli the Resourceful",
+   "Color": "W"
+  },
+  {
+   "Name": "Lake-town Lookout",
+   "Color": "W"
+  },
+  {
+   "Name": "Large Bear",
+   "Color": "BG"
+  },
+  {
+   "Name": "Lavaleaper",
+   "Color": "R"
+  },
+  {
+   "Name": "Leader, Super-Genius",
+   "Color": "U"
+  },
+  {
+   "Name": "Leatherhead, Swamp Stalker",
+   "Color": "G"
+  },
+  {
+   "Name": "Legion Leadership",
+   "Color": "WR"
+  },
+  {
+   "Name": "Leonardo's Technique",
+   "Color": "W"
+  },
+  {
+   "Name": "Leonardo, Big Brother",
+   "Color": "W"
+  },
+  {
+   "Name": "Leonardo, Cutting Edge",
+   "Color": "W"
+  },
+  {
+   "Name": "Leonardo, Leader in Blue",
+   "Color": "W"
+  },
+  {
+   "Name": "Leonardo, Sewer Samurai",
+   "Color": "W"
+  },
+  {
+   "Name": "Lessons from Life",
+   "Color": "UG"
+  },
+  {
+   "Name": "Leyline of Abundance",
+   "Color": "G"
+  },
+  {
+   "Name": "Leyline of Anticipation",
+   "Color": "U"
+  },
+  {
+   "Name": "Leyline of Combustion",
+   "Color": "R"
+  },
+  {
+   "Name": "Leyline of Hope",
+   "Color": "W"
+  },
+  {
+   "Name": "Leyline of Resonance",
+   "Color": "R"
+  },
+  {
+   "Name": "Leyline of Sanctity",
+   "Color": "W"
+  },
+  {
+   "Name": "Leyline of the Guildpact",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Leyline of the Void",
+   "Color": "B"
+  },
+  {
+   "Name": "Lich's Relic",
+   "Color": "B"
+  },
+  {
+   "Name": "Lightstall Inquisitor",
+   "Color": "W"
+  },
+  {
+   "Name": "Liliana the Faultless",
+   "Color": "W"
+  },
+  {
+   "Name": "Liliana the Repentant",
+   "Color": "B"
+  },
+  {
+   "Name": "Lita, Little Orphan Amphibian",
+   "Color": "W"
+  },
+  {
+   "Name": "Lluwen, Imperfect Naturalist",
+   "Color": "BG"
+  },
+  {
+   "Name": "Loch Mare",
+   "Color": "U"
+  },
+  {
+   "Name": "Loki Laufeyson",
+   "Color": "R"
+  },
+  {
+   "Name": "Loki, God of Mischief",
+   "Color": "U"
+  },
+  {
+   "Name": "Long Feng, Grand Secretariat",
+   "Color": "BG"
+  },
+  {
+   "Name": "Loot, the Nexus",
+   "Color": "G"
+  },
+  {
+   "Name": "Lorehold Charm",
+   "Color": "WR"
+  },
+  {
+   "Name": "Lorehold, the Historian",
+   "Color": "WR"
+  },
+  {
+   "Name": "Loyal Tutor",
+   "Color": "W"
+  },
+  {
+   "Name": "Lurrus of the Dream-Den",
+   "Color": "WB"
+  },
+  {
+   "Name": "Lutri, the Spellchaser",
+   "Color": "UR"
+  },
+  {
+   "Name": "Lyra, Archangel of Dawn",
+   "Color": "W"
+  },
+  {
+   "Name": "Lyra, Tolarian Archangel",
+   "Color": "U"
+  },
+  {
+   "Name": "M.O.D.O.K.",
+   "Color": "B"
+  },
+  {
+   "Name": "Machinesmith Automaton",
+   "Color": "R"
+  },
+  {
+   "Name": "Madame Hydra",
+   "Color": "BR"
+  },
+  {
+   "Name": "Madame Masque",
+   "Color": "B"
+  },
+  {
+   "Name": "Madame Null, Power Broker",
+   "Color": "B"
+  },
+  {
+   "Name": "Maelstrom Artisan",
+   "Color": "R"
+  },
+  {
+   "Name": "Maelstrom Artisan // Rocket Volley",
+   "Color": "R"
+  },
+  {
+   "Name": "Magmablood Archaic",
+   "Color": "R"
+  },
+  {
+   "Name": "Mai, Scornful Striker",
+   "Color": "B"
+  },
+  {
+   "Name": "Mana Sculpt",
+   "Color": "U"
+  },
+  {
+   "Name": "Manamorphose",
+   "Color": "RG"
+  },
+  {
+   "Name": "Marrow Shards",
+   "Color": "W"
+  },
+  {
+   "Name": "Marwyn, the Preserver",
+   "Color": "G"
+  },
+  {
+   "Name": "Masked Meower",
+   "Color": "R"
+  },
+  {
+   "Name": "Master of Barbs",
+   "Color": "R"
+  },
+  {
+   "Name": "Masterful Flourish",
+   "Color": "B"
+  },
+  {
+   "Name": "Mathemagics",
+   "Color": "U"
+  },
+  {
+   "Name": "Mechanized Ninja Cavalry",
+   "Color": "WR"
+  },
+  {
+   "Name": "Mechanozoa",
+   "Color": "U"
+  },
+  {
+   "Name": "Meek Attack",
+   "Color": "R"
+  },
+  {
+   "Name": "Melancholic Poet",
+   "Color": "B"
+  },
+  {
+   "Name": "Melded Moxite",
+   "Color": "R"
+  },
+  {
+   "Name": "Meltstrider's Resolve",
+   "Color": "G"
+  },
+  {
+   "Name": "Mental Misstep",
+   "Color": "U"
+  },
+  {
+   "Name": "Mica, Reader of Ruins",
+   "Color": "R"
+  },
+  {
+   "Name": "Michelangelo's Technique",
+   "Color": "G"
+  },
+  {
+   "Name": "Michelangelo, Weirdness to 11",
+   "Color": "G"
+  },
+  {
+   "Name": "Midnight Tilling",
+   "Color": "G"
+  },
+  {
+   "Name": "Mightform Harmonizer",
+   "Color": "G"
+  },
+  {
+   "Name": "Mikey & Leo, Chaos & Order",
+   "Color": "WG"
+  },
+  {
+   "Name": "Miles Morales",
+   "Color": "G"
+  },
+  {
+   "Name": "Mind Roots",
+   "Color": "BG"
+  },
+  {
+   "Name": "Mind into Matter",
+   "Color": "UG"
+  },
+  {
+   "Name": "Mindseeker Oculus",
+   "Color": "U"
+  },
+  {
+   "Name": "Mischievous Sneakling",
+   "Color": "UB"
+  },
+  {
+   "Name": "Mister Hyde, Monster Within",
+   "Color": "G"
+  },
+  {
+   "Name": "Mister Negative",
+   "Color": "WB"
+  },
+  {
+   "Name": "Misty Knight, Hero for Hire",
+   "Color": "R"
+  },
+  {
+   "Name": "Misty Mountains Raider",
+   "Color": "R"
+  },
+  {
+   "Name": "Mjölnir, Hammer of Thor",
+   "Color": "R"
+  },
+  {
+   "Name": "Mockingbird, Ace Agent",
+   "Color": "W"
+  },
+  {
+   "Name": "Mole Man, Moloid Master",
+   "Color": "G"
+  },
+  {
+   "Name": "Molten Note",
+   "Color": "WR"
+  },
+  {
+   "Name": "Molten-Core Maestro",
+   "Color": "R"
+  },
+  {
+   "Name": "Moment of Glory",
+   "Color": "W"
+  },
+  {
+   "Name": "Momo, Friendly Flier",
+   "Color": "W"
+  },
+  {
+   "Name": "Momo, Playful Pet",
+   "Color": "W"
+  },
+  {
+   "Name": "Monica Rambeau",
+   "Color": "W"
+  },
+  {
+   "Name": "Moon Girl and Devil Dinosaur",
+   "Color": "UG"
+  },
+  {
+   "Name": "Moonshadow",
+   "Color": "B"
+  },
+  {
+   "Name": "Morlun, Devourer of Spiders",
+   "Color": "B"
+  },
+  {
+   "Name": "Morningtide's Light",
+   "Color": "W"
+  },
+  {
+   "Name": "Morselhoarder",
+   "Color": "RG"
+  },
+  {
+   "Name": "Moseo, Vein's New Dean",
+   "Color": "B"
+  },
+  {
+   "Name": "Most Decrepit Old Bird",
+   "Color": "U"
+  },
+  {
+   "Name": "Mouser Foundry",
+   "Color": "R"
+  },
+  {
+   "Name": "Ms. Marvel, Kamala Khan",
+   "Color": "U"
+  },
+  {
+   "Name": "Mudbutton Cursetosser",
+   "Color": "B"
+  },
+  {
+   "Name": "Multiply by Zero",
+   "Color": "B"
+  },
+  {
+   "Name": "Murdock's Crusade",
+   "Color": "W"
+  },
+  {
+   "Name": "Mutable Explorer",
+   "Color": "G"
+  },
+  {
+   "Name": "Mutagen Man, Living Ooze",
+   "Color": "G"
+  },
+  {
+   "Name": "Mutagenic Growth",
+   "Color": "G"
+  },
+  {
+   "Name": "Namor the Sub-Mariner",
+   "Color": "U"
+  },
+  {
+   "Name": "Nature's Chant",
+   "Color": "WG"
+  },
+  {
+   "Name": "Nick Fury, Agent of S.H.I.E.L.D.",
+   "Color": "W"
+  },
+  {
+   "Name": "Night Nurse, Healer of Heroes",
+   "Color": "W"
+  },
+  {
+   "Name": "Nighthowl Pursuer",
+   "Color": "B"
+  },
+  {
+   "Name": "Ninja of the Hand",
+   "Color": "B"
+  },
+  {
+   "Name": "No Admittance",
+   "Color": "R"
+  },
+  {
+   "Name": "North Wind Avatar",
+   "Color": "UR"
+  },
+  {
+   "Name": "Nova Hellkite",
+   "Color": "R"
+  },
+  {
+   "Name": "Noxious Revival",
+   "Color": "G"
+  },
+  {
+   "Name": "Null Summoner",
+   "Color": "UB"
+  },
+  {
+   "Name": "Obosh, the Preypiercer",
+   "Color": "BR"
+  },
+  {
+   "Name": "Obsessive Pursuit",
+   "Color": "B"
+  },
+  {
+   "Name": "Octopus Form",
+   "Color": "U"
+  },
+  {
+   "Name": "Oko, Lorwyn Liege",
+   "Color": "U"
+  },
+  {
+   "Name": "Okoye, Dora Milaje Leader",
+   "Color": "W"
+  },
+  {
+   "Name": "Ominous Harvest",
+   "Color": "B"
+  },
+  {
+   "Name": "Omni-Changeling",
+   "Color": "U"
+  },
+  {
+   "Name": "Oona, Queen of the Fae",
+   "Color": "UB"
+  },
+  {
+   "Name": "Oreplate Pangolin",
+   "Color": "R"
+  },
+  {
+   "Name": "Origin of Metalbending",
+   "Color": "G"
+  },
+  {
+   "Name": "Origin of Spider-Man",
+   "Color": "W"
+  },
+  {
+   "Name": "Origin of the Avengers",
+   "Color": "W"
+  },
+  {
+   "Name": "Oroku Saki, Shredder Rising",
+   "Color": "B"
+  },
+  {
+   "Name": "Ouroboroid",
+   "Color": "G"
+  },
+  {
+   "Name": "Overwrite the Multiverse",
+   "Color": "B"
+  },
+  {
+   "Name": "Owlin Historian",
+   "Color": "W"
+  },
+  {
+   "Name": "Ozai's Cruelty",
+   "Color": "B"
+  },
+  {
+   "Name": "Pact of Negation",
+   "Color": "U"
+  },
+  {
+   "Name": "Panther Pounce",
+   "Color": "W"
+  },
+  {
+   "Name": "Party Dude",
+   "Color": "G"
+  },
+  {
+   "Name": "Patient Instructor",
+   "Color": "WU"
+  },
+  {
+   "Name": "Perfected Theory",
+   "Color": "U"
+  },
+  {
+   "Name": "Perigee Beckoner",
+   "Color": "B"
+  },
+  {
+   "Name": "Pest Summoning",
+   "Color": "BG"
+  },
+  {
+   "Name": "Pet Avengers",
+   "Color": "G"
+  },
+  {
+   "Name": "Phoenix Fleet Airship",
+   "Color": "B"
+  },
+  {
+   "Name": "Photon Blast Barrage",
+   "Color": "R"
+  },
+  {
+   "Name": "Phyrexian Metamorph",
+   "Color": "U"
+  },
+  {
+   "Name": "Pia, Aether Ascetic",
+   "Color": "G"
+  },
+  {
+   "Name": "Pictures of Spider-Man",
+   "Color": "G"
+  },
+  {
+   "Name": "Pinecone Strike",
+   "Color": "R"
+  },
+  {
+   "Name": "Pinnacle Emissary",
+   "Color": "UR"
+  },
+  {
+   "Name": "Pinnacle Starcage",
+   "Color": "W"
+  },
+  {
+   "Name": "Plan for All Outcomes",
+   "Color": "U"
+  },
+  {
+   "Name": "Planar Engineering",
+   "Color": "G"
+  },
+  {
+   "Name": "Plasma Bolt",
+   "Color": "R"
+  },
+  {
+   "Name": "Plunder the Trollshaws",
+   "Color": "U"
+  },
+  {
+   "Name": "Political Triumph",
+   "Color": "W"
+  },
+  {
+   "Name": "Pompous Battlemage",
+   "Color": "R"
+  },
+  {
+   "Name": "Pompous Battlemage // Improvised Act",
+   "Color": "R"
+  },
+  {
+   "Name": "Pond Prophet",
+   "Color": "UG"
+  },
+  {
+   "Name": "Postmortem Lunge",
+   "Color": "B"
+  },
+  {
+   "Name": "Postmortem Professor",
+   "Color": "B"
+  },
+  {
+   "Name": "Powerful Broker",
+   "Color": "G"
+  },
+  {
+   "Name": "Practiced Offense",
+   "Color": "W"
+  },
+  {
+   "Name": "Precise Redaction",
+   "Color": "U"
+  },
+  {
+   "Name": "Prehistoric Pet",
+   "Color": "W"
+  },
+  {
+   "Name": "Price of Freedom",
+   "Color": "R"
+  },
+  {
+   "Name": "Prideful Feastling",
+   "Color": "WB"
+  },
+  {
+   "Name": "Primordial Pachyderm",
+   "Color": "G"
+  },
+  {
+   "Name": "Prismari Charm",
+   "Color": "UR"
+  },
+  {
+   "Name": "Proctor of Potential",
+   "Color": "WU"
+  },
+  {
+   "Name": "Professor Dellian Fel",
+   "Color": "BG"
+  },
+  {
+   "Name": "Proft, Consulting Detective",
+   "Color": "U"
+  },
+  {
+   "Name": "Proft, Sinister Mastermind",
+   "Color": "B"
+  },
+  {
+   "Name": "Project Deathlok Soldier",
+   "Color": "B"
+  },
+  {
+   "Name": "Prophesied End",
+   "Color": "W"
+  },
+  {
+   "Name": "Pull from the Grave",
+   "Color": "B"
+  },
+  {
+   "Name": "Punishing Punch",
+   "Color": "G"
+  },
+  {
+   "Name": "Puppet Crafting",
+   "Color": "G"
+  },
+  {
+   "Name": "Pursue the Past",
+   "Color": "WR"
+  },
+  {
+   "Name": "Pym Particles",
+   "Color": "U"
+  },
+  {
+   "Name": "Pyre Rhymer",
+   "Color": "R"
+  },
+  {
+   "Name": "Pyre Rhymer // Molten Tide",
+   "Color": "R"
+  },
+  {
+   "Name": "Pyrrhic Strike",
+   "Color": "W"
+  },
+  {
+   "Name": "Quandrix Charm",
+   "Color": "UG"
+  },
+  {
+   "Name": "Quandrix, the Proof",
+   "Color": "UG"
+  },
+  {
+   "Name": "Quantum Riddler",
+   "Color": "U"
+  },
+  {
+   "Name": "Quicksilver, Brash Blur",
+   "Color": "R"
+  },
+  {
+   "Name": "Quill-Blade Laureate // Twofold Intent",
+   "Color": "W"
+  },
+  {
+   "Name": "Quillspike",
+   "Color": "BG"
+  },
+  {
+   "Name": "Radagast of Rhosgobel",
+   "Color": "G"
+  },
+  {
+   "Name": "Radioactive Spider",
+   "Color": "G"
+  },
+  {
+   "Name": "Raft Security Officer",
+   "Color": "W"
+  },
+  {
+   "Name": "Ragged Short Spear",
+   "Color": "R"
+  },
+  {
+   "Name": "Rakshasa's Bargain",
+   "Color": "UBG"
+  },
+  {
+   "Name": "Ral Zarek, Guest Lecturer",
+   "Color": "B"
+  },
+  {
+   "Name": "Raph & Leo, Sibling Rivals",
+   "Color": "WR"
+  },
+  {
+   "Name": "Raph & Mikey, Troublemakers",
+   "Color": "RG"
+  },
+  {
+   "Name": "Raphael, Tough Turtle",
+   "Color": "R"
+  },
+  {
+   "Name": "Rapid Rescue",
+   "Color": "G"
+  },
+  {
+   "Name": "Rapturous Moment",
+   "Color": "UR"
+  },
+  {
+   "Name": "Raven Eagle",
+   "Color": "B"
+  },
+  {
+   "Name": "Ravenhill Flock",
+   "Color": "U"
+  },
+  {
+   "Name": "Ravenous Robots",
+   "Color": "R"
+  },
+  {
+   "Name": "Reckless Ransacking",
+   "Color": "R"
+  },
+  {
+   "Name": "Red Guardian, Super-Soldier",
+   "Color": "W"
+  },
+  {
+   "Name": "Red Hulk",
+   "Color": "R"
+  },
+  {
+   "Name": "Red Room Recruit",
+   "Color": "B"
+  },
+  {
+   "Name": "Red Tiger Mechan",
+   "Color": "R"
+  },
+  {
+   "Name": "Redirect Lightning",
+   "Color": "R"
+  },
+  {
+   "Name": "Refute Destiny",
+   "Color": "W"
+  },
+  {
+   "Name": "Reptil, Dinomorpher",
+   "Color": "G"
+  },
+  {
+   "Name": "Repulsor Blast",
+   "Color": "R"
+  },
+  {
+   "Name": "Requiting Hex",
+   "Color": "B"
+  },
+  {
+   "Name": "Resonating Lute",
+   "Color": "UR"
+  },
+  {
+   "Name": "Restorative Technique",
+   "Color": "G"
+  },
+  {
+   "Name": "Restore with Empathy",
+   "Color": "G"
+  },
+  {
+   "Name": "Revitalizing Repast",
+   "Color": "BG"
+  },
+  {
+   "Name": "Rewrite Regrets",
+   "Color": "B"
+  },
+  {
+   "Name": "Rick Jones, Destined Sidekick",
+   "Color": "G"
+  },
+  {
+   "Name": "Riddles in the Dark",
+   "Color": "U"
+  },
+  {
+   "Name": "Riverguard's Reflexes",
+   "Color": "W"
+  },
+  {
+   "Name": "Ronin, Shadow Stalker",
+   "Color": "B"
+  },
+  {
+   "Name": "Rough/Tumble",
+   "Color": "R"
+  },
+  {
+   "Name": "Roxxon Brutes",
+   "Color": "B"
+  },
+  {
+   "Name": "Ruinous Rampage",
+   "Color": "R"
+  },
+  {
+   "Name": "Ruinous Waterbending",
+   "Color": "B"
+  },
+  {
+   "Name": "Rust Harvester",
+   "Color": "R"
+  },
+  {
+   "Name": "S.H.I.E.L.D. Deployment Drone",
+   "Color": "U"
+  },
+  {
+   "Name": "S.H.I.E.L.D. Flying Car",
+   "Color": "U"
+  },
+  {
+   "Name": "S.H.I.E.L.D. Spy Kit",
+   "Color": "W"
+  },
+  {
+   "Name": "Saheeli, Jewel of Avishkar",
+   "Color": "UR"
+  },
+  {
+   "Name": "Samut, Hazoret's Champion",
+   "Color": "R"
+  },
+  {
+   "Name": "Samut, Tyrant of Naktamun",
+   "Color": "U"
+  },
+  {
+   "Name": "Sanar, Unfinished Genius",
+   "Color": "UR"
+  },
+  {
+   "Name": "Sanctum Lurker",
+   "Color": "B"
+  },
+  {
+   "Name": "Sandman, Shifting Scoundrel",
+   "Color": "G"
+  },
+  {
+   "Name": "Sapling Nursery",
+   "Color": "G"
+  },
+  {
+   "Name": "Savage Land Dinosaur",
+   "Color": "G"
+  },
+  {
+   "Name": "Saved by the Shell",
+   "Color": "G"
+  },
+  {
+   "Name": "Scheming Silvertongue",
+   "Color": "B"
+  },
+  {
+   "Name": "Scientist Supreme of A.I.M.",
+   "Color": "UB"
+  },
+  {
+   "Name": "Scolding Administrator",
+   "Color": "WB"
+  },
+  {
+   "Name": "Scour for Scrap",
+   "Color": "U"
+  },
+  {
+   "Name": "Scout for Survivors",
+   "Color": "W"
+  },
+  {
+   "Name": "Scuzzback Scrounger",
+   "Color": "R"
+  },
+  {
+   "Name": "Seam Rip",
+   "Color": "W"
+  },
+  {
+   "Name": "Sear",
+   "Color": "R"
+  },
+  {
+   "Name": "Seasoned Cryomancer",
+   "Color": "U"
+  },
+  {
+   "Name": "Secret Identity",
+   "Color": "U"
+  },
+  {
+   "Name": "Secret Invasion",
+   "Color": "U"
+  },
+  {
+   "Name": "Secret of Bloodbending",
+   "Color": "U"
+  },
+  {
+   "Name": "Seedship Impact",
+   "Color": "G"
+  },
+  {
+   "Name": "Seismic Sense",
+   "Color": "G"
+  },
+  {
+   "Name": "Selfless Safewright",
+   "Color": "G"
+  },
+  {
+   "Name": "Serpent Specialist",
+   "Color": "G"
+  },
+  {
+   "Name": "Sewer-veillance Cam",
+   "Color": "U"
+  },
+  {
+   "Name": "Shadow of Doubt",
+   "Color": "UB"
+  },
+  {
+   "Name": "Shang-Chi, Master of Kung Fu",
+   "Color": "G"
+  },
+  {
+   "Name": "Shared Roots",
+   "Color": "G"
+  },
+  {
+   "Name": "Shattered Acolyte",
+   "Color": "W"
+  },
+  {
+   "Name": "Shattering Blow",
+   "Color": "WR"
+  },
+  {
+   "Name": "She-Hulk, Jade Defender",
+   "Color": "G"
+  },
+  {
+   "Name": "Shimmerwilds Growth",
+   "Color": "G"
+  },
+  {
+   "Name": "Shredder's Revenge",
+   "Color": "B"
+  },
+  {
+   "Name": "Shredder's Technique",
+   "Color": "B"
+  },
+  {
+   "Name": "Shuri, Wakandan Inventor",
+   "Color": "U"
+  },
+  {
+   "Name": "Silence the Echo",
+   "Color": "B"
+  },
+  {
+   "Name": "Silk, Web Weaver",
+   "Color": "WG"
+  },
+  {
+   "Name": "Silver Sable, Mercenary Leader",
+   "Color": "W"
+  },
+  {
+   "Name": "Silvergill Mentor",
+   "Color": "U"
+  },
+  {
+   "Name": "Silverquill Charm",
+   "Color": "WB"
+  },
+  {
+   "Name": "Simulacrum Shaper",
+   "Color": "G"
+  },
+  {
+   "Name": "Singularity Rupture",
+   "Color": "UB"
+  },
+  {
+   "Name": "Skycoach Conductor",
+   "Color": "U"
+  },
+  {
+   "Name": "Skycoach Conductor // All Aboard",
+   "Color": "U"
+  },
+  {
+   "Name": "Skyward Spider",
+   "Color": "WU"
+  },
+  {
+   "Name": "Slaughter Pact",
+   "Color": "B"
+  },
+  {
+   "Name": "Slippery Bogle",
+   "Color": "UG"
+  },
+  {
+   "Name": "Slitherhead",
+   "Color": "BG"
+  },
+  {
+   "Name": "Slumbering Trudge",
+   "Color": "G"
+  },
+  {
+   "Name": "Smaug the Magnificent",
+   "Color": "R"
+  },
+  {
+   "Name": "Smaug, the Great Calamity",
+   "Color": "R"
+  },
+  {
+   "Name": "Snowslope Hunter",
+   "Color": "R"
+  },
+  {
+   "Name": "Social Snub",
+   "Color": "WB"
+  },
+  {
+   "Name": "Sokka's Haiku",
+   "Color": "U"
+  },
+  {
+   "Name": "Sokka's Sword Training",
+   "Color": "W"
+  },
+  {
+   "Name": "Sokka, Bold Boomeranger",
+   "Color": "UR"
+  },
+  {
+   "Name": "Solarium Sentry",
+   "Color": "WG"
+  },
+  {
+   "Name": "Solitary Cell",
+   "Color": "WR"
+  },
+  {
+   "Name": "Something Worth Saving",
+   "Color": "G"
+  },
+  {
+   "Name": "South Pole Voyager",
+   "Color": "W"
+  },
+  {
+   "Name": "South Wind Avatar",
+   "Color": "B"
+  },
+  {
+   "Name": "Space-Time Anomaly",
+   "Color": "WU"
+  },
+  {
+   "Name": "Spectacular Spider-Man",
+   "Color": "W"
+  },
+  {
+   "Name": "Spectacular Tactics",
+   "Color": "W"
+  },
+  {
+   "Name": "Speed, Young Avenger",
+   "Color": "R"
+  },
+  {
+   "Name": "Speedball, New Warrior",
+   "Color": "UR"
+  },
+  {
+   "Name": "Sphinx of False Conclusions",
+   "Color": "U"
+  },
+  {
+   "Name": "Sphinx's Approach",
+   "Color": "U"
+  },
+  {
+   "Name": "Spicy Oatmeal Pizza",
+   "Color": "R"
+  },
+  {
+   "Name": "Spider Manifestation",
+   "Color": "RG"
+  },
+  {
+   "Name": "Spider-Man No More",
+   "Color": "U"
+  },
+  {
+   "Name": "Spider-Man, To the Rescue",
+   "Color": "WG"
+  },
+  {
+   "Name": "Spider-Man, Web-Slinger",
+   "Color": "W"
+  },
+  {
+   "Name": "Spider-Punk",
+   "Color": "R"
+  },
+  {
+   "Name": "Spider-Sense",
+   "Color": "U"
+  },
+  {
+   "Name": "Spider-Woman, Stunning Savior",
+   "Color": "WU"
+  },
+  {
+   "Name": "Spinerock Tyrant",
+   "Color": "R"
+  },
+  {
+   "Name": "Spirit Mascot",
+   "Color": "WR"
+  },
+  {
+   "Name": "Spirit Summoning",
+   "Color": "WR"
+  },
+  {
+   "Name": "Spirit Water Revival",
+   "Color": "U"
+  },
+  {
+   "Name": "Splatter Technique",
+   "Color": "UR"
+  },
+  {
+   "Name": "Splinter's Technique",
+   "Color": "B"
+  },
+  {
+   "Name": "Squirrelanoids",
+   "Color": "B"
+  },
+  {
+   "Name": "Starfield Shepherd",
+   "Color": "W"
+  },
+  {
+   "Name": "Starfield Vocalist",
+   "Color": "U"
+  },
+  {
+   "Name": "Stark Industries Executive",
+   "Color": "R"
+  },
+  {
+   "Name": "Startled Relic Sloth",
+   "Color": "WR"
+  },
+  {
+   "Name": "Stature, Size Shifter",
+   "Color": "U"
+  },
+  {
+   "Name": "Stillmoon Cavalier",
+   "Color": "WB"
+  },
+  {
+   "Name": "Stingcaster Mage",
+   "Color": "R"
+  },
+  {
+   "Name": "Stingerquill Charm",
+   "Color": "BR"
+  },
+  {
+   "Name": "Stingerquill Voxmancer",
+   "Color": "BR"
+  },
+  {
+   "Name": "Stingerquill Voxmancer // Vicious Verse",
+   "Color": "BR"
+  },
+  {
+   "Name": "Stinging Vitriol",
+   "Color": "BR"
+  },
+  {
+   "Name": "Stir Up Trouble",
+   "Color": "B"
+  },
+  {
+   "Name": "Stirring Hopesinger",
+   "Color": "W"
+  },
+  {
+   "Name": "Stolen Stark Tech",
+   "Color": "B"
+  },
+  {
+   "Name": "Stone Docent",
+   "Color": "W"
+  },
+  {
+   "Name": "Stone by Sunlight",
+   "Color": "W"
+  },
+  {
+   "Name": "Storm of Memories",
+   "Color": "R"
+  },
+  {
+   "Name": "Storm, Windrider",
+   "Color": "WG"
+  },
+  {
+   "Name": "Strength of Will",
+   "Color": "G"
+  },
+  {
+   "Name": "Studious First-Year // Rampant Growth",
+   "Color": "G"
+  },
+  {
+   "Name": "Suki, Courageous Rescuer",
+   "Color": "W"
+  },
+  {
+   "Name": "Summoned Dromedary",
+   "Color": "W"
+  },
+  {
+   "Name": "Summoner's Pact",
+   "Color": "G"
+  },
+  {
+   "Name": "Sun-Spider, Nimble Webber",
+   "Color": "WU"
+  },
+  {
+   "Name": "Sunderflock",
+   "Color": "U"
+  },
+  {
+   "Name": "Sunset Saboteur",
+   "Color": "B"
+  },
+  {
+   "Name": "Sunstar Chaplain",
+   "Color": "W"
+  },
+  {
+   "Name": "Super Intelligence",
+   "Color": "U"
+  },
+  {
+   "Name": "Super Shredder",
+   "Color": "B"
+  },
+  {
+   "Name": "Super Speed",
+   "Color": "R"
+  },
+  {
+   "Name": "Super Strength",
+   "Color": "G"
+  },
+  {
+   "Name": "Super Suit",
+   "Color": "U"
+  },
+  {
+   "Name": "Super Villain Lockup",
+   "Color": "W"
+  },
+  {
+   "Name": "Super-Skrull",
+   "Color": "B"
+  },
+  {
+   "Name": "Super-Soldier Serum",
+   "Color": "W"
+  },
+  {
+   "Name": "Superior Spider-Man",
+   "Color": "UB"
+  },
+  {
+   "Name": "Supportive Parents",
+   "Color": "G"
+  },
+  {
+   "Name": "Suppression Ray",
+   "Color": "WU"
+  },
+  {
+   "Name": "Sureshot Sower",
+   "Color": "G"
+  },
+  {
+   "Name": "Surgical Extraction",
+   "Color": "B"
+  },
+  {
+   "Name": "Surveillance Phantasm",
+   "Color": "U"
+  },
+  {
+   "Name": "Susurian Voidborn",
+   "Color": "B"
+  },
+  {
+   "Name": "Sygg, Wanderwine Wisdom",
+   "Color": "U"
+  },
+  {
+   "Name": "Synthesizer Labship",
+   "Color": "U"
+  },
+  {
+   "Name": "Syr Vondam, Sunstar Exemplar",
+   "Color": "WB"
+  },
+  {
+   "Name": "Tablet of Discovery",
+   "Color": "R"
+  },
+  {
+   "Name": "Tackle Artist",
+   "Color": "R"
+  },
+  {
+   "Name": "Tainted Treats",
+   "Color": "BG"
+  },
+  {
+   "Name": "Tam's Resistance",
+   "Color": "UG"
+  },
+  {
+   "Name": "Taskmaster, Mercenary Mimic",
+   "Color": "UB"
+  },
+  {
+   "Name": "Taster of Wares",
+   "Color": "B"
+  },
+  {
+   "Name": "Teach by Example",
+   "Color": "UR"
+  },
+  {
+   "Name": "Team Tactics",
+   "Color": "R"
+  },
+  {
+   "Name": "Temporal Intervention",
+   "Color": "B"
+  },
+  {
+   "Name": "Tenured Tethermage",
+   "Color": "RG"
+  },
+  {
+   "Name": "Terminal Criticism",
+   "Color": "B"
+  },
+  {
+   "Name": "Terrasymbiosis",
+   "Color": "G"
+  },
+  {
+   "Name": "Teyo, Lightshield Expert",
+   "Color": "W"
+  },
+  {
+   "Name": "Thalia, the Survivor",
+   "Color": "W"
+  },
+  {
+   "Name": "The Astonishing Ant-Man",
+   "Color": "UG"
+  },
+  {
+   "Name": "The Coming of Galactus",
+   "Color": "BG"
+  },
+  {
+   "Name": "The Eagles Are Coming!",
+   "Color": "W"
+  },
+  {
+   "Name": "The Great Goblin",
+   "Color": "BR"
+  },
+  {
+   "Name": "The Last Ronin's Technique",
+   "Color": "W"
+  },
+  {
+   "Name": "The Legend of Kuruk",
+   "Color": "U"
+  },
+  {
+   "Name": "The Legend of Roku",
+   "Color": "R"
+  },
+  {
+   "Name": "The Legend of Yangchen",
+   "Color": "W"
+  },
+  {
+   "Name": "The Lord of the Eagles",
+   "Color": "U"
+  },
+  {
+   "Name": "The Masters of Evil",
+   "Color": "B"
+  },
+  {
+   "Name": "The Mighty Thor, Jane Foster",
+   "Color": "WU"
+  },
+  {
+   "Name": "The Mind Stone",
+   "Color": "W"
+  },
+  {
+   "Name": "The Misty Mountains Cold",
+   "Color": "R"
+  },
+  {
+   "Name": "The Queen of Dale",
+   "Color": "W"
+  },
+  {
+   "Name": "The Rise of Sozin",
+   "Color": "B"
+  },
+  {
+   "Name": "The Ruinous Wrecking Crew",
+   "Color": "BR"
+  },
+  {
+   "Name": "The Sackville-Bagginses",
+   "Color": "B"
+  },
+  {
+   "Name": "The Scarlet Witch",
+   "Color": "R"
+  },
+  {
+   "Name": "The Sentry, Golden Guardian",
+   "Color": "W"
+  },
+  {
+   "Name": "The Seriema",
+   "Color": "W"
+  },
+  {
+   "Name": "The Serpent Society",
+   "Color": "BG"
+  },
+  {
+   "Name": "The Soul Stone",
+   "Color": "B"
+  },
+  {
+   "Name": "The Super Hero Civil War",
+   "Color": "WR"
+  },
+  {
+   "Name": "The Theorist, Jace Beleren",
+   "Color": "U"
+  },
+  {
+   "Name": "The Thing, Ben Grimm",
+   "Color": "G"
+  },
+  {
+   "Name": "The Unagi of Kyoshi Island",
+   "Color": "U"
+  },
+  {
+   "Name": "The Unbeatable Squirrel Girl",
+   "Color": "G"
+  },
+  {
+   "Name": "The Wondrous Wasp",
+   "Color": "U"
+  },
+  {
+   "Name": "Theorist's Proxy",
+   "Color": "U"
+  },
+  {
+   "Name": "Theorix Charm",
+   "Color": "UB"
+  },
+  {
+   "Name": "Thor, God of Thunder",
+   "Color": "R"
+  },
+  {
+   "Name": "Thorin Oakenshield",
+   "Color": "WR"
+  },
+  {
+   "Name": "Thorin's Last Stand",
+   "Color": "W"
+  },
+  {
+   "Name": "Thorin, Mountain-king",
+   "Color": "R"
+  },
+  {
+   "Name": "Thranduil, Sindarin Liege",
+   "Color": "UG"
+  },
+  {
+   "Name": "Thunderbolts Conspiracy",
+   "Color": "B"
+  },
+  {
+   "Name": "Tiger-Seal",
+   "Color": "U"
+  },
+  {
+   "Name": "Tigra, Feline Fury",
+   "Color": "G"
+  },
+  {
+   "Name": "Timeline Culler",
+   "Color": "B"
+  },
+  {
+   "Name": "Titania, Rugged Rumbler",
+   "Color": "BG"
+  },
+  {
+   "Name": "Tokka & Rahzar, Terrible Twos",
+   "Color": "BR"
+  },
+  {
+   "Name": "Tomik, Izzet Sparkmage",
+   "Color": "R"
+  },
+  {
+   "Name": "Tony Stark",
+   "Color": "U"
+  },
+  {
+   "Name": "Too Evil to Stay Dead",
+   "Color": "B"
+  },
+  {
+   "Name": "Toph, Hardheaded Teacher",
+   "Color": "RG"
+  },
+  {
+   "Name": "Tragedy Feaster",
+   "Color": "B"
+  },
+  {
+   "Name": "Tragic Trajectory",
+   "Color": "B"
+  },
+  {
+   "Name": "Training Regimen",
+   "Color": "G"
+  },
+  {
+   "Name": "Traumatic Critique",
+   "Color": "UR"
+  },
+  {
+   "Name": "Traxos, Academy Guardian",
+   "Color": "U"
+  },
+  {
+   "Name": "Trickster's Stratagem",
+   "Color": "U"
+  },
+  {
+   "Name": "Truck Toss",
+   "Color": "R"
+  },
+  {
+   "Name": "True Ancestry",
+   "Color": "G"
+  },
+  {
+   "Name": "Turncoat Kunoichi",
+   "Color": "W"
+  },
+  {
+   "Name": "Turtles Forever",
+   "Color": "W"
+  },
+  {
+   "Name": "Twilight Diviner",
+   "Color": "B"
+  },
+  {
+   "Name": "Twinned Vision",
+   "Color": "UR"
+  },
+  {
+   "Name": "Ty Lee, Chi Blocker",
+   "Color": "U"
+  },
+  {
+   "Name": "U.S.Agent, John Walker",
+   "Color": "WB"
+  },
+  {
+   "Name": "Uldaros Theorix",
+   "Color": "UB"
+  },
+  {
+   "Name": "Ultimate Alliance",
+   "Color": "W"
+  },
+  {
+   "Name": "Umbral Collar Zealot",
+   "Color": "B"
+  },
+  {
+   "Name": "Umori, the Collector",
+   "Color": "BG"
+  },
+  {
+   "Name": "Uncover the Moon-Letters",
+   "Color": "U"
+  },
+  {
+   "Name": "Undercover Skrull",
+   "Color": "G"
+  },
+  {
+   "Name": "Unflinching Hortimancer",
+   "Color": "W"
+  },
+  {
+   "Name": "United Front",
+   "Color": "W"
+  },
+  {
+   "Name": "Unliving Legionnaire",
+   "Color": "B"
+  },
+  {
+   "Name": "Unmake",
+   "Color": "WB"
+  },
+  {
+   "Name": "Unravel",
+   "Color": "U"
+  },
+  {
+   "Name": "Utrom Monitor",
+   "Color": "U"
+  },
+  {
+   "Name": "Vastlands Scavenger",
+   "Color": "G"
+  },
+  {
+   "Name": "Vastlands Scavenger // Bind to Life",
+   "Color": "G"
+  },
+  {
+   "Name": "Vault Skirge",
+   "Color": "B"
+  },
+  {
+   "Name": "Verdant Kraken",
+   "Color": "G"
+  },
+  {
+   "Name": "Vexing Shusher",
+   "Color": "RG"
+  },
+  {
+   "Name": "Vibrance",
+   "Color": "RG"
+  },
+  {
+   "Name": "Vibrant Outburst",
+   "Color": "UR"
+  },
+  {
+   "Name": "Vicious Rivalry",
+   "Color": "BG"
+  },
+  {
+   "Name": "Vigorbloom Charm",
+   "Color": "WG"
+  },
+  {
+   "Name": "Villainous Wrath",
+   "Color": "B"
+  },
+  {
+   "Name": "Vindictive Triumph",
+   "Color": "WB"
+  },
+  {
+   "Name": "Virulent Emissary",
+   "Color": "G"
+  },
+  {
+   "Name": "Vision Quest",
+   "Color": "UR"
+  },
+  {
+   "Name": "Vision of Love",
+   "Color": "R"
+  },
+  {
+   "Name": "Visionary's Dance",
+   "Color": "UR"
+  },
+  {
+   "Name": "Visions of Villainy",
+   "Color": "B"
+  },
+  {
+   "Name": "Volcanic Villain",
+   "Color": "R"
+  },
+  {
+   "Name": "Voltaic Whip",
+   "Color": "B"
+  },
+  {
+   "Name": "Voracious Tome-Skimmer",
+   "Color": "UB"
+  },
+  {
+   "Name": "Vraska's Final Mercy",
+   "Color": "B"
+  },
+  {
+   "Name": "Vraska, Soul of Stone",
+   "Color": "WUR"
+  },
+  {
+   "Name": "Vraska, the Cutting Glare",
+   "Color": "BG"
+  },
+  {
+   "Name": "Wakandan Royal Guard",
+   "Color": "G"
+  },
+  {
+   "Name": "Wan Shi Tong, Librarian",
+   "Color": "U"
+  },
+  {
+   "Name": "War Machine, Legacy of Iron",
+   "Color": "WR"
+  },
+  {
+   "Name": "Warg Tactics",
+   "Color": "G"
+  },
+  {
+   "Name": "Warmaker Gunship",
+   "Color": "R"
+  },
+  {
+   "Name": "Water Tribe Rallier",
+   "Color": "W"
+  },
+  {
+   "Name": "Waterbending Lesson",
+   "Color": "U"
+  },
+  {
+   "Name": "Waterbending Scroll",
+   "Color": "U"
+  },
+  {
+   "Name": "Waterlogged Teachings",
+   "Color": "UB"
+  },
+  {
+   "Name": "Way of the Cryomancer",
+   "Color": "U"
+  },
+  {
+   "Name": "Way of the Mentor",
+   "Color": "W"
+  },
+  {
+   "Name": "Way of the Paradox",
+   "Color": "G"
+  },
+  {
+   "Name": "Way of the Pyromancer",
+   "Color": "R"
+  },
+  {
+   "Name": "We Say Thee Nay!",
+   "Color": "U"
+  },
+  {
+   "Name": "Weapons Manufacturing",
+   "Color": "R"
+  },
+  {
+   "Name": "Wear/Tear",
+   "Color": "WR"
+  },
+  {
+   "Name": "Web Up",
+   "Color": "W"
+  },
+  {
+   "Name": "Wheel of Sun and Moon",
+   "Color": "WG"
+  },
+  {
+   "Name": "Whiplash, Vengeful Engineer",
+   "Color": "B"
+  },
+  {
+   "Name": "White Widow, Free Agent",
+   "Color": "W"
+  },
+  {
+   "Name": "Wiccan, Rising Magician",
+   "Color": "U"
+  },
+  {
+   "Name": "Widow's Bite",
+   "Color": "B"
+  },
+  {
+   "Name": "Wild Cantor",
+   "Color": "RG"
+  },
+  {
+   "Name": "Wildgrowth Archaic",
+   "Color": "G"
+  },
+  {
+   "Name": "Wilt in the Heat",
+   "Color": "WR"
+  },
+  {
+   "Name": "Wilt-Leaf Liege",
+   "Color": "WG"
+  },
+  {
+   "Name": "Winnowing",
+   "Color": "W"
+  },
+  {
+   "Name": "Winter, Tormented Loner",
+   "Color": "B"
+  },
+  {
+   "Name": "Wistfulness",
+   "Color": "UG"
+  },
+  {
+   "Name": "With Great Power . . .",
+   "Color": "W"
+  },
+  {
+   "Name": "Witherbloom Charm",
+   "Color": "BG"
+  },
+  {
+   "Name": "Withering Curse",
+   "Color": "B"
+  },
+  {
+   "Name": "Wizard's Staff",
+   "Color": "U"
+  },
+  {
+   "Name": "Wolverine, Fierce Fighter",
+   "Color": "RG"
+  },
+  {
+   "Name": "Wonder Man, Hollywood Hero",
+   "Color": "R"
+  },
+  {
+   "Name": "Woodwork Prodigy // Soul Tether",
+   "Color": "RG"
+  },
+  {
+   "Name": "World War Hulk",
+   "Color": "G"
+  },
+  {
+   "Name": "Worlds Within Worlds",
+   "Color": "UG"
+  },
+  {
+   "Name": "Wraith, Vicious Vigilante",
+   "Color": "WU"
+  },
+  {
+   "Name": "Wrecking Gecko",
+   "Color": "G"
+  },
+  {
+   "Name": "Yellowjacket, Heartless Marauder",
+   "Color": "B"
+  },
+  {
+   "Name": "Yip Yip!",
+   "Color": "W"
+  },
+  {
+   "Name": "Yorion, Sky Nomad",
+   "Color": "WU"
+  },
+  {
+   "Name": "Yoshimaru, Scrappy Stray",
+   "Color": "G"
+  },
+  {
+   "Name": "Yuriko, Hope from the Shadows",
+   "Color": "U"
+  },
+  {
+   "Name": "Zero Point Ballad",
+   "Color": "B"
+  },
+  {
+   "Name": "Zhao, the Moon Slayer",
+   "Color": "R"
+  },
+  {
+   "Name": "Zirda, the Dawnwaker",
+   "Color": "WR"
+  }
+ ],
+ "Colorless": [
+  "A.I.M. Synthoids",
+  "Aang's Journey",
+  "Academy Manufactor",
+  "Accorder's Shield",
+  "Adventurer's Inn",
+  "Aether Spellbomb",
+  "Aether Vial",
+  "Aetherflux Reservoir",
+  "Agatha's Soul Cauldron",
+  "Akroma's Memorial",
+  "All Is Dust",
+  "Altar of Dementia",
+  "Altar of the Brood",
+  "Amulet of Safekeeping",
+  "Amulet of Vigor",
+  "Ancient Tomb",
+  "Andúril, Flame of the West",
+  "Animation Module",
+  "Anticausal Vestige",
+  "Arcane Proxy",
+  "Arcbound Fiend",
+  "Arcbound Ravager",
+  "Arcbound Reclaimer",
+  "Arcbound Worker",
+  "Archive Arbiter",
+  "Argentum Masticore",
+  "Arid Archway",
+  "Arid Mesa",
+  "Ash Barrens",
+  "Ashnod's Altar",
+  "Astral Cornucopia",
+  "Barkform Harvester",
+  "Barrels of Blasting Jelly",
+  "Basalt Monolith",
+  "Basilisk Collar",
+  "Basilisk Gate",
+  "Batterskull",
+  "Bazaar of Baghdad",
+  "Bender's Waterskin",
+  "Biblioplex Tomekeeper",
+  "Black Lotus",
+  "Blade of the Bloodchief",
+  "Blast Zone",
+  "Blightsteel Colossus",
+  "Blinkmoth Nexus",
+  "Bloodstained Mire",
+  "Bomat Courier",
+  "Bonder's Ornament",
+  "Bone Saw",
+  "Bonesplitter",
+  "Boseiju, Who Shelters All",
+  "Bottled Cloister",
+  "Boulderbranch Golem",
+  "Brainstone",
+  "Buster Sword",
+  "Bygone Colossus",
+  "Campfire",
+  "Candy Trail",
+  "Canoptek Scarab Swarm",
+  "Captain America's Shield",
+  "Cathar's Shield",
+  "Chalice of the Void",
+  "Chief of the Foundry",
+  "Chimil, the Inner Sun",
+  "Chromatic Lantern",
+  "Chromatic Orrery",
+  "Chromatic Sphere",
+  "Chromatic Star",
+  "Chrome Dome",
+  "Chrome Mox",
+  "Chronicle of Victory",
+  "City of Traitors",
+  "Cityscape Leveler",
+  "Claws of Gix",
+  "Cloudpost",
+  "Clown Car",
+  "Codex Shredder",
+  "Colossus Hammer",
+  "Conjurer's Bauble",
+  "Coretapper",
+  "Cosmic Cube",
+  "Coveted Jewel",
+  "Cranial Plating",
+  "Crashing Drawbridge",
+  "Crawling Barrens",
+  "Crucible of Worlds",
+  "Cryptic Caves",
+  "Crystal Vein",
+  "Currency Converter",
+  "Cursed Totem",
+  "Damping Matrix",
+  "Damping Sphere",
+  "Dark Depths",
+  "Darksteel Angel",
+  "Darksteel Citadel",
+  "Dauntless Scrapbot",
+  "Defense Grid",
+  "Demolition Field",
+  "Demon's Horn",
+  "Dependable Quinjet",
+  "Desert",
+  "Deserted Temple",
+  "Devourer of Destiny",
+  "Diary of Dreams",
+  "Disruptor Flute",
+  "Dissection Tools",
+  "Distended Mindbender",
+  "Distorting Lens",
+  "Doc Ock's Tentacles",
+  "Dragon's Claw",
+  "Dragonfire Blade",
+  "Drowner of Truth",
+  "Drownyard Lurker",
+  "Dwarven Mattock",
+  "Eater of Days",
+  "Echoes of Eternity",
+  "Echoing Deeps",
+  "Eden, Seat of the Sanctum",
+  "Eldrazi Confluence",
+  "Eldrazi Conscription",
+  "Eldrazi Mimic",
+  "Eldrazi Temple",
+  "Elixir of Immortality",
+  "Elven Passage",
+  "Emerald Medallion",
+  "Emrakul, the Aeons Torn",
+  "Emrakul, the Exigent Doom",
+  "Emrakul, the Promised End",
+  "Emrakul, the World Anew",
+  "Endless One",
+  "Energy Refractor",
+  "Engineered Explosives",
+  "Ensnaring Bridge",
+  "Environmental Sciences",
+  "Eriette's Tempting Apple",
+  "Escape Tunnel",
+  "Etched Champion",
+  "Eternal Scourge",
+  "Everflowing Chalice",
+  "Evolving Wilds",
+  "Expanded Anatomy",
+  "Expedition Map",
+  "Extinguisher Battleship",
+  "Eye of Jace",
+  "Eye of Ugin",
+  "Fabled Passage",
+  "Feldon's Cane",
+  "Fellwar Stone",
+  "Field of Ruin",
+  "Field of the Dead",
+  "Firdoch Core",
+  "Flooded Strand",
+  "Fomori Vault",
+  "Forsaken Monument",
+  "Foundry Inspector",
+  "Fountainport",
+  "Frogmite",
+  "Geier Reach Sanitarium",
+  "Genji Glove",
+  "Ghost Quarter",
+  "Ghost Vacuum",
+  "Giant's Boulder",
+  "Gingerbrute",
+  "Glacial Chasm",
+  "Glamdring, Foe-hammer",
+  "Glaring Fleshraker",
+  "Glimmerpost",
+  "Goblin Charbelcher",
+  "God-Pharaoh's Gift",
+  "God-Pharaoh's Statue",
+  "Golem Foundry",
+  "Golos, Tireless Pilgrim",
+  "Grafdigger's Cage",
+  "Grim Monolith",
+  "Grinding Station",
+  "Grindstone",
+  "H.E.R.B.I.E. Scout Unit",
+  "Hall of Echoes",
+  "Hall of the Bandit Lord",
+  "Halo Hopper",
+  "Hangarback Walker",
+  "Haunted Fengraf",
+  "Haywire Mite",
+  "Hedron Archive",
+  "Helm of Obedience",
+  "Heraldic Banner",
+  "Herigast, Erupting Nullkite",
+  "Hex Parasite",
+  "Hexhaven Dueling Arena",
+  "Hollow One",
+  "Hope of Ghirapur",
+  "Horned Helm",
+  "Hunter's Blowgun",
+  "Ichor Wellspring",
+  "Ichorclaw Myr",
+  "Inkmoth Nexus",
+  "Inscribed Tablet",
+  "Instant Ramen",
+  "Interdimensional Web Watch",
+  "Introduction to Prophecy",
+  "Inventors' Fair",
+  "Iron Man Armor",
+  "Iron Spider, Stark Upgrade",
+  "Isochron Scepter",
+  "It That Betrays",
+  "It That Heralds the End",
+  "Jack-o'-Lantern",
+  "Jeweled Amulet",
+  "Kaldra Compleat",
+  "Karn Liberated",
+  "Karn's Sylex",
+  "Karn, Argent Defender",
+  "Karn, Scion of Urza",
+  "Karn, the Great Creator",
+  "Key to the Side-Door",
+  "Kite Shield",
+  "Kozilek's Command",
+  "Kozilek, Butcher of Truth",
+  "Kozilek, the Broken Reality",
+  "Kozilek, the Great Distortion",
+  "Krang, Utrom Warlord",
+  "Kuldotha Forgemaster",
+  "Lantern of Insight",
+  "Lavaspur Boots",
+  "Lembas",
+  "Leyline Axe",
+  "Liberator, Urza's Battlethopter",
+  "Library of Alexandria",
+  "Lifespark Spellbomb",
+  "Lion's Eye Diamond",
+  "Liquimetal Coating",
+  "Living Library",
+  "Lodestone Golem",
+  "Lost Jitte",
+  "Lotus Bloom",
+  "Lotus Petal",
+  "Luxior, Giada's Gift",
+  "Maelstrom Colossus",
+  "Mana Crypt",
+  "Mana Vault",
+  "Manifold Key",
+  "Marketback Walker",
+  "Marsh Flats",
+  "Mascot Exhibition",
+  "Masterwork of Ingenuity",
+  "Matter Reshaper",
+  "Maze of Ith",
+  "Mazemind Tome",
+  "Medic's Kitesail",
+  "Meekstone",
+  "Memnite",
+  "Memory Jar",
+  "Mesmeric Orb",
+  "Metallic Mimic",
+  "Metalwork Colossus",
+  "Meteor Sword",
+  "Mikokoro, Center of the Sea",
+  "Mind Stone",
+  "Mindslaver",
+  "Mirrorpool",
+  "Mishra's Bauble",
+  "Mishra's Factory",
+  "Mishra's Research Desk",
+  "Mishra's Workshop",
+  "Misty Rainforest",
+  "Monument to Endurance",
+  "Morophon, the Boundless",
+  "Mox Amber",
+  "Mox Diamond",
+  "Mox Emerald",
+  "Mox Jasper",
+  "Mox Jet",
+  "Mox Opal",
+  "Mox Pearl",
+  "Mox Ruby",
+  "Mox Sapphire",
+  "Multiversal Passage",
+  "Murmuring Volume",
+  "Mutavault",
+  "My Precious",
+  "Mycosynth Lattice",
+  "Mycosynth Wellspring",
+  "Myr Enforcer",
+  "Myr Kinsmith",
+  "Myr Retriever",
+  "Mystic Forge",
+  "Navigator's Compass",
+  "Nettlecyst",
+  "Nihil Spellbomb",
+  "Northampton Farm",
+  "Not of This World",
+  "Null Elemental Blast",
+  "Null Rod",
+  "Nulldrifter",
+  "Nutrient Block",
+  "Oblivion Sower",
+  "Oblivion Stone",
+  "Old Thrush",
+  "Orbs of Warding",
+  "Orcrist, Goblin-cleaver",
+  "Ornithopter",
+  "Page, Loose Leaf",
+  "Painter's Servant",
+  "Palantír of Orthanc",
+  "Paradise Mantle",
+  "Paradox Engine",
+  "Patchwork Automaton",
+  "Pentad Prism",
+  "Peter Parker's Camera",
+  "Petrified Field",
+  "Petrified Hamlet",
+  "Phyrexian Devourer",
+  "Phyrexian Dragon Engine",
+  "Phyrexian Dreadnought",
+  "Phyrexian Revoker",
+  "Phyrexian Walker",
+  "Pinnacle Kill-Ship",
+  "Pithing Needle",
+  "Planetarium of Wan Shi Tong",
+  "Platinum Angel",
+  "Platinum Emperion",
+  "Polluted Delta",
+  "Portal to Phyrexia",
+  "Potioner's Trove",
+  "Powder Keg",
+  "Power Conduit",
+  "Prismatic Vista",
+  "Pristine Talisman",
+  "Profane Memento",
+  "Promising Vein",
+  "Prophetic Prism",
+  "Pyrite Spellbomb",
+  "Pyxis of Pandemonium",
+  "Radiant Fountain",
+  "Ratchet Bomb",
+  "Reality Smasher",
+  "Reckoner Bankbuster",
+  "Relic of Legends",
+  "Relic of Progenitus",
+  "Relic of Sauron",
+  "Reliquary Tower",
+  "Retrofitter Foundry",
+  "Ring of the Lucii",
+  "Rishadan Port",
+  "Roaming Throne",
+  "Rogue's Passage",
+  "Rooftop Percher",
+  "Ruby Medallion",
+  "S.H.I.E.L.D. Helicarrier",
+  "Sanctum of Ugin",
+  "Sapphire Medallion",
+  "Sarevok's Tome",
+  "Scalding Tarn",
+  "Scavenger Grounds",
+  "Scion of Draco",
+  "Scour from Existence",
+  "Scrabbling Claws",
+  "Scrapwork Mutt",
+  "Scrawling Crawler",
+  "Sculpting Steel",
+  "Secluded Starforge",
+  "Secret Tunnel",
+  "Sensei's Divining Top",
+  "Seraph Sanctuary",
+  "Serum Powder",
+  "Shadowspear",
+  "Shell of the Last Kappa",
+  "Shield-Wall Sentinel",
+  "Shriekhorn",
+  "Shuko",
+  "Signal Pest",
+  "Silent Gravestone",
+  "Sire of Seven Deaths",
+  "Skateboard",
+  "Skullclamp",
+  "Skycoach Waypoint",
+  "Skysovereign, Consul Flagship",
+  "Smelting Vat",
+  "Smokestack",
+  "Smuggler's Copter",
+  "Snow-Covered Wastes",
+  "Sol Ring",
+  "Sorcerous Spyglass",
+  "Soul-Guide Lantern",
+  "Soulless Jailer",
+  "Soulstone Sanctuary",
+  "Spare Dagger",
+  "Spatial Contortion",
+  "Spawning Pit",
+  "Spellskite",
+  "Sphere of Resistance",
+  "Spidersilk Net",
+  "Springleaf Drum",
+  "Steel Overseer",
+  "Steel Wrecking Ball",
+  "Stone of Erech",
+  "Stonecoil Serpent",
+  "Strip Mine",
+  "Summon: Bahamut",
+  "Sundering Titan",
+  "Sundial of the Infinite",
+  "Super-Adaptoid",
+  "Surge Node",
+  "Surgical Skullbomb",
+  "Swiftfoot Boots",
+  "Sword of Feast and Famine",
+  "Sword of Fire and Ice",
+  "Sword of Hearth and Home",
+  "Sword of Light and Shadow",
+  "Sword of Sinew and Steel",
+  "Sword of War and Peace",
+  "Sword of the Meek",
+  "Sylvok Lifestaff",
+  "Syr Ginger, the Meal Ender",
+  "Talisman of Conviction",
+  "Talisman of Creativity",
+  "Talisman of Curiosity",
+  "Talisman of Dominance",
+  "Talisman of Hierarchy",
+  "Talisman of Impulse",
+  "Talisman of Indulgence",
+  "Talisman of Progress",
+  "Talisman of Resilience",
+  "Talisman of Unity",
+  "Tangle Wire",
+  "Tarrian's Soulcleaver",
+  "Technodrome",
+  "Tectonic Edge",
+  "Tezzeret, Cruel Captain",
+  "The Aetherspark",
+  "The Arkenstone",
+  "The Black Arrow",
+  "The Dawning Archaic",
+  "The Echoverse Fulcrum",
+  "The Endstone",
+  "The Fantasticar",
+  "The Filigree Sylex",
+  "The Gold Saucer",
+  "The Great Mound",
+  "The Immortal Sun",
+  "The Irencrag",
+  "The Mightstone and Weakstone",
+  "The One Ring",
+  "The Ooze",
+  "The Ozolith",
+  "The Rack",
+  "The Stasis Coffin",
+  "The Stone Brain",
+  "The Tabernacle at Pendrell Vale",
+  "The Ten Rings",
+  "The Underworld Cookbook",
+  "The Vision",
+  "The Warring Triad",
+  "Thespian's Stage",
+  "Thorn of Amethyst",
+  "Thought-Knot Seer",
+  "Thran Power Suit",
+  "Three Tree Mascot",
+  "Thrumming Hivepool",
+  "Thrór's Map",
+  "Time Vault",
+  "Tocasia's Dig Site",
+  "Together as One",
+  "Tormod's Crypt",
+  "Torpor Orb",
+  "Trailblazer's Torch",
+  "Transcendent Archaic",
+  "Traxos, Scourge of Kroog",
+  "Trinisphere",
+  "Trip Noose",
+  "Troop of Ponies",
+  "Ugin's Labyrinth",
+  "Ugin, Eye of the Storms",
+  "Ugin, the Ineffable",
+  "Ugin, the Spirit Dragon",
+  "Ulamog's Crusher",
+  "Ulamog, the Ceaseless Hunger",
+  "Ulamog, the Defiler",
+  "Ulamog, the Infinite Gyre",
+  "Ultron Drone",
+  "Ultron, Artificial Malevolence",
+  "Umbral Mantle",
+  "Umezawa's Jitte",
+  "Universal Automaton",
+  "Unlicensed Hearse",
+  "Urn of Godfire",
+  "Urza's Bauble",
+  "Urza's Cave",
+  "Urza's Mine",
+  "Urza's Power Plant",
+  "Urza's Saga",
+  "Urza's Tower",
+  "Urza's Workshop",
+  "Vedalken Shackles",
+  "Verdant Catacombs",
+  "Vesuva",
+  "Vexing Arcanix",
+  "Vexing Bauble",
+  "Vibranium Energy Daggers",
+  "Viridian Longbow",
+  "Viv Vision, Teen Synthezoid",
+  "Void Mirror",
+  "Void Winnower",
+  "Volatile Fault",
+  "Voltaic Key",
+  "Vorrac Battlehorns",
+  "Walking Ballista",
+  "Warped Tusker",
+  "Warping Wail",
+  "Wasteland",
+  "Wastes",
+  "Wastescape Battlemage",
+  "Weather Maker",
+  "Weathered Runestone",
+  "Wedding Invitation",
+  "Welding Jar",
+  "Well-Worn Spatula",
+  "Whispersilk Cloak",
+  "Windswept Heath",
+  "Witch's Oven",
+  "Witchbane Orb",
+  "Wizard's Rockets",
+  "Wooded Foothills",
+  "Wretched Gryff",
+  "Wurmcoil Engine",
+  "Yggdrasil, Rebirth Engine",
+  "Zabaz, the Glimmerwasp",
+  "Zuran Orb"
+ ],
+ "NotFound": [
+  "Ademi of the Silkchutes",
+  "Belion, the Parched",
+  "Cam and Farrik, Havoc Duo",
+  "Cren, Undercity Dreamer",
+  "Darval, Whose Web Protects",
+  "Desecrex, Gift of Servitude",
+  "Detect Intrusion",
+  "Fateweaver",
+  "Fire-Brained Scheme",
+  "Giantcraft Helm",
+  "Kavaero, Mind-Bitten",
+  "Knife Trick",
+  "Kraza, the Swarm as One",
+  "Leyline Weaver",
+  "Luis, Pompous Pillager",
+  "Makdee and Itla, Skysnarers",
+  "Merata, Neuron Hacker",
+  "Nia, Skysail Storyteller",
+  "Reality Fulcrum",
+  "Rick, Steadfast Leader",
+  "Rizna, the Spider-Crowned",
+  "Scions of the Ur-Spider",
+  "Skittering Kitten",
+  "Spectral Restitching",
+  "Surris, Spidersilk Innovator",
+  "Temple Trap",
+  "The Scouring Stormsoul",
+  "The Terminus of Return",
+  "Viggo, Enforcer of Ig's Crossing",
+  "Wekhdu, Midnight Hunter",
+  "Wonderweave Aerialist",
+  "Wrench, Speedway Saboteur",
+  "Yera and Oski, Weaver and Guide",
+  "Zora, Spider Fancier"
+ ],
+ "updated_at": "2026-10-30T12:13:57Z"
 }
