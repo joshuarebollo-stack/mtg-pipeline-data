@@ -395,6 +395,18 @@
   {
    "Name": "Yavimaya, Cradle of Growth",
    "Color": "G"
+  },
+  {
+   "Name": "Fatehold Annex",
+   "Color": "WU"
+  },
+  {
+   "Name": "Room of Refuge",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Villainous Hideout",
+   "Color": "WUBRG"
   }
  ],
  "NonLands": [
@@ -4153,6 +4165,270 @@
   {
    "Name": "Zirda, the Dawnwaker",
    "Color": "WR"
+  },
+  {
+   "Name": "Agent Bishop, Man in Black",
+   "Color": "W"
+  },
+  {
+   "Name": "Apex Witchstalker",
+   "Color": "B"
+  },
+  {
+   "Name": "Arni, Renowned Champion",
+   "Color": "R"
+  },
+  {
+   "Name": "Atomic Microsizer",
+   "Color": "U"
+  },
+  {
+   "Name": "Awaken the Inferno",
+   "Color": "R"
+  },
+  {
+   "Name": "Bilbo, Luckwearer",
+   "Color": "U"
+  },
+  {
+   "Name": "Bloombrute",
+   "Color": "WG"
+  },
+  {
+   "Name": "Broadcast Takeover",
+   "Color": "R"
+  },
+  {
+   "Name": "Charge the Sanctum",
+   "Color": "WR"
+  },
+  {
+   "Name": "Command the Stage",
+   "Color": "R"
+  },
+  {
+   "Name": "Confusticate and Bebother",
+   "Color": "U"
+  },
+  {
+   "Name": "Craftwork Crusher",
+   "Color": "RG"
+  },
+  {
+   "Name": "Craterclaw Colossus",
+   "Color": "R"
+  },
+  {
+   "Name": "Desperate Futurescribe",
+   "Color": "WU"
+  },
+  {
+   "Name": "Emergency Phytomedic // Seed Suture",
+   "Color": "WG"
+  },
+  {
+   "Name": "Emeritus of Truce // Swords to Plowshares",
+   "Color": "W"
+  },
+  {
+   "Name": "Fateshaper Aspirant",
+   "Color": "W"
+  },
+  {
+   "Name": "Fblthp, Knows the Way",
+   "Color": "G"
+  },
+  {
+   "Name": "Frostbite Pyromental",
+   "Color": "UR"
+  },
+  {
+   "Name": "Gallia, Tragic Host",
+   "Color": "B"
+  },
+  {
+   "Name": "Generous Revival",
+   "Color": "W"
+  },
+  {
+   "Name": "Ghalta the Unstoppable",
+   "Color": "G"
+  },
+  {
+   "Name": "Glamer Gifter",
+   "Color": "U"
+  },
+  {
+   "Name": "Graft Surgeon",
+   "Color": "W"
+  },
+  {
+   "Name": "Great Gilded Boat",
+   "Color": "U"
+  },
+  {
+   "Name": "Honor",
+   "Color": "W"
+  },
+  {
+   "Name": "Hungering Puppetbeast",
+   "Color": "G"
+  },
+  {
+   "Name": "Kinbinding",
+   "Color": "W"
+  },
+  {
+   "Name": "Kwia Vigorbloom",
+   "Color": "WG"
+  },
+  {
+   "Name": "Lady Octopus, Inspired Inventor",
+   "Color": "U"
+  },
+  {
+   "Name": "Lakeshore Apothecary",
+   "Color": "U"
+  },
+  {
+   "Name": "Marwyn, the Clearcutter",
+   "Color": "R"
+  },
+  {
+   "Name": "Memory Trap",
+   "Color": "W"
+  },
+  {
+   "Name": "New Generation's Technique",
+   "Color": "G"
+  },
+  {
+   "Name": "Norman Osborn",
+   "Color": "U"
+  },
+  {
+   "Name": "Predictive Preparations",
+   "Color": "W"
+  },
+  {
+   "Name": "Prudent Fateseer // Peer Review",
+   "Color": "WU"
+  },
+  {
+   "Name": "Rank Rat",
+   "Color": "B"
+  },
+  {
+   "Name": "Raphael's Technique",
+   "Color": "R"
+  },
+  {
+   "Name": "Roll-Roll-Roll-Roll",
+   "Color": "U"
+  },
+  {
+   "Name": "Rubble Rouser",
+   "Color": "R"
+  },
+  {
+   "Name": "Ruric Thar, Magecrusher",
+   "Color": "G"
+  },
+  {
+   "Name": "Sami's Curiosity",
+   "Color": "G"
+  },
+  {
+   "Name": "Sanar, Unfinished Genius // Wild Idea",
+   "Color": "UR"
+  },
+  {
+   "Name": "Scarlet Spider, Kaine",
+   "Color": "BR"
+  },
+  {
+   "Name": "Shadow of the Goblin",
+   "Color": "R"
+  },
+  {
+   "Name": "Skilled Battlecarver",
+   "Color": "R"
+  },
+  {
+   "Name": "Solve for Disappointment",
+   "Color": "B"
+  },
+  {
+   "Name": "Starbreach Whale",
+   "Color": "U"
+  },
+  {
+   "Name": "Systems Override",
+   "Color": "R"
+  },
+  {
+   "Name": "Tether Technician",
+   "Color": "R"
+  },
+  {
+   "Name": "Teyo, Diamondblade Mage",
+   "Color": "B"
+  },
+  {
+   "Name": "The Death of Gwen Stacy",
+   "Color": "B"
+  },
+  {
+   "Name": "Theorix Metamage // Omit Variables",
+   "Color": "UB"
+  },
+  {
+   "Name": "Thranduil's Decree",
+   "Color": "U"
+  },
+  {
+   "Name": "Through the Forest Gate",
+   "Color": "G"
+  },
+  {
+   "Name": "Tomik, Orzhov Lawmage",
+   "Color": "W"
+  },
+  {
+   "Name": "Ultimate Green Goblin",
+   "Color": "BR"
+  },
+  {
+   "Name": "Uneasy Partings",
+   "Color": "U"
+  },
+  {
+   "Name": "Vinelasher Adept",
+   "Color": "G"
+  },
+  {
+   "Name": "Wartime Protestors",
+   "Color": "R"
+  },
+  {
+   "Name": "Watery Grasp",
+   "Color": "U"
+  },
+  {
+   "Name": "Way of the Warlord",
+   "Color": "R"
+  },
+  {
+   "Name": "Whiplash Wordsmith // Vicious Verse",
+   "Color": "BR"
+  },
+  {
+   "Name": "Yoshimaru, Beloved Companion",
+   "Color": "W"
+  },
+  {
+   "Name": "Your Fate Ends Here",
+   "Color": "W"
   }
  ],
  "Colorless": [
@@ -4683,7 +4959,17 @@
   "Wurmcoil Engine",
   "Yggdrasil, Rebirth Engine",
   "Zabaz, the Glimmerwasp",
-  "Zuran Orb"
+  "Zuran Orb",
+  "Codie, Ravenous Codex",
+  "Darksteel Colossus",
+  "Introduction to Annihilation",
+  "Legacy Weapon",
+  "Maze's End",
+  "Patchwork Banner",
+  "Rocket-Powered Goblin Glider",
+  "Traxos, Scourge Eternal",
+  "Treasure Vault",
+  "Zuko's Exile"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -4721,5 +5007,5 @@
   "Yera and Oski, Weaver and Guide",
   "Zora, Spider Fancier"
  ],
- "updated_at": "2026-10-31T11:44:08Z"
+ "updated_at": "2026-11-01T13:15:05Z"
 }
