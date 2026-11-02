@@ -4429,6 +4429,22 @@
   {
    "Name": "Your Fate Ends Here",
    "Color": "W"
+  },
+  {
+   "Name": "Karn, Gilded Guardian",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Protege's Awakening",
+   "Color": "U"
+  },
+  {
+   "Name": "Saheeli, Sublime Artificer",
+   "Color": "UR"
+  },
+  {
+   "Name": "Zookeeper Mechan",
+   "Color": "R"
   }
  ],
  "Colorless": [
@@ -4969,7 +4985,9 @@
   "Rocket-Powered Goblin Glider",
   "Traxos, Scourge Eternal",
   "Treasure Vault",
-  "Zuko's Exile"
+  "Zuko's Exile",
+  "Arcum's Astrolabe",
+  "Sunscorched Desert"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -5007,5 +5025,5 @@
   "Yera and Oski, Weaver and Guide",
   "Zora, Spider Fancier"
  ],
- "updated_at": "2026-11-01T13:15:05Z"
+ "updated_at": "2026-11-02T14:57:39Z"
 }
