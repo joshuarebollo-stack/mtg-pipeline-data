@@ -4453,6 +4453,10 @@
   {
    "Name": "Matt Murdock, Justice Seeker",
    "Color": "W"
+  },
+  {
+   "Name": "Fatehold Chronologist",
+   "Color": "WU"
   }
  ],
  "Colorless": [
@@ -4998,7 +5002,8 @@
   "Sunscorched Desert",
   "Brotherhood Regalia",
   "Thought Vessel",
-  "Thran Foundry"
+  "Thran Foundry",
+  "Galactus, Devourer of Worlds"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -5036,5 +5041,5 @@
   "Yera and Oski, Weaver and Guide",
   "Zora, Spider Fancier"
  ],
- "updated_at": "2026-11-03T13:44:56Z"
+ "updated_at": "2026-11-04T11:30:11Z"
 }
