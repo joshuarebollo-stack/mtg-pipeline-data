@@ -407,6 +407,10 @@
   {
    "Name": "Villainous Hideout",
    "Color": "WUBRG"
+  },
+  {
+   "Name": "Branch of Vitu-Ghazi",
+   "Color": "WUBRG"
   }
  ],
  "NonLands": [
@@ -4457,6 +4461,14 @@
   {
    "Name": "Fatehold Chronologist",
    "Color": "WU"
+  },
+  {
+   "Name": "Beckon Apparition",
+   "Color": "WB"
+  },
+  {
+   "Name": "Dryad Militant",
+   "Color": "WG"
   }
  ],
  "Colorless": [
@@ -5003,7 +5015,8 @@
   "Brotherhood Regalia",
   "Thought Vessel",
   "Thran Foundry",
-  "Galactus, Devourer of Worlds"
+  "Galactus, Devourer of Worlds",
+  "Winter Moon"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -5041,5 +5054,5 @@
   "Yera and Oski, Weaver and Guide",
   "Zora, Spider Fancier"
  ],
- "updated_at": "2026-11-04T13:13:38Z"
+ "updated_at": "2026-11-04T13:54:36Z"
 }
