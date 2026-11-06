@@ -6593,6 +6593,10 @@
   {
    "Name": "Zuko, Conflicted",
    "Color": "BR"
+  },
+  {
+   "Name": "Curse-Marred Demon",
+   "Color": "R"
   }
  ],
  "Colorless": [
@@ -7209,7 +7213,9 @@
   "Urza's Factory",
   "Vibrant Cityscape",
   "Virulent Silencer",
-  "Worn Powerstone"
+  "Worn Powerstone",
+  "Arc Reactor",
+  "Spire Golem"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -7245,7 +7251,8 @@
   "Wonderweave Aerialist",
   "Wrench, Speedway Saboteur",
   "Yera and Oski, Weaver and Guide",
-  "Zora, Spider Fancier"
+  "Zora, Spider Fancier",
+  "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-05T14:24:17Z"
+ "updated_at": "2026-11-06T13:58:28Z"
 }
