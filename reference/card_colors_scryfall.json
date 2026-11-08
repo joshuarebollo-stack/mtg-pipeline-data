@@ -6597,6 +6597,10 @@
   {
    "Name": "Curse-Marred Demon",
    "Color": "R"
+  },
+  {
+   "Name": "Inkling Summoning",
+   "Color": "WB"
   }
  ],
  "Colorless": [
@@ -7254,5 +7258,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-07T17:55:50Z"
+ "updated_at": "2026-11-08T12:56:19Z"
 }
