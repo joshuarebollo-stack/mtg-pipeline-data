@@ -6601,6 +6601,34 @@
   {
    "Name": "Inkling Summoning",
    "Color": "WB"
+  },
+  {
+   "Name": "Diviner of Victory",
+   "Color": "U"
+  },
+  {
+   "Name": "Ghalta the Immovable",
+   "Color": "W"
+  },
+  {
+   "Name": "Happy Hogan, Dauntless Driver",
+   "Color": "R"
+  },
+  {
+   "Name": "Mabel, Bitter Recluse",
+   "Color": "B"
+  },
+  {
+   "Name": "Primal Witchstalker",
+   "Color": "BG"
+  },
+  {
+   "Name": "Repurposed Enforcer",
+   "Color": "W"
+  },
+  {
+   "Name": "The Kingpin of Crime",
+   "Color": "WB"
   }
  ],
  "Colorless": [
@@ -7219,7 +7247,9 @@
   "Virulent Silencer",
   "Worn Powerstone",
   "Arc Reactor",
-  "Spire Golem"
+  "Spire Golem",
+  "Aethersphere Harvester",
+  "Faceless Haven"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -7258,5 +7288,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-08T12:56:19Z"
+ "updated_at": "2026-11-09T15:20:44Z"
 }
