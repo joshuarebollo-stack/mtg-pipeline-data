@@ -475,6 +475,14 @@
   {
    "Name": "Turtle Lair",
    "Color": "WUBRG"
+  },
+  {
+   "Name": "Federation Outpost",
+   "Color": "W"
+  },
+  {
+   "Name": "The Unicomplex",
+   "Color": "B"
   }
  ],
  "NonLands": [
@@ -6629,6 +6637,50 @@
   {
    "Name": "The Kingpin of Crime",
    "Color": "WB"
+  },
+  {
+   "Name": "Armus, Skin of Evil",
+   "Color": "B"
+  },
+  {
+   "Name": "Captain James T. Kirk",
+   "Color": "R"
+  },
+  {
+   "Name": "Captain Jean-Luc Picard",
+   "Color": "W"
+  },
+  {
+   "Name": "Dr. Beverly Crusher",
+   "Color": "W"
+  },
+  {
+   "Name": "Exploratory Mission",
+   "Color": "R"
+  },
+  {
+   "Name": "Genesis Device",
+   "Color": "G"
+  },
+  {
+   "Name": "Georgiou, Terran Emperor",
+   "Color": "B"
+  },
+  {
+   "Name": "Salt Vampire",
+   "Color": "B"
+  },
+  {
+   "Name": "Test of Courage",
+   "Color": "G"
+  },
+  {
+   "Name": "The Naked Time",
+   "Color": "R"
+  },
+  {
+   "Name": "Wesley Crusher, Starfleet Cadet",
+   "Color": "U"
   }
  ],
  "Colorless": [
@@ -7288,5 +7340,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-10T14:29:52Z"
+ "updated_at": "2026-11-11T13:46:08Z"
 }
