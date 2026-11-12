@@ -483,6 +483,10 @@
   {
    "Name": "The Unicomplex",
    "Color": "B"
+  },
+  {
+   "Name": "Ferenginar",
+   "Color": "BG"
   }
  ],
  "NonLands": [
@@ -6681,6 +6685,10 @@
   {
    "Name": "Wesley Crusher, Starfleet Cadet",
    "Color": "U"
+  },
+  {
+   "Name": "Final Frontier",
+   "Color": "G"
   }
  ],
  "Colorless": [
@@ -7340,5 +7348,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-11T13:46:08Z"
+ "updated_at": "2026-11-12T14:48:37Z"
 }
