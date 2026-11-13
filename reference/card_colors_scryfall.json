@@ -487,6 +487,10 @@
   {
    "Name": "Ferenginar",
    "Color": "BG"
+  },
+  {
+   "Name": "Q Continuum",
+   "Color": "G"
   }
  ],
  "NonLands": [
@@ -6689,6 +6693,22 @@
   {
    "Name": "Final Frontier",
    "Color": "G"
+  },
+  {
+   "Name": "Anthropological Mission",
+   "Color": "U"
+  },
+  {
+   "Name": "Collation Trimatrix",
+   "Color": "B"
+  },
+  {
+   "Name": "Mr. Spock, Science Officer",
+   "Color": "U"
+  },
+  {
+   "Name": "Warp Speed",
+   "Color": "G"
   }
  ],
  "Colorless": [
@@ -7309,7 +7329,9 @@
   "Arc Reactor",
   "Spire Golem",
   "Aethersphere Harvester",
-  "Faceless Haven"
+  "Faceless Haven",
+  "Memnarch, the Warden",
+  "U.S.S. Enterprise-D, Galaxy-Class"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -7348,5 +7370,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-12T14:48:37Z"
+ "updated_at": "2026-11-13T14:12:46Z"
 }
