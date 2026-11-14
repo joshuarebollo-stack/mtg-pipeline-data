@@ -6709,6 +6709,30 @@
   {
    "Name": "Warp Speed",
    "Color": "G"
+  },
+  {
+   "Name": "Boarding Action",
+   "Color": "R"
+  },
+  {
+   "Name": "Jadzia Dax, Living Legacy",
+   "Color": "G"
+  },
+  {
+   "Name": "Khan, Vengeful Heart",
+   "Color": "B"
+  },
+  {
+   "Name": "Lieutenant Commander Data",
+   "Color": "U"
+  },
+  {
+   "Name": "Make It So",
+   "Color": "U"
+  },
+  {
+   "Name": "Transwarp Hub",
+   "Color": "U"
   }
  ],
  "Colorless": [
@@ -7331,7 +7355,9 @@
   "Aethersphere Harvester",
   "Faceless Haven",
   "Memnarch, the Warden",
-  "U.S.S. Enterprise-D, Galaxy-Class"
+  "U.S.S. Enterprise-D, Galaxy-Class",
+  "Deep Space 9",
+  "The Holodeck"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -7370,5 +7396,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-13T14:12:46Z"
+ "updated_at": "2026-11-14T13:07:13Z"
 }
