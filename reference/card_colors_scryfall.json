@@ -491,6 +491,62 @@
   {
    "Name": "Q Continuum",
    "Color": "G"
+  },
+  {
+   "Name": "Andoria",
+   "Color": "UR"
+  },
+  {
+   "Name": "Bajor",
+   "Color": "WR"
+  },
+  {
+   "Name": "Cardassia Prime",
+   "Color": "WB"
+  },
+  {
+   "Name": "Earth, Sector 001",
+   "Color": "UG"
+  },
+  {
+   "Name": "Ni'Var Science Academy",
+   "Color": "U"
+  },
+  {
+   "Name": "Orion",
+   "Color": "RG"
+  },
+  {
+   "Name": "Qo'noS",
+   "Color": "BR"
+  },
+  {
+   "Name": "Quark's Bar",
+   "Color": "R"
+  },
+  {
+   "Name": "Risa",
+   "Color": "WG"
+  },
+  {
+   "Name": "Romulus",
+   "Color": "UB"
+  },
+  {
+   "Name": "Spatial Anomaly",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Subspace Anomaly",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Temporal Anomaly",
+   "Color": "WUBRG"
+  },
+  {
+   "Name": "Vulcan",
+   "Color": "WU"
   }
  ],
  "NonLands": [
@@ -6733,6 +6789,734 @@
   {
    "Name": "Transwarp Hub",
    "Color": "U"
+  },
+  {
+   "Name": "A Good Day to Die",
+   "Color": "B"
+  },
+  {
+   "Name": "Academy Instructor",
+   "Color": "R"
+  },
+  {
+   "Name": "Adversary by Algorithm",
+   "Color": "G"
+  },
+  {
+   "Name": "Amok Time",
+   "Color": "G"
+  },
+  {
+   "Name": "Andromedan Automatons",
+   "Color": "W"
+  },
+  {
+   "Name": "Antagonist Incorporator",
+   "Color": "W"
+  },
+  {
+   "Name": "Assault Drone",
+   "Color": "B"
+  },
+  {
+   "Name": "Assembly Specialist",
+   "Color": "W"
+  },
+  {
+   "Name": "Astute Terraformer",
+   "Color": "G"
+  },
+  {
+   "Name": "Automated Warfare System",
+   "Color": "B"
+  },
+  {
+   "Name": "Bat'leth",
+   "Color": "B"
+  },
+  {
+   "Name": "Battle-Scarred Survivalist",
+   "Color": "B"
+  },
+  {
+   "Name": "Beckett Mariner, Impetuous Ensign",
+   "Color": "R"
+  },
+  {
+   "Name": "Blastoneuron",
+   "Color": "B"
+  },
+  {
+   "Name": "Blessed Ghoul",
+   "Color": "WB"
+  },
+  {
+   "Name": "Borg Cube",
+   "Color": "WB"
+  },
+  {
+   "Name": "Bothersome Noisemaker",
+   "Color": "R"
+  },
+  {
+   "Name": "Brad Boimler, Eager Ensign",
+   "Color": "W"
+  },
+  {
+   "Name": "Brazen Bluff",
+   "Color": "R"
+  },
+  {
+   "Name": "Cantankerous Captain",
+   "Color": "R"
+  },
+  {
+   "Name": "Captain Benjamin Sisko",
+   "Color": "W"
+  },
+  {
+   "Name": "Captain Jonathan Archer",
+   "Color": "G"
+  },
+  {
+   "Name": "Captain Kathryn Janeway",
+   "Color": "G"
+  },
+  {
+   "Name": "Captain Michael Burnham",
+   "Color": "R"
+  },
+  {
+   "Name": "Captain Pike, Fullness of Time",
+   "Color": "G"
+  },
+  {
+   "Name": "Captain's Tutelage",
+   "Color": "R"
+  },
+  {
+   "Name": "Cetacean Ops",
+   "Color": "U"
+  },
+  {
+   "Name": "Cha'DIch Investigator",
+   "Color": "B"
+  },
+  {
+   "Name": "Cleveland Booker, Empath",
+   "Color": "RG"
+  },
+  {
+   "Name": "Cloak and Phaser",
+   "Color": "U"
+  },
+  {
+   "Name": "Cloistered Telepath",
+   "Color": "U"
+  },
+  {
+   "Name": "Cold-Blooded Crew",
+   "Color": "G"
+  },
+  {
+   "Name": "Collective Drone",
+   "Color": "B"
+  },
+  {
+   "Name": "Command Decision",
+   "Color": "W"
+  },
+  {
+   "Name": "Command Subadjunct",
+   "Color": "W"
+  },
+  {
+   "Name": "Commander Raffi Musiker",
+   "Color": "B"
+  },
+  {
+   "Name": "Common Goal",
+   "Color": "G"
+  },
+  {
+   "Name": "Conquest Mission",
+   "Color": "W"
+  },
+  {
+   "Name": "Consider the Prime Directive",
+   "Color": "U"
+  },
+  {
+   "Name": "Constable Odo",
+   "Color": "WU"
+  },
+  {
+   "Name": "Culber and Stamets, Star-Crossed",
+   "Color": "G"
+  },
+  {
+   "Name": "D'Ghor Bloodletter",
+   "Color": "B"
+  },
+  {
+   "Name": "D'Vana Tendi, Optimistic Ensign",
+   "Color": "UG"
+  },
+  {
+   "Name": "D-7 Battle Cruiser",
+   "Color": "R"
+  },
+  {
+   "Name": "DOT-7 Repair Squad",
+   "Color": "W"
+  },
+  {
+   "Name": "Dahar Master",
+   "Color": "R"
+  },
+  {
+   "Name": "Dal R'El, Augment Orphan",
+   "Color": "RG"
+  },
+  {
+   "Name": "Daniels, Temporal Agent",
+   "Color": "BG"
+  },
+  {
+   "Name": "Data, New Life",
+   "Color": "U"
+  },
+  {
+   "Name": "Dathon and Picard at El-Adrel",
+   "Color": "G"
+  },
+  {
+   "Name": "David and Carol Marcus, Creators",
+   "Color": "G"
+  },
+  {
+   "Name": "De-evolve",
+   "Color": "B"
+  },
+  {
+   "Name": "Dominion Assault Force",
+   "Color": "G"
+  },
+  {
+   "Name": "Dominion Supervisor",
+   "Color": "G"
+  },
+  {
+   "Name": "Dr. Leonard \"Bones\" McCoy",
+   "Color": "G"
+  },
+  {
+   "Name": "Dr. McCoy, Surly Surgeon",
+   "Color": "W"
+  },
+  {
+   "Name": "Eject the Warp Core",
+   "Color": "B"
+  },
+  {
+   "Name": "Emergency Holographic Crew",
+   "Color": "U"
+  },
+  {
+   "Name": "Emergency Medical Hologram",
+   "Color": "W"
+  },
+  {
+   "Name": "Encounter the Unknown",
+   "Color": "R"
+  },
+  {
+   "Name": "Energize",
+   "Color": "U"
+  },
+  {
+   "Name": "Ensign Pavel Chekov",
+   "Color": "U"
+  },
+  {
+   "Name": "Enterprise NX-01",
+   "Color": "U"
+  },
+  {
+   "Name": "Federation Field Medic",
+   "Color": "W"
+  },
+  {
+   "Name": "Federation Probe",
+   "Color": "U"
+  },
+  {
+   "Name": "First Contact",
+   "Color": "G"
+  },
+  {
+   "Name": "Free Borg Revolutionaries",
+   "Color": "W"
+  },
+  {
+   "Name": "Fugitive Listener",
+   "Color": "B"
+  },
+  {
+   "Name": "Genesis Effect",
+   "Color": "R"
+  },
+  {
+   "Name": "Ghost of Illyria",
+   "Color": "W"
+  },
+  {
+   "Name": "Gowron, Eager for Battle",
+   "Color": "BR"
+  },
+  {
+   "Name": "Gray and Adira, Forever Joined",
+   "Color": "UR"
+  },
+  {
+   "Name": "Guidance Failure",
+   "Color": "U"
+  },
+  {
+   "Name": "Gwyndala, the Progeny",
+   "Color": "U"
+  },
+  {
+   "Name": "H.M.S. Bounty, Unlikely Timeship",
+   "Color": "U"
+  },
+  {
+   "Name": "He's Dead, Jim",
+   "Color": "B"
+  },
+  {
+   "Name": "Highly Illogical",
+   "Color": "U"
+  },
+  {
+   "Name": "Hit It!",
+   "Color": "RG"
+  },
+  {
+   "Name": "Hive Mind Coprocessor",
+   "Color": "B"
+  },
+  {
+   "Name": "Hologram Janeway",
+   "Color": "W"
+  },
+  {
+   "Name": "Hologram Stalker",
+   "Color": "G"
+  },
+  {
+   "Name": "Horta",
+   "Color": "R"
+  },
+  {
+   "Name": "Hoshi Sato, Exolinguist",
+   "Color": "U"
+  },
+  {
+   "Name": "Humpback Whales",
+   "Color": "U"
+  },
+  {
+   "Name": "I'm a Doctor, Not a . . .",
+   "Color": "G"
+  },
+  {
+   "Name": "Impossible Choice",
+   "Color": "B"
+  },
+  {
+   "Name": "In the Pale Moonlight",
+   "Color": "B"
+  },
+  {
+   "Name": "Infinite Diversity",
+   "Color": "R"
+  },
+  {
+   "Name": "Interstellar Effigy",
+   "Color": "U"
+  },
+  {
+   "Name": "Jett Reno, Problem Solver",
+   "Color": "U"
+  },
+  {
+   "Name": "Kai Winn, Faithless Leader",
+   "Color": "B"
+  },
+  {
+   "Name": "Khaaaaaaaaaaaannn!",
+   "Color": "R"
+  },
+  {
+   "Name": "Khan, Despot by Design",
+   "Color": "R"
+  },
+  {
+   "Name": "L'Rell, Fierce Visionary",
+   "Color": "BR"
+  },
+  {
+   "Name": "La'An Noonien-Singh, Security",
+   "Color": "R"
+  },
+  {
+   "Name": "Locutus, the One Who Speaks",
+   "Color": "WB"
+  },
+  {
+   "Name": "Lore, Positronic Provocateur",
+   "Color": "UB"
+  },
+  {
+   "Name": "Lwaxana Troi, Charming Guest",
+   "Color": "R"
+  },
+  {
+   "Name": "MACO Strike Team",
+   "Color": "G"
+  },
+  {
+   "Name": "Malfunctioning Holodeck",
+   "Color": "W"
+  },
+  {
+   "Name": "Marooned",
+   "Color": "U"
+  },
+  {
+   "Name": "Melkotian Adjudicator",
+   "Color": "U"
+  },
+  {
+   "Name": "Miles O'Brien, Transporter Ops",
+   "Color": "W"
+  },
+  {
+   "Name": "Moopsy",
+   "Color": "G"
+  },
+  {
+   "Name": "Mugato",
+   "Color": "G"
+  },
+  {
+   "Name": "Munitions Enthusiast",
+   "Color": "R"
+  },
+  {
+   "Name": "Neelix, Moral Support",
+   "Color": "G"
+  },
+  {
+   "Name": "Nog, Ambitious Cadet",
+   "Color": "BG"
+  },
+  {
+   "Name": "Nyota Uhura, Communications",
+   "Color": "U"
+  },
+  {
+   "Name": "Oberth-Class Starship",
+   "Color": "W"
+  },
+  {
+   "Name": "Obsidian Order Operative",
+   "Color": "B"
+  },
+  {
+   "Name": "Open Communications",
+   "Color": "U"
+  },
+  {
+   "Name": "Pah-Wraith",
+   "Color": "R"
+  },
+  {
+   "Name": "Pattern Buffer Preservation",
+   "Color": "B"
+  },
+  {
+   "Name": "Peace in Our Time",
+   "Color": "W"
+  },
+  {
+   "Name": "Perils of the Past",
+   "Color": "R"
+  },
+  {
+   "Name": "Pet Sehlat",
+   "Color": "W"
+  },
+  {
+   "Name": "Phlox, Unorthodox Doctor",
+   "Color": "WG"
+  },
+  {
+   "Name": "Photosynthetic Physician",
+   "Color": "G"
+  },
+  {
+   "Name": "Picard, Leading by Example",
+   "Color": "W"
+  },
+  {
+   "Name": "Planetary Bombardment",
+   "Color": "R"
+  },
+  {
+   "Name": "Planetary Patrol",
+   "Color": "R"
+  },
+  {
+   "Name": "Plasma Cascade",
+   "Color": "R"
+  },
+  {
+   "Name": "Primary Unimatrix Adjunct",
+   "Color": "W"
+  },
+  {
+   "Name": "Pure Energy",
+   "Color": "W"
+  },
+  {
+   "Name": "Q, Stacking the Deck",
+   "Color": "R"
+  },
+  {
+   "Name": "Ravenous Cosmozoan",
+   "Color": "R"
+  },
+  {
+   "Name": "Relentless Drednok",
+   "Color": "B"
+  },
+  {
+   "Name": "Resistance Is Futile",
+   "Color": "B"
+  },
+  {
+   "Name": "Rogue Artificial Intelligence",
+   "Color": "B"
+  },
+  {
+   "Name": "Romulan Bird-of-Prey",
+   "Color": "U"
+  },
+  {
+   "Name": "Rutherford, Upgraded Ensign",
+   "Color": "W"
+  },
+  {
+   "Name": "Sarcophagus, Ship of the Dead",
+   "Color": "R"
+  },
+  {
+   "Name": "Sarek, Federation Ambassador",
+   "Color": "WUG"
+  },
+  {
+   "Name": "Saru, Unthreatened",
+   "Color": "G"
+  },
+  {
+   "Name": "Saurian Explorer",
+   "Color": "G"
+  },
+  {
+   "Name": "Savvy Profiteer",
+   "Color": "R"
+  },
+  {
+   "Name": "Sela, Tal Shiar Paradox",
+   "Color": "B"
+  },
+  {
+   "Name": "Set Phasers to . . .",
+   "Color": "W"
+  },
+  {
+   "Name": "Shields Up!",
+   "Color": "W"
+  },
+  {
+   "Name": "Shuttle Ace",
+   "Color": "W"
+  },
+  {
+   "Name": "Silicate Surveyor",
+   "Color": "R"
+  },
+  {
+   "Name": "Species 8472",
+   "Color": "G"
+  },
+  {
+   "Name": "Starfleet Security",
+   "Color": "R"
+  },
+  {
+   "Name": "Starfleet Spanner Jockey",
+   "Color": "U"
+  },
+  {
+   "Name": "Storied Veteran",
+   "Color": "B"
+  },
+  {
+   "Name": "Stray from History",
+   "Color": "B"
+  },
+  {
+   "Name": "Subcommander T'Pol",
+   "Color": "U"
+  },
+  {
+   "Name": "Suurok-Class Science Vessel",
+   "Color": "U"
+  },
+  {
+   "Name": "Suus Mahna Practitioner",
+   "Color": "U"
+  },
+  {
+   "Name": "Sylvia Tilly, Joy of Discovery",
+   "Color": "G"
+  },
+  {
+   "Name": "Syndicate Liquidators",
+   "Color": "G"
+  },
+  {
+   "Name": "Tactical Officer",
+   "Color": "W"
+  },
+  {
+   "Name": "Tal Shiar Analyst",
+   "Color": "R"
+  },
+  {
+   "Name": "Tal Shiar Operative",
+   "Color": "B"
+  },
+  {
+   "Name": "Temporal Conqueror",
+   "Color": "G"
+  },
+  {
+   "Name": "Tenacious Drone",
+   "Color": "B"
+  },
+  {
+   "Name": "Test of Conviction",
+   "Color": "W"
+  },
+  {
+   "Name": "Test of Loyalty",
+   "Color": "B"
+  },
+  {
+   "Name": "Test of Priorities",
+   "Color": "U"
+  },
+  {
+   "Name": "The Caretaker",
+   "Color": "U"
+  },
+  {
+   "Name": "The Destruction of Praxis",
+   "Color": "B"
+  },
+  {
+   "Name": "The Doctor, EMH",
+   "Color": "WG"
+  },
+  {
+   "Name": "The Duras Sisters",
+   "Color": "BR"
+  },
+  {
+   "Name": "The Inner Light",
+   "Color": "WG"
+  },
+  {
+   "Name": "The Traveler",
+   "Color": "UG"
+  },
+  {
+   "Name": "The Wrath of Khan",
+   "Color": "R"
+  },
+  {
+   "Name": "There's Coffee in that Nebula",
+   "Color": "W"
+  },
+  {
+   "Name": "U.S.S. Discovery, at Black Alert",
+   "Color": "G"
+  },
+  {
+   "Name": "U.S.S. Enterprise-A, Free Spirit",
+   "Color": "W"
+  },
+  {
+   "Name": "U.S.S. Excelsior, Cutting Edge",
+   "Color": "W"
+  },
+  {
+   "Name": "U.S.S. Voyager, Lone Wanderer",
+   "Color": "G"
+  },
+  {
+   "Name": "Una Chin-Riley, Number One",
+   "Color": "W"
+  },
+  {
+   "Name": "V'Ger, the Intruder",
+   "Color": "U"
+  },
+  {
+   "Name": "Vash, Freelance Archaeologist",
+   "Color": "BG"
+  },
+  {
+   "Name": "Vengeance Mission",
+   "Color": "B"
+  },
+  {
+   "Name": "Vexing Drone",
+   "Color": "W"
+  },
+  {
+   "Name": "Worf, Honor-Bound Warrior",
+   "Color": "WR"
+  },
+  {
+   "Name": "Worf, Intelligence Contractor",
+   "Color": "R"
+  },
+  {
+   "Name": "Xenobotanist",
+   "Color": "G"
+  },
+  {
+   "Name": "Xindi Surveyors",
+   "Color": "G"
+  },
+  {
+   "Name": "Zero, Incorporeal Sensate",
+   "Color": "WB"
   }
  ],
  "Colorless": [
@@ -7357,7 +8141,16 @@
   "Memnarch, the Warden",
   "U.S.S. Enterprise-D, Galaxy-Class",
   "Deep Space 9",
-  "The Holodeck"
+  "The Holodeck",
+  "Class-F Shuttlecraft",
+  "Combadge",
+  "Cybernetic Specialist",
+  "Perennial Behemoth",
+  "Sickbay",
+  "Tea, Earl Grey, Hot",
+  "Tricorder",
+  "U.S.S. Cerritos, Following Up",
+  "Unexplored Territory"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -7396,5 +8189,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-14T13:07:13Z"
+ "updated_at": "2026-11-15T08:53:13Z"
 }
