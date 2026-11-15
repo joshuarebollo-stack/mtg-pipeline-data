@@ -10,148 +10,39 @@
       "Date": null,
       "Player": "Charis Kikidis",
       "Result": "1st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/6faf6e61-8d31-4686-85b4-b5020105a794",
+      "AnchorUri": "https://melee.gg/Decklist/View/a01a79fd-ebfd-4e2e-9735-b4ff002d98a9",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "D'Ghor Bloodletter"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Duras Sisters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 8,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 2,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tea, Earl Grey, Hot"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tricorder"
-        },
-        {
-          "Count": 2,
-          "CardName": "Starfleet Security"
-        },
-        {
-          "Count": 2,
-          "CardName": "Eject the Warp Core"
-        },
-        {
-          "Count": 1,
-          "CardName": "Qo'noS"
-        },
-        {
-          "Count": 1,
-          "CardName": "Kai Winn, Faithless Leader"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
-        },
-        {
-          "Count": 1,
-          "CardName": "Battle-Scarred Survivalist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Storied Veteran"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 2,
-          "CardName": "Dahar Master"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cantankerous Captain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Savvy Profiteer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain's Tutelage"
-        },
-        {
-          "Count": 8,
-          "CardName": "Swamp"
-        }
-      ],
-      "Sideboard": []
-    },
-    {
-      "Date": null,
-      "Player": "Arne Huschenbeth",
-      "Result": "2st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/1c584706-c00b-44e1-adc4-b50201036a3a",
-      "Mainboard": [
-        {
-          "Count": 1,
-          "CardName": "V'Ger, the Intruder"
-        },
-        {
-          "Count": 3,
-          "CardName": "Risa"
-        },
-        {
-          "Count": 1,
-          "CardName": "Xenobotanist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mugato"
+          "Count": 4,
+          "CardName": "Opt"
         },
         {
           "Count": 4,
-          "CardName": "Forest"
+          "CardName": "Elusive Otter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
         },
         {
           "Count": 2,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Command Decision"
-        },
-        {
-          "Count": 1,
-          "CardName": "Constable Odo"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Traveler"
+          "CardName": "Great Hall of the Biblioplex"
         },
         {
           "Count": 2,
-          "CardName": "Set Phasers to . . ."
+          "CardName": "Secret Identity"
         },
         {
           "Count": 1,
-          "CardName": "Breeding Pool"
+          "CardName": "Impractical Joke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flow State"
         },
         {
           "Count": 3,
@@ -159,308 +50,485 @@
         },
         {
           "Count": 1,
-          "CardName": "Vulcan"
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage // Improvised Act"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wild Ride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ravenous Cosmozoan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vibrant Outburst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Anthropological Mission"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ral, Crackling Wit"
         },
         {
           "Count": 1,
-          "CardName": "U.S.S. Discovery, at Black Alert"
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
-          "CardName": "Malfunctioning Holodeck"
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Arne Huschenbeth",
+      "Result": "2st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e3772d97-1dfa-4831-b3e9-b4ff01173e06",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
         },
         {
           "Count": 1,
-          "CardName": "U.S.S. Voyager, Lone Wanderer"
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorist's Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
-          "CardName": "Guidance Failure"
+          "CardName": "Multiversal Passage"
         },
         {
-          "Count": 1,
-          "CardName": "Interstellar Effigy"
+          "Count": 3,
+          "CardName": "No More Lies"
         },
         {
-          "Count": 1,
-          "CardName": "Consider the Prime Directive"
+          "Count": 4,
+          "CardName": "Countersculpt"
         },
         {
-          "Count": 1,
-          "CardName": "Astute Terraformer"
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
         },
         {
           "Count": 2,
           "CardName": "Plains"
         },
         {
-          "Count": 1,
-          "CardName": "Humpback Whales"
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
         },
         {
           "Count": 1,
-          "CardName": "David and Carol Marcus, Creators"
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petrified Hamlet"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
         },
         {
           "Count": 1,
-          "CardName": "Peace in Our Time"
+          "CardName": "Wan Shi Tong, Librarian"
         },
         {
           "Count": 1,
-          "CardName": "Andoria"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ensign Pavel Chekov"
+          "CardName": "Annul"
         },
         {
           "Count": 2,
-          "CardName": "Final Frontier"
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
-          "CardName": "Godless Shrine"
+          "CardName": "Sphinx of False Conclusions"
         },
         {
           "Count": 1,
-          "CardName": "Hologram Stalker"
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
         }
-      ],
-      "Sideboard": []
+      ]
     },
     {
       "Date": null,
       "Player": "KELLEN PASTORE",
       "Result": "3st Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/752e7de9-efd4-4a3e-bc68-b502010c29bc",
+      "AnchorUri": "https://melee.gg/Decklist/View/e0191485-e228-4d53-8e9f-b4fd0101fcc5",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "Xenobotanist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Suus Mahna Practitioner"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cloak and Phaser"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pah-Wraith"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Spanner Jockey"
-        },
-        {
-          "Count": 1,
-          "CardName": "Test of Courage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lieutenant Commander Data"
-        },
-        {
-          "Count": 1,
-          "CardName": "Stray from History"
-        },
-        {
-          "Count": 1,
-          "CardName": "Species 8472"
-        },
-        {
-          "Count": 2,
-          "CardName": "The Traveler"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 8,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mountain"
+          "CardName": "Guiding Hydra"
         },
         {
           "Count": 4,
-          "CardName": "Island"
+          "CardName": "Momo, Friendly Flier"
         },
         {
           "Count": 1,
-          "CardName": "Make It So"
+          "CardName": "Erode"
         },
         {
-          "Count": 1,
-          "CardName": "Xindi Surveyors"
-        },
-        {
-          "Count": 1,
-          "CardName": "Common Goal"
-        },
-        {
-          "Count": 1,
-          "CardName": "He's Dead, Jim"
+          "Count": 3,
+          "CardName": "Inspiring Vantage"
         },
         {
           "Count": 2,
-          "CardName": "Interstellar Effigy"
+          "CardName": "Starting Town"
         },
         {
-          "Count": 1,
-          "CardName": "Qo'noS"
+          "Count": 4,
+          "CardName": "Torch the Tower"
         },
         {
-          "Count": 1,
-          "CardName": "Consider the Prime Directive"
-        },
-        {
-          "Count": 2,
-          "CardName": "Humpback Whales"
-        },
-        {
-          "Count": 1,
-          "CardName": "Adversary by Algorithm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Andoria"
+          "Count": 3,
+          "CardName": "Mountain"
         },
         {
           "Count": 2,
-          "CardName": "Final Frontier"
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Stefan Schütz",
       "Result": "4th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/77e52908-79e4-40d9-b71b-b502011c4ca5",
+      "AnchorUri": "https://melee.gg/Decklist/View/fc0addc9-d936-46c6-9d71-b4d6010c6205",
       "Mainboard": [
-        {
-          "Count": 1,
-          "CardName": "Command Decision"
-        },
-        {
-          "Count": 1,
-          "CardName": "Malfunctioning Holodeck"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
-        },
-        {
-          "Count": 1,
-          "CardName": "Common Goal"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
-        },
-        {
-          "Count": 2,
-          "CardName": "Final Frontier"
-        },
-        {
-          "Count": 1,
-          "CardName": "First Contact"
-        },
-        {
-          "Count": 1,
-          "CardName": "Syndicate Liquidators"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cloistered Telepath"
-        },
-        {
-          "Count": 1,
-          "CardName": "Data, New Life"
-        },
-        {
-          "Count": 1,
-          "CardName": "Enterprise NX-01"
-        },
-        {
-          "Count": 1,
-          "CardName": "Make It So"
-        },
-        {
-          "Count": 1,
-          "CardName": "Marooned"
-        },
-        {
-          "Count": 2,
-          "CardName": "Open Communications"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Spanner Jockey"
-        },
-        {
-          "Count": 1,
-          "CardName": "Test of Priorities"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cleveland Booker, Empath"
-        },
-        {
-          "Count": 3,
-          "CardName": "The Traveler"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Cerritos, Following Up"
-        },
-        {
-          "Count": 1,
-          "CardName": "Andoria"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bajor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Earth, Sector 001"
-        },
-        {
-          "Count": 1,
-          "CardName": "Orion"
-        },
-        {
-          "Count": 1,
-          "CardName": "Risa"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
         {
           "Count": 6,
           "CardName": "Island"
         },
         {
           "Count": 4,
-          "CardName": "Forest"
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flashback"
         },
         {
           "Count": 1,
-          "CardName": "Talon Gates of Madara"
+          "CardName": "Traumatic Critique"
+        },
+        {
+          "Count": 1,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Anthropological Mission"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Impractical Joke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Long River's Pull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Impractical Joke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Essence Burn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bothersome Noisemaker"
+        }
+      ]
     },
     {
       "Date": null,
@@ -722,114 +790,123 @@
       "Date": null,
       "Player": "EduS",
       "Result": "7th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/f049d0aa-5cc7-4d2c-9c73-b502011426c4",
+      "AnchorUri": "https://melee.gg/Decklist/View/fc3d592f-5af6-479a-ae54-b4ff0029ea94",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Exploratory Mission"
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
         },
         {
           "Count": 1,
-          "CardName": "Perils of the Past"
+          "CardName": "Guiding Hydra"
         },
         {
-          "Count": 7,
-          "CardName": "Mountain"
+          "Count": 3,
+          "CardName": "Starting Town"
         },
         {
-          "Count": 1,
-          "CardName": "Boarding Action"
+          "Count": 4,
+          "CardName": "Temple Garden"
         },
         {
-          "Count": 1,
-          "CardName": "Temporal Conqueror"
+          "Count": 2,
+          "CardName": "Seam Rip"
         },
         {
-          "Count": 1,
-          "CardName": "Dathon and Picard at El-Adrel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Beckett Mariner, Impetuous Ensign"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Jonathan Archer"
-        },
-        {
-          "Count": 7,
+          "Count": 6,
           "CardName": "Forest"
         },
         {
-          "Count": 1,
-          "CardName": "Stomping Ground"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Enterprise-D, Galaxy-Class"
-        },
-        {
-          "Count": 1,
-          "CardName": "Savvy Profiteer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Khan, Despot by Design"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Duras Sisters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
-        },
-        {
-          "Count": 1,
-          "CardName": "Orion"
-        },
-        {
-          "Count": 1,
-          "CardName": "Saurian Explorer"
+          "Count": 4,
+          "CardName": "Llanowar Elves"
         },
         {
           "Count": 2,
-          "CardName": "Astute Terraformer"
+          "CardName": "Brightglass Gearhulk"
         },
         {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
+          "Count": 4,
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 1,
-          "CardName": "Genesis Effect"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sylvia Tilly, Joy of Discovery"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cantankerous Captain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Saru, Unthreatened"
+          "Count": 4,
+          "CardName": "Gene Pollinator"
         },
         {
           "Count": 2,
-          "CardName": "First Contact"
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bejeweled Warg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hushwood Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pawpatch Recruit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Michelangelo, Weirdness to 11"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ouroboroid"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brightglass Gearhulk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arachne, Psionic Weaver"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -1087,183 +1164,257 @@
       "Date": null,
       "Player": "Yuuki Ichikawa",
       "Result": "10th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/2f6c31ed-286c-4cf4-8021-b50101242286",
+      "AnchorUri": "https://melee.gg/Decklist/View/7198cdf5-559e-45f2-85d7-b4fe0101ef73",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "In the Pale Moonlight"
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
           "Count": 1,
-          "CardName": "Malfunctioning Holodeck"
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
         },
         {
           "Count": 1,
-          "CardName": "U.S.S. Enterprise-A, Free Spirit"
+          "CardName": "Island"
         },
         {
-          "Count": 1,
-          "CardName": "Tricorder"
+          "Count": 2,
+          "CardName": "Multiversal Passage"
         },
         {
-          "Count": 3,
-          "CardName": "Free Borg Revolutionaries"
+          "Count": 4,
+          "CardName": "Daydream"
         },
         {
-          "Count": 1,
-          "CardName": "Automated Warfare System"
+          "Count": 2,
+          "CardName": "The Wondrous Wasp"
         },
         {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
+          "Count": 4,
+          "CardName": "Gleaming Bastion"
         },
         {
-          "Count": 9,
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 6,
           "CardName": "Plains"
         },
         {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
           "Count": 1,
-          "CardName": "Stray from History"
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrrhic Strike"
         },
         {
           "Count": 3,
-          "CardName": "Assault Drone"
+          "CardName": "The Theorist, Jace Beleren"
         },
         {
           "Count": 1,
-          "CardName": "Borg Cube"
+          "CardName": "Ghost Vacuum"
         },
         {
           "Count": 1,
-          "CardName": "Resistance Is Futile"
+          "CardName": "The Wondrous Wasp"
+        },
+        {
+          "Count": 2,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider-Sense"
         },
         {
           "Count": 1,
-          "CardName": "Vexing Drone"
+          "CardName": "Spell Pierce"
         },
         {
-          "Count": 1,
-          "CardName": "Armus, Skin of Evil"
-        },
-        {
-          "Count": 1,
-          "CardName": "Relentless Drednok"
-        },
-        {
-          "Count": 1,
-          "CardName": "Set Phasers to . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Conquest Mission"
-        },
-        {
-          "Count": 1,
-          "CardName": "Antagonist Incorporator"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shields Up!"
-        },
-        {
-          "Count": 8,
-          "CardName": "Swamp"
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
         }
-      ],
-      "Sideboard": []
+      ]
     },
     {
       "Date": null,
       "Player": "Ma Noah",
       "Result": "11th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/a3afe559-9c0c-4965-a638-b50201217b84",
+      "AnchorUri": "https://melee.gg/Decklist/View/f266c034-7532-4d57-9d3b-b4ff00458c88",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Gowron, Eager for Battle"
+          "CardName": "Guiding Hydra"
         },
         {
-          "Count": 1,
-          "CardName": "Automated Warfare System"
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
-          "Count": 1,
-          "CardName": "Battle-Scarred Survivalist"
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
         },
         {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
-        },
-        {
-          "Count": 3,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "Georgiou, Terran Emperor"
-        },
-        {
-          "Count": 1,
-          "CardName": "He's Dead, Jim"
+          "Count": 2,
+          "CardName": "Starting Town"
         },
         {
           "Count": 3,
-          "CardName": "Relentless Drednok"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Storied Veteran"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sickbay"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Unicomplex"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cantankerous Captain"
+          "CardName": "Torch the Tower"
         },
         {
           "Count": 3,
-          "CardName": "Dahar Master"
+          "CardName": "Seam Rip"
         },
         {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
+          "Count": 3,
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 9,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 7,
+          "Count": 3,
           "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cosmogrand Zenith"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 2,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nova Hellkite"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ruinous Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -1415,102 +1566,155 @@
       "Date": null,
       "Player": "satoshi nakayama",
       "Result": "13th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/1ee92146-faa4-4731-a0d0-b5020111df47",
+      "AnchorUri": "https://melee.gg/Decklist/View/e554f8cc-9589-483a-a1e4-b4fc013955fa",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "He's Dead, Jim"
-        },
-        {
-          "Count": 1,
-          "CardName": "Xenobotanist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mugato"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Amok Time"
-        },
-        {
-          "Count": 1,
-          "CardName": "I'm a Doctor, Not a . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dathon and Picard at El-Adrel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Daniels, Temporal Agent"
-        },
-        {
-          "Count": 1,
-          "CardName": "Nog, Ambitious Cadet"
-        },
-        {
-          "Count": 10,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 2,
-          "CardName": "Syndicate Liquidators"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sylvia Tilly, Joy of Discovery"
-        },
-        {
-          "Count": 1,
-          "CardName": "Culber and Stamets, Star-Crossed"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shizo, Death's Storehouse"
-        },
-        {
-          "Count": 1,
-          "CardName": "Adversary by Algorithm"
-        },
-        {
-          "Count": 2,
-          "CardName": "Neelix, Moral Support"
-        },
-        {
-          "Count": 6,
           "CardName": "Swamp"
         },
         {
-          "Count": 1,
-          "CardName": "Dr. Leonard \"Bones\" McCoy"
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Umbral Collar Zealot"
         },
         {
           "Count": 1,
-          "CardName": "First Contact"
+          "CardName": "Foggy Swamp Visions"
         },
         {
           "Count": 1,
-          "CardName": "Saru, Unthreatened"
+          "CardName": "Aerid Konstrari"
+        },
+        {
+          "Count": 4,
+          "CardName": "Obsessive Pursuit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lively Dirge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
         },
         {
           "Count": 2,
-          "CardName": "Xindi Surveyors"
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gene Pollinator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Unicomplex"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deadly Precision"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "D'Ghor Bloodletter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Test of Courage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abigale, Eloquent First-Year"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Georgiou, Terran Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Salt Vampire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Foggy Swamp Visions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        }
+      ]
     },
     {
       "Date": null,
@@ -1638,292 +1842,379 @@
       "Date": null,
       "Player": "Marcelo Rodrigues Cavalcante",
       "Result": "15th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/709c6651-b22d-4384-a2fd-b50201121f1d",
+      "AnchorUri": "https://melee.gg/Decklist/View/f5b4a618-a7a9-44b3-82ec-b4ff001610ad",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "The Duras Sisters"
-        },
-        {
-          "Count": 2,
-          "CardName": "Automated Warfare System"
-        },
-        {
-          "Count": 1,
-          "CardName": "Battle-Scarred Survivalist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Blastoneuron"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cha'DIch Investigator"
-        },
-        {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "Kai Winn, Faithless Leader"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vengeance Mission"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tricorder"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dahar Master"
-        },
-        {
-          "Count": 2,
-          "CardName": "Khaaaaaaaaaaaannn!"
-        },
-        {
-          "Count": 1,
-          "CardName": "La'An Noonien-Singh, Security"
-        },
-        {
-          "Count": 1,
-          "CardName": "Munitions Enthusiast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 2,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Wrath of Khan"
-        },
-        {
-          "Count": 8,
+          "Count": 3,
           "CardName": "Swamp"
         },
         {
-          "Count": 8,
-          "CardName": "Mountain"
+          "Count": 3,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dream Beavers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 2,
+          "CardName": "We Say Thee Nay!"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 3,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Wondrous Wasp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 3,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Salt Vampire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "M.O.D.O.K."
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Shaun Henry",
       "Result": "16th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/2cc69795-4a8b-4396-a27d-b50201119d5e",
+      "AnchorUri": "https://melee.gg/Decklist/View/321ff5b8-6df8-419a-bf29-b4ff00b0fab5",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Xenobotanist"
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 3,
+          "CardName": "Doorkeeper Thrull"
         },
         {
           "Count": 2,
-          "CardName": "L'Rell, Fierce Visionary"
-        },
-        {
-          "Count": 1,
-          "CardName": "Assault Drone"
+          "CardName": "Erode"
         },
         {
           "Count": 2,
-          "CardName": "Automated Warfare System"
+          "CardName": "Escape Tunnel"
         },
         {
           "Count": 2,
-          "CardName": "Battle-Scarred Survivalist"
+          "CardName": "Carnivorous Cultivator // Enroot"
         },
         {
-          "Count": 1,
-          "CardName": "Cha'DIch Investigator"
+          "Count": 3,
+          "CardName": "Mightform Harmonizer"
         },
         {
-          "Count": 1,
-          "CardName": "Commander Raffi Musiker"
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
-          "Count": 2,
-          "CardName": "A Good Day to Die"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hive Mind Coprocessor"
+          "Count": 10,
+          "CardName": "Forest"
         },
         {
           "Count": 2,
-          "CardName": "Relentless Drednok"
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
         },
         {
           "Count": 2,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Class-F Shuttlecraft"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spatial Anomaly"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dahar Master"
-        },
-        {
-          "Count": 1,
-          "CardName": "Genesis Effect"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Naked Time"
-        },
-        {
-          "Count": 1,
-          "CardName": "Q, Stacking the Deck"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 9,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 7,
-          "CardName": "Mountain"
+          "CardName": "Elven Passage"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Zevin Faust",
       "Result": "17th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/b0bd1edb-bc0b-4430-9333-b5020111842c",
+      "AnchorUri": "https://melee.gg/Decklist/View/d9d3cbce-dad9-40e0-af14-b4fe00035694",
       "Mainboard": [
         {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Masked Meower"
+        },
+        {
           "Count": 1,
-          "CardName": "Brad Boimler, Eager Ensign"
+          "CardName": "Eddie Brock"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darklight Phoenix"
         },
         {
           "Count": 2,
-          "CardName": "Command Subadjunct"
-        },
-        {
-          "Count": 1,
-          "CardName": "Federation Field Medic"
-        },
-        {
-          "Count": 1,
-          "CardName": "Free Borg Revolutionaries"
-        },
-        {
-          "Count": 1,
-          "CardName": "Malfunctioning Holodeck"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pet Sehlat"
-        },
-        {
-          "Count": 2,
-          "CardName": "Pure Energy"
-        },
-        {
-          "Count": 2,
-          "CardName": "Shields Up!"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tactical Officer"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Excelsior, Cutting Edge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Zero, Incorporeal Sensate"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tricorder"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bajor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Beckett Mariner, Impetuous Ensign"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain James T. Kirk"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dahar Master"
-        },
-        {
-          "Count": 1,
-          "CardName": "Khan, Despot by Design"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Savvy Profiteer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Wrath of Khan"
-        },
-        {
-          "Count": 8,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 7,
           "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Matter Manipulator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bloodthorn Flail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Firebrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cool but Rude"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iron-Shield Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnage, Crimson Chaos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodghast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quag Feast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eddie Brock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinecone Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feed the Swarm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn, Argent Defender"
+        }
+      ]
     },
     {
       "Date": null,
@@ -2075,203 +2366,241 @@
       "Date": null,
       "Player": "Matt Xu",
       "Result": "19th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/108db8be-c9c0-4a98-8237-b5010119661f",
+      "AnchorUri": "https://melee.gg/Decklist/View/183d94b8-c528-41c4-9981-b4ff010fc724",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "V'Ger, the Intruder"
+          "CardName": "Lumbering Worldwagon"
         },
         {
-          "Count": 1,
-          "CardName": "Miles O'Brien, Transporter Ops"
-        },
-        {
-          "Count": 1,
-          "CardName": "Temporal Conqueror"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Earth, Sector 001"
-        },
-        {
-          "Count": 1,
-          "CardName": "Emergency Medical Hologram"
-        },
-        {
-          "Count": 1,
-          "CardName": "Species 8472"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Command Decision"
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
           "Count": 2,
-          "CardName": "Temple Garden"
+          "CardName": "Sapling Nursery"
         },
         {
-          "Count": 5,
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 13,
           "CardName": "Forest"
         },
         {
+          "Count": 2,
+          "CardName": "Elven Passage"
+        },
+        {
           "Count": 1,
-          "CardName": "Rutherford, Upgraded Ensign"
+          "CardName": "Cavern of Souls"
         },
         {
           "Count": 3,
-          "CardName": "Set Phasers to . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shuttle Ace"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Caretaker"
+          "CardName": "Esper Origins"
         },
         {
           "Count": 2,
-          "CardName": "Island"
+          "CardName": "Escape Tunnel"
         },
         {
-          "Count": 1,
-          "CardName": "U.S.S. Voyager, Lone Wanderer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Free Borg Revolutionaries"
-        },
-        {
-          "Count": 1,
-          "CardName": "Oberth-Class Starship"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Assault Force"
-        },
-        {
-          "Count": 6,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sarek, Federation Ambassador"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Benjamin Sisko"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
         },
         {
           "Count": 2,
-          "CardName": "First Contact"
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 3,
+          "CardName": "Carnivorous Cultivator // Enroot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mossborn Hydra"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warg Tactics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pawpatch Formation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karn, Argent Defender"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Christoffer Larsen",
       "Result": "20th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/014a6d2b-214c-49e3-9edb-b501012579c9",
+      "AnchorUri": "https://melee.gg/Decklist/View/9a6ba1eb-9ae6-47de-bfdd-b4ff011541b8",
       "Mainboard": [
         {
-          "Count": 2,
-          "CardName": "Common Goal"
+          "Count": 4,
+          "CardName": "Erode"
         },
         {
-          "Count": 8,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
           "Count": 1,
-          "CardName": "Cybernetic Specialist"
+          "CardName": "Sandman, Shifting Scoundrel"
         },
         {
           "Count": 1,
-          "CardName": "Data, New Life"
+          "CardName": "Cryptic Caves"
         },
         {
-          "Count": 1,
-          "CardName": "Mugato"
-        },
-        {
-          "Count": 3,
-          "CardName": "Dominion Assault Force"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cloistered Telepath"
-        },
-        {
-          "Count": 1,
-          "CardName": "Temporal Anomaly"
-        },
-        {
-          "Count": 1,
-          "CardName": "Consider the Prime Directive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "H.M.S. Bounty, Unlikely Timeship"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cetacean Ops"
-        },
-        {
-          "Count": 1,
-          "CardName": "Constable Odo"
-        },
-        {
-          "Count": 8,
+          "Count": 11,
           "CardName": "Forest"
         },
         {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Passage"
         },
         {
           "Count": 1,
-          "CardName": "Gwyndala, the Progeny"
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 2,
-          "CardName": "Adversary by Algorithm"
+          "Count": 1,
+          "CardName": "Hushwood Verge"
         },
         {
           "Count": 3,
-          "CardName": "Xindi Surveyors"
+          "CardName": "Jadzia Dax, Living Legacy"
         },
         {
           "Count": 1,
-          "CardName": "Hoshi Sato, Exolinguist"
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator // Enroot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vigorbloom Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glorious Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -2509,518 +2838,635 @@
       "Date": null,
       "Player": "Yimin Zhi",
       "Result": "23th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/2bb00db9-c552-49d4-86a9-b502010d4a1f",
+      "AnchorUri": "https://melee.gg/Decklist/View/695ff9f2-3278-4bf7-9523-b4fd005c9b21",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "He's Dead, Jim"
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
           "Count": 1,
-          "CardName": "Cold-Blooded Crew"
+          "CardName": "Erode"
         },
         {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
+          "Count": 4,
+          "CardName": "Starting Town"
         },
         {
-          "Count": 1,
-          "CardName": "Jadzia Dax, Living Legacy"
+          "Count": 4,
+          "CardName": "Torch the Tower"
         },
         {
-          "Count": 2,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mugato"
-        },
-        {
-          "Count": 2,
-          "CardName": "Temporal Conqueror"
-        },
-        {
-          "Count": 1,
-          "CardName": "Temporal Anomaly"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vash, Freelance Archaeologist"
+          "Count": 4,
+          "CardName": "Springleaf Drum"
         },
         {
           "Count": 3,
-          "CardName": "Saurian Explorer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Assault Force"
+          "CardName": "Mountain"
         },
         {
           "Count": 2,
-          "CardName": "Moopsy"
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 9,
-          "CardName": "Forest"
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ruinous Rampage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elspeth, Storm Slayer"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Matt Nass",
+      "Result": "24th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/dd9b88f1-e4be-49dc-afbe-b4ff0025810a",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simulacrum Synthesizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Repurposing Bay"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fire Crystal"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clay-Fired Bricks"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warmaker Gunship"
+        },
+        {
+          "Count": 1,
+          "CardName": "White Auracite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "United Battlefront"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malfunctioning Holodeck"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunbillow Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Memorial Vault"
+        },
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Does Machines"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Adam Edelson",
+      "Result": "25th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b6b76f66-e532-4f83-8968-b4fa0182a6b8",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Enlightened Confidant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Aunt May"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moseo, Vein's New Dean"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Liliana the Faultless"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starscape Cleric"
         },
         {
           "Count": 1,
           "CardName": "Salt Vampire"
         },
         {
+          "Count": 1,
+          "CardName": "Great Arashin City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        }
+      ],
+      "Sideboard": [
+        {
           "Count": 2,
-          "CardName": "Sylvia Tilly, Joy of Discovery"
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cathar Commando"
         },
         {
           "Count": 3,
-          "CardName": "Xindi Surveyors"
+          "CardName": "Seam Rip"
         },
         {
-          "Count": 7,
-          "CardName": "Swamp"
+          "Count": 2,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
         },
         {
           "Count": 1,
-          "CardName": "Tal Shiar Operative"
+          "CardName": "Vicious Rivalry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Space-Time Anomaly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
         }
-      ],
-      "Sideboard": []
-    },
-    {
-      "Date": null,
-      "Player": "Matt Nass",
-      "Result": "24th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/aa735903-da84-4901-aa20-b502012157e1",
-      "Mainboard": [
-        {
-          "Count": 2,
-          "CardName": "Risa"
-        },
-        {
-          "Count": 2,
-          "CardName": "Federation Field Medic"
-        },
-        {
-          "Count": 1,
-          "CardName": "Q Continuum"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Kathryn Janeway"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tactical Officer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Brad Boimler, Eager Ensign"
-        },
-        {
-          "Count": 8,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Combadge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Emergency Medical Hologram"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Inner Light"
-        },
-        {
-          "Count": 2,
-          "CardName": "Command Decision"
-        },
-        {
-          "Count": 6,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Set Phasers to . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Adversary by Algorithm"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Antagonist Incorporator"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dr. McCoy, Surly Surgeon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shuttle Ace"
-        },
-        {
-          "Count": 1,
-          "CardName": "Saru, Unthreatened"
-        },
-        {
-          "Count": 1,
-          "CardName": "Phlox, Unorthodox Doctor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shields Up!"
-        },
-        {
-          "Count": 2,
-          "CardName": "First Contact"
-        },
-        {
-          "Count": 1,
-          "CardName": "Xindi Surveyors"
-        }
-      ],
-      "Sideboard": []
-    },
-    {
-      "Date": null,
-      "Player": "Adam Edelson",
-      "Result": "25th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/082012ec-abbc-4332-ab59-b50201065534",
-      "Mainboard": [
-        {
-          "Count": 8,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bat'leth"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boarding Action"
-        },
-        {
-          "Count": 1,
-          "CardName": "Reckless Impulse"
-        },
-        {
-          "Count": 1,
-          "CardName": "Resistance Is Futile"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lwaxana Troi, Charming Guest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Gowron, Eager for Battle"
-        },
-        {
-          "Count": 1,
-          "CardName": "Blastoneuron"
-        },
-        {
-          "Count": 7,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 1,
-          "CardName": "He's Dead, Jim"
-        },
-        {
-          "Count": 1,
-          "CardName": "Khan, Despot by Design"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "D-7 Battle Cruiser"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Security"
-        },
-        {
-          "Count": 2,
-          "CardName": "Automated Warfare System"
-        },
-        {
-          "Count": 1,
-          "CardName": "Qo'noS"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Impossible Choice"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sarcophagus, Ship of the Dead"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
-        },
-        {
-          "Count": 1,
-          "CardName": "Ravenous Cosmozoan"
-        },
-        {
-          "Count": 1,
-          "CardName": "Battle-Scarred Survivalist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
-        }
-      ],
-      "Sideboard": []
+      ]
     },
     {
       "Date": null,
       "Player": "Mattia Oneto",
       "Result": "26th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/2d2ca70f-b047-41ac-b1fa-b50101203b4f",
+      "AnchorUri": "https://melee.gg/Decklist/View/d4ac1681-3d1b-4e48-a3ab-b4fb01206a5b",
       "Mainboard": [
         {
-          "Count": 7,
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dream Beavers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 3,
+          "CardName": "We Say Thee Nay!"
+        },
+        {
+          "Count": 3,
           "CardName": "Island"
         },
         {
-          "Count": 5,
-          "CardName": "Mountain"
+          "Count": 2,
+          "CardName": "Spell Snare"
         },
         {
-          "Count": 1,
-          "CardName": "Data, New Life"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cloak and Phaser"
-        },
-        {
-          "Count": 1,
-          "CardName": "Test of Priorities"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Spanner Jockey"
-        },
-        {
-          "Count": 1,
-          "CardName": "Munitions Enthusiast"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lieutenant Commander Data"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hive Mind Coprocessor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Make It So"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vulcan"
-        },
-        {
-          "Count": 1,
-          "CardName": "Subcommander T'Pol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "Gray and Adira, Forever Joined"
-        },
-        {
-          "Count": 1,
-          "CardName": "D-7 Battle Cruiser"
-        },
-        {
-          "Count": 1,
-          "CardName": "Marooned"
+          "Count": 3,
+          "CardName": "Multiversal Passage"
         },
         {
           "Count": 2,
-          "CardName": "Interstellar Effigy"
+          "CardName": "The Wondrous Wasp"
         },
         {
           "Count": 1,
-          "CardName": "Guidance Failure"
+          "CardName": "Spell Pierce"
         },
         {
           "Count": 2,
-          "CardName": "Consider the Prime Directive"
+          "CardName": "Bitter Triumph"
         },
         {
-          "Count": 1,
-          "CardName": "Qo'noS"
+          "Count": 4,
+          "CardName": "Enduring Curiosity"
         },
         {
-          "Count": 1,
-          "CardName": "Enterprise NX-01"
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
         },
         {
-          "Count": 1,
-          "CardName": "Bajor"
+          "Count": 3,
+          "CardName": "Requiting Hex"
         },
         {
-          "Count": 1,
-          "CardName": "Suurok-Class Science Vessel"
+          "Count": 4,
+          "CardName": "Spyglass Siren"
         },
         {
-          "Count": 1,
-          "CardName": "Tal Shiar Analyst"
+          "Count": 4,
+          "CardName": "Watery Grave"
         },
         {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
         },
         {
-          "Count": 1,
-          "CardName": "Blood Crypt"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cantankerous Captain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spatial Anomaly"
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stab"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Lorenzo Gruppi",
       "Result": "27th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/8b2473da-4a8b-474b-8d30-b5010132c245",
+      "AnchorUri": "https://melee.gg/Decklist/View/e2c7452d-3991-48f5-9851-b4ff0050492d",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
+          "Count": 3,
+          "CardName": "Swamp"
         },
         {
-          "Count": 6,
+          "Count": 4,
+          "CardName": "Masked Meower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eddie Brock"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darklight Phoenix"
+        },
+        {
+          "Count": 2,
           "CardName": "Mountain"
         },
         {
-          "Count": 1,
-          "CardName": "Data, New Life"
+          "Count": 4,
+          "CardName": "Dark Matter Manipulator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bloodthorn Flail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Firebrand"
         },
         {
           "Count": 1,
-          "CardName": "Gray and Adira, Forever Joined"
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cool but Rude"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
         },
         {
           "Count": 1,
-          "CardName": "Marooned"
+          "CardName": "Iron-Shield Elf"
         },
         {
-          "Count": 1,
-          "CardName": "Pah-Wraith"
+          "Count": 4,
+          "CardName": "Carnage, Crimson Chaos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodghast"
         },
         {
           "Count": 2,
-          "CardName": "Starfleet Spanner Jockey"
+          "CardName": "Quag Feast"
         },
         {
-          "Count": 1,
-          "CardName": "Interstellar Effigy"
-        },
-        {
-          "Count": 10,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cloistered Telepath"
-        },
-        {
-          "Count": 1,
-          "CardName": "Jett Reno, Problem Solver"
-        },
-        {
-          "Count": 1,
-          "CardName": "Energize"
-        },
-        {
-          "Count": 2,
-          "CardName": "Suurok-Class Science Vessel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Genesis Effect"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lore, Positronic Provocateur"
-        },
-        {
-          "Count": 1,
-          "CardName": "Wesley Crusher, Starfleet Cadet"
-        },
-        {
-          "Count": 2,
-          "CardName": "Federation Probe"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spatial Anomaly"
-        },
-        {
-          "Count": 1,
-          "CardName": "Academy Instructor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Make It So"
-        },
-        {
-          "Count": 2,
-          "CardName": "Open Communications"
+          "Count": 4,
+          "CardName": "Blood Crypt"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eddie Brock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinecone Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feed the Swarm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn, Argent Defender"
+        }
+      ]
     },
     {
       "Date": null,
@@ -4614,106 +5060,159 @@
       "Date": null,
       "Player": "Etai Kurtzman",
       "Result": "40th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/35de730a-0ee8-490d-833e-b501010f5be1",
+      "AnchorUri": "https://melee.gg/Decklist/View/a6bcc462-2b0c-4e8b-8c41-b4ff004c2c38",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Khan, Despot by Design"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
-        },
-        {
-          "Count": 8,
-          "CardName": "Mountain"
-        },
-        {
-          "Count": 1,
-          "CardName": "Khaaaaaaaaaaaannn!"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pah-Wraith"
-        },
-        {
-          "Count": 1,
-          "CardName": "Free Borg Revolutionaries"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Security"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tactical Officer"
+          "Count": 3,
+          "CardName": "Swamp"
         },
         {
           "Count": 2,
-          "CardName": "Worf, Honor-Bound Warrior"
+          "CardName": "Three Steps Ahead"
         },
         {
           "Count": 2,
-          "CardName": "Andromedan Automatons"
+          "CardName": "Theorist's Sanctum"
         },
         {
           "Count": 1,
-          "CardName": "La'An Noonien-Singh, Security"
+          "CardName": "Great Hall of the Biblioplex"
         },
         {
-          "Count": 8,
-          "CardName": "Plains"
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
         },
         {
-          "Count": 1,
-          "CardName": "There's Coffee in that Nebula"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bajor"
+          "Count": 4,
+          "CardName": "Deadly Cover-Up"
         },
         {
           "Count": 1,
-          "CardName": "Emergency Medical Hologram"
+          "CardName": "Restless Reef"
         },
         {
           "Count": 1,
-          "CardName": "Picard, Leading by Example"
+          "CardName": "Georgiou, Terran Emperor"
         },
         {
           "Count": 1,
-          "CardName": "Hologram Janeway"
+          "CardName": "Feed the Cycle"
         },
         {
           "Count": 1,
-          "CardName": "Planetary Patrol"
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ni'Var Science Academy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shipwreck Marsh"
         },
         {
           "Count": 1,
-          "CardName": "Cantankerous Captain"
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 4,
+          "CardName": "Countersculpt"
         },
         {
           "Count": 1,
-          "CardName": "Pure Energy"
+          "CardName": "Undercity Sewers"
         },
         {
           "Count": 1,
-          "CardName": "Captain's Tutelage"
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
         },
         {
           "Count": 1,
-          "CardName": "Shuttle Ace"
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
         },
         {
           "Count": 1,
-          "CardName": "Command Subadjunct"
+          "CardName": "Break Under Pressure"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petrified Hamlet"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Georgiou, Terran Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Terminal Criticism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        }
+      ]
     },
     {
       "Date": null,
@@ -5865,106 +6364,123 @@
       "Date": null,
       "Player": "Nathan Goldberg",
       "Result": "50th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/1f2f6124-7149-4734-b23b-b502011b48d7",
+      "AnchorUri": "https://melee.gg/Decklist/View/da9c1083-8c7a-4dc6-94c6-b4ff003e65bd",
       "Mainboard": [
         {
-          "Count": 2,
-          "CardName": "Astute Terraformer"
+          "Count": 1,
+          "CardName": "Guiding Hydra"
         },
         {
-          "Count": 2,
-          "CardName": "Dominion Assault Force"
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
           "Count": 1,
-          "CardName": "Final Frontier"
+          "CardName": "Erode"
         },
         {
-          "Count": 1,
-          "CardName": "First Contact"
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
         },
         {
-          "Count": 1,
-          "CardName": "Moopsy"
+          "Count": 3,
+          "CardName": "Starting Town"
         },
         {
-          "Count": 2,
-          "CardName": "Temporal Conqueror"
-        },
-        {
-          "Count": 1,
-          "CardName": "Xindi Surveyors"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vash, Freelance Archaeologist"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Destruction of Praxis"
-        },
-        {
-          "Count": 1,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "He's Dead, Jim"
-        },
-        {
-          "Count": 1,
-          "CardName": "In the Pale Moonlight"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pattern Buffer Preservation"
+          "Count": 3,
+          "CardName": "Torch the Tower"
         },
         {
           "Count": 2,
-          "CardName": "Relentless Drednok"
+          "CardName": "Seam Rip"
         },
         {
-          "Count": 1,
-          "CardName": "Test of Loyalty"
+          "Count": 3,
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 1,
-          "CardName": "Sickbay"
-        },
-        {
-          "Count": 1,
-          "CardName": "Overgrown Tomb"
-        },
-        {
-          "Count": 1,
-          "CardName": "Qo'noS"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
-        },
-        {
-          "Count": 2,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 5,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 2,
+          "Count": 3,
           "CardName": "Mountain"
         },
         {
-          "Count": 7,
-          "CardName": "Forest"
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nova Hellkite"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ruinous Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -6092,98 +6608,119 @@
       "Date": null,
       "Player": "Luis Salvatto",
       "Result": "52th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/8d4bf04d-2dd0-4e1e-9440-b5010127c97d",
+      "AnchorUri": "https://melee.gg/Decklist/View/a681d658-6e3c-4e35-8e16-b4ff006a8b4c",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
           "Count": 1,
-          "CardName": "He's Dead, Jim"
+          "CardName": "Sandman, Shifting Scoundrel"
         },
         {
           "Count": 1,
-          "CardName": "Pattern Buffer Preservation"
+          "CardName": "Cryptic Caves"
+        },
+        {
+          "Count": 11,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Passage"
         },
         {
           "Count": 1,
-          "CardName": "Relentless Drednok"
-        },
-        {
-          "Count": 2,
-          "CardName": "Rogue Artificial Intelligence"
+          "CardName": "Practiced Offense"
         },
         {
           "Count": 1,
-          "CardName": "Stray from History"
-        },
-        {
-          "Count": 1,
-          "CardName": "Quark's Bar"
-        },
-        {
-          "Count": 2,
-          "CardName": "Academy Instructor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boarding Action"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
-        },
-        {
-          "Count": 1,
-          "CardName": "Encounter the Unknown"
+          "CardName": "Hushwood Verge"
         },
         {
           "Count": 3,
-          "CardName": "Genesis Effect"
+          "CardName": "Jadzia Dax, Living Legacy"
         },
         {
           "Count": 1,
-          "CardName": "Perils of the Past"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
+          "CardName": "Escape Tunnel"
         },
         {
           "Count": 2,
-          "CardName": "Ravenous Cosmozoan"
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator // Enroot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
         },
         {
           "Count": 1,
-          "CardName": "Reckless Impulse"
+          "CardName": "Vigorbloom Charm"
         },
         {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tal Shiar Analyst"
-        },
-        {
-          "Count": 1,
-          "CardName": "Worf, Intelligence Contractor"
-        },
-        {
-          "Count": 7,
-          "CardName": "Swamp"
-        },
-        {
-          "Count": 8,
-          "CardName": "Mountain"
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glorious Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -6303,51 +6840,63 @@
       "Date": null,
       "Player": "Ricardo Dias",
       "Result": "54th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/1f49e2a7-debe-442d-b093-b5020121f478",
+      "AnchorUri": "https://melee.gg/Decklist/View/74c11197-0419-4bf8-9033-b4ff001748b0",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Xenobotanist"
+          "CardName": "Cori Mountain Monastery"
         },
         {
           "Count": 1,
-          "CardName": "Vash, Freelance Archaeologist"
+          "CardName": "Mistrise Village"
         },
         {
-          "Count": 1,
-          "CardName": "Captain Jonathan Archer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Species 8472"
-        },
-        {
-          "Count": 1,
-          "CardName": "Daniels, Temporal Agent"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sela, Tal Shiar Paradox"
+          "Count": 3,
+          "CardName": "Shattered Sanctum"
         },
         {
           "Count": 2,
-          "CardName": "Photosynthetic Physician"
+          "CardName": "Starting Town"
         },
         {
-          "Count": 7,
-          "CardName": "Forest"
+          "Count": 3,
+          "CardName": "Inevitable Defeat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashback"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consult the Star Charts"
         },
         {
           "Count": 1,
-          "CardName": "Relentless Drednok"
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
         },
         {
           "Count": 1,
-          "CardName": "Stomping Ground"
+          "CardName": "Get Lost"
         },
         {
-          "Count": 5,
-          "CardName": "Swamp"
+          "Count": 1,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jeskai Revelation"
         },
         {
           "Count": 1,
@@ -6355,171 +6904,225 @@
         },
         {
           "Count": 1,
-          "CardName": "Xindi Surveyors"
-        },
-        {
-          "Count": 1,
-          "CardName": "He's Dead, Jim"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pattern Buffer Preservation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Assault Force"
+          "CardName": "Island"
         },
         {
           "Count": 2,
-          "CardName": "Qo'noS"
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "No More Lies"
         },
         {
           "Count": 1,
-          "CardName": "De-evolve"
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pit of Offerings"
         },
         {
           "Count": 1,
-          "CardName": "Genesis Effect"
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tablet of Discovery"
         },
         {
           "Count": 1,
-          "CardName": "David and Carol Marcus, Creators"
+          "CardName": "Strategic Betrayal"
         },
         {
           "Count": 1,
-          "CardName": "Sylvia Tilly, Joy of Discovery"
-        },
-        {
-          "Count": 1,
-          "CardName": "Unexplored Territory"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tal Shiar Operative"
+          "CardName": "Steam Vents"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 2,
+          "CardName": "Together as One"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Outrageous Robbery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "Xenowan",
       "Result": "55th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/51775ed0-a839-4d3a-918f-b50201116b91",
+      "AnchorUri": "https://melee.gg/Decklist/View/bd34c954-78c5-4b94-805d-b4ff00fc414c",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "The Caretaker"
+          "Count": 3,
+          "CardName": "Balmor, Battlemage Captain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Resonance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elusive Otter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Secret Identity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Ride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pompous Battlemage // Improvised Act"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancestral Anger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pym Particles"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
         },
         {
           "Count": 1,
-          "CardName": "Consider the Prime Directive"
+          "CardName": "Dreadmaw's Ire"
         },
         {
           "Count": 3,
-          "CardName": "Federation Probe"
+          "CardName": "Bulk Up"
         },
         {
-          "Count": 1,
-          "CardName": "Highly Illogical"
+          "Count": 3,
+          "CardName": "Full Bore"
         },
         {
-          "Count": 1,
-          "CardName": "H.M.S. Bounty, Unlikely Timeship"
-        },
-        {
-          "Count": 1,
-          "CardName": "Humpback Whales"
-        },
-        {
-          "Count": 1,
-          "CardName": "Make It So"
-        },
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        }
+      ],
+      "Sideboard": [
         {
           "Count": 2,
-          "CardName": "Melkotian Adjudicator"
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Colorstorm Stallion"
         },
         {
           "Count": 1,
-          "CardName": "Open Communications"
-        },
-        {
-          "Count": 1,
-          "CardName": "Starfleet Spanner Jockey"
-        },
-        {
-          "Count": 2,
-          "CardName": "Subcommander T'Pol"
-        },
-        {
-          "Count": 1,
-          "CardName": "V'Ger, the Intruder"
-        },
-        {
-          "Count": 2,
-          "CardName": "Fugitive Listener"
-        },
-        {
-          "Count": 1,
-          "CardName": "Obsidian Order Operative"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pattern Buffer Preservation"
-        },
-        {
-          "Count": 1,
-          "CardName": "Resistance Is Futile"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tal Shiar Operative"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tenacious Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "Romulus"
-        },
-        {
-          "Count": 1,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 8,
           "CardName": "Island"
         },
         {
-          "Count": 6,
-          "CardName": "Swamp"
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
         }
-      ],
-      "Sideboard": []
+      ]
     },
     {
       "Date": null,
@@ -6777,211 +7380,253 @@
       "Date": null,
       "Player": "Maxime Rayvich",
       "Result": "58th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/0a814e9d-cb4a-43e2-bf19-b50101109391",
+      "AnchorUri": "https://melee.gg/Decklist/View/9b7fc256-463f-4f25-b98e-b4f60161a2de",
       "Mainboard": [
         {
-          "Count": 5,
-          "CardName": "Mountain"
+          "Count": 1,
+          "CardName": "Lumbering Worldwagon"
         },
         {
           "Count": 1,
-          "CardName": "Emergency Holographic Crew"
+          "CardName": "Bushwhack"
         },
         {
-          "Count": 6,
-          "CardName": "Island"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tea, Earl Grey, Hot"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cloak and Phaser"
-        },
-        {
-          "Count": 2,
-          "CardName": "Interstellar Effigy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Romulan Bird-of-Prey"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boarding Action"
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
           "Count": 3,
-          "CardName": "Marooned"
+          "CardName": "Sapling Nursery"
         },
         {
           "Count": 1,
-          "CardName": "Cloistered Telepath"
+          "CardName": "Demolition Field"
         },
         {
-          "Count": 1,
-          "CardName": "Qo'noS"
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
         },
         {
-          "Count": 1,
-          "CardName": "Consider the Prime Directive"
+          "Count": 4,
+          "CardName": "Icetill Explorer"
         },
         {
-          "Count": 1,
-          "CardName": "Nyota Uhura, Communications"
+          "Count": 4,
+          "CardName": "Llanowar Elves"
         },
         {
-          "Count": 1,
-          "CardName": "La'An Noonien-Singh, Security"
+          "Count": 4,
+          "CardName": "Fabled Passage"
         },
         {
-          "Count": 1,
-          "CardName": "Earth, Sector 001"
+          "Count": 4,
+          "CardName": "Elven Passage"
         },
         {
-          "Count": 1,
-          "CardName": "Suurok-Class Science Vessel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sarcophagus, Ship of the Dead"
-        },
-        {
-          "Count": 1,
-          "CardName": "D'Vana Tendi, Optimistic Ensign"
+          "Count": 13,
+          "CardName": "Forest"
         },
         {
           "Count": 2,
-          "CardName": "Dahar Master"
+          "CardName": "Esper Origins"
         },
         {
           "Count": 1,
-          "CardName": "U.S.S. Enterprise-D, Galaxy-Class"
+          "CardName": "Escape Tunnel"
         },
         {
           "Count": 3,
-          "CardName": "Andoria"
+          "CardName": "Mightform Harmonizer"
         },
         {
-          "Count": 1,
-          "CardName": "Breeding Pool"
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator // Enroot"
         },
         {
-          "Count": 1,
-          "CardName": "Ensign Pavel Chekov"
+          "Count": 3,
+          "CardName": "Ba Sing Se"
         },
         {
-          "Count": 1,
-          "CardName": "Academy Instructor"
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warg Tactics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sandman, Shifting Scoundrel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        }
+      ]
     },
     {
       "Date": null,
       "Player": "JOAO QUEGE",
       "Result": "59th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/452dcf78-c7c5-455e-bc26-b501010fe660",
+      "AnchorUri": "https://melee.gg/Decklist/View/98e313fe-00be-4ff7-a222-b4fe00cfd186",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Cold-Blooded Crew"
-        },
-        {
-          "Count": 7,
-          "CardName": "Mountain"
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
           "Count": 1,
-          "CardName": "Silicate Surveyor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mugato"
-        },
-        {
-          "Count": 1,
-          "CardName": "Tricorder"
-        },
-        {
-          "Count": 1,
-          "CardName": "Boarding Action"
-        },
-        {
-          "Count": 1,
-          "CardName": "Temporal Conqueror"
+          "CardName": "Magda, the Hoardmaster"
         },
         {
           "Count": 3,
-          "CardName": "Dominion Assault Force"
-        },
-        {
-          "Count": 1,
-          "CardName": "Astute Terraformer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Horta"
-        },
-        {
-          "Count": 1,
-          "CardName": "Bajor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dathon and Picard at El-Adrel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
-        },
-        {
-          "Count": 1,
-          "CardName": "Syndicate Liquidators"
-        },
-        {
-          "Count": 8,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dahar Master"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dal R'El, Augment Orphan"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hit It!"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain's Tutelage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Spatial Anomaly"
+          "CardName": "Maelstrom of the Spirit Dragon"
         },
         {
           "Count": 2,
-          "CardName": "Hologram Stalker"
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
         },
         {
           "Count": 1,
-          "CardName": "Xindi Surveyors"
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twinmaw Stormbrood"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragonhawk, Fate's Tempest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boros Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        }
+      ]
     },
     {
       "Date": null,
@@ -7113,90 +7758,151 @@
       "Date": null,
       "Player": "Marco Belacca",
       "Result": "61th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/59c6ae12-d517-4d8c-aae8-b50201224064",
+      "AnchorUri": "https://melee.gg/Decklist/View/611c89ff-5cd1-4584-94dc-b4fe0045dbb3",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Khan, Despot by Design"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Doctor, EMH"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Duras Sisters"
-        },
-        {
-          "Count": 1,
-          "CardName": "Gray and Adira, Forever Joined"
-        },
-        {
-          "Count": 8,
-          "CardName": "Mountain"
-        },
-        {
           "Count": 3,
-          "CardName": "Tactical Officer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Test of Conviction"
+          "CardName": "Swamp"
         },
         {
           "Count": 2,
-          "CardName": "Khaaaaaaaaaaaannn!"
-        },
-        {
-          "Count": 8,
-          "CardName": "Plains"
-        },
-        {
-          "Count": 1,
-          "CardName": "Lwaxana Troi, Charming Guest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Captain Michael Burnham"
-        },
-        {
-          "Count": 1,
-          "CardName": "Command Decision"
-        },
-        {
-          "Count": 1,
-          "CardName": "Constable Odo"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hologram Janeway"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 3,
-          "CardName": "Tal Shiar Analyst"
-        },
-        {
-          "Count": 1,
-          "CardName": "Set Phasers to . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Dr. McCoy, Surly Surgeon"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shields Up!"
+          "CardName": "Theorist's Sanctum"
         },
         {
           "Count": 2,
-          "CardName": "Captain's Tutelage"
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feed the Cycle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shipwreck Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 4,
+          "CardName": "Countersculpt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jace's Machinations"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphinx of False Conclusions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Break Under Pressure"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petrified Hamlet"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitterbloom Bearer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Terminal Criticism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Outrageous Robbery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        }
+      ]
     },
     {
       "Date": null,
@@ -10042,114 +10748,119 @@
       "Date": null,
       "Player": "Mateo Ferreira",
       "Result": "84th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/58d56109-14d6-488c-a665-b5020121b409",
+      "AnchorUri": "https://melee.gg/Decklist/View/8b973e4e-29e4-4eed-91d6-b4ff007ce98b",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Assembly Specialist"
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
         },
         {
           "Count": 1,
-          "CardName": "Brad Boimler, Eager Ensign"
+          "CardName": "Sandman, Shifting Scoundrel"
         },
         {
           "Count": 1,
-          "CardName": "Command Decision"
+          "CardName": "Cryptic Caves"
+        },
+        {
+          "Count": 11,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Passage"
         },
         {
           "Count": 1,
-          "CardName": "Free Borg Revolutionaries"
+          "CardName": "Practiced Offense"
         },
         {
           "Count": 1,
-          "CardName": "Ghost of Illyria"
+          "CardName": "Hushwood Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jadzia Dax, Living Legacy"
         },
         {
           "Count": 1,
-          "CardName": "Hologram Janeway"
-        },
-        {
-          "Count": 1,
-          "CardName": "Picard, Leading by Example"
-        },
-        {
-          "Count": 1,
-          "CardName": "Rutherford, Upgraded Ensign"
-        },
-        {
-          "Count": 1,
-          "CardName": "Shields Up!"
-        },
-        {
-          "Count": 1,
-          "CardName": "There's Coffee in that Nebula"
-        },
-        {
-          "Count": 1,
-          "CardName": "Una Chin-Riley, Number One"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Enterprise-A, Free Spirit"
+          "CardName": "Escape Tunnel"
         },
         {
           "Count": 2,
-          "CardName": "Adversary by Algorithm"
+          "CardName": "Ba Sing Se"
         },
         {
-          "Count": 1,
-          "CardName": "Astute Terraformer"
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
         },
         {
-          "Count": 1,
-          "CardName": "Captain Pike, Fullness of Time"
-        },
-        {
-          "Count": 1,
-          "CardName": "Common Goal"
+          "Count": 4,
+          "CardName": "Carnivorous Cultivator // Enroot"
         },
         {
           "Count": 2,
-          "CardName": "Dominion Assault Force"
-        },
-        {
-          "Count": 1,
-          "CardName": "I'm a Doctor, Not a . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Sylvia Tilly, Joy of Discovery"
-        },
-        {
-          "Count": 1,
-          "CardName": "Phlox, Unorthodox Doctor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Cardassia Prime"
-        },
-        {
-          "Count": 1,
-          "CardName": "Earth, Sector 001"
-        },
-        {
-          "Count": 1,
-          "CardName": "Subspace Anomaly"
-        },
-        {
-          "Count": 7,
           "CardName": "Plains"
         },
         {
-          "Count": 7,
-          "CardName": "Forest"
+          "Count": 1,
+          "CardName": "Vigorbloom Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glorious Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -10769,67 +11480,51 @@
       "Date": null,
       "Player": "Se̍k-un Khó͘",
       "Result": "90th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/4341054e-6cbd-45e3-a512-b50101213815",
+      "AnchorUri": "https://melee.gg/Decklist/View/f338b8fb-9b1f-4aa0-8531-b4ff00ea669a",
       "Mainboard": [
-        {
-          "Count": 1,
-          "CardName": "D'Ghor Bloodletter"
-        },
         {
           "Count": 1,
           "CardName": "Swamp"
         },
         {
-          "Count": 1,
-          "CardName": "Xenobotanist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Suus Mahna Practitioner"
-        },
-        {
-          "Count": 1,
-          "CardName": "Mugato"
-        },
-        {
           "Count": 2,
-          "CardName": "Cloak and Phaser"
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Umbral Collar Zealot"
         },
         {
           "Count": 1,
-          "CardName": "Pah-Wraith"
-        },
-        {
-          "Count": 1,
-          "CardName": "Amok Time"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vash, Freelance Archaeologist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Photosynthetic Physician"
-        },
-        {
-          "Count": 1,
-          "CardName": "Hallowed Fountain"
-        },
-        {
-          "Count": 8,
           "CardName": "Forest"
         },
         {
-          "Count": 1,
-          "CardName": "Subspace Anomaly"
+          "Count": 4,
+          "CardName": "Obsessive Pursuit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lively Dirge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gene Pollinator"
         },
         {
           "Count": 1,
@@ -10837,70 +11532,95 @@
         },
         {
           "Count": 1,
-          "CardName": "Island"
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Misty Mountains Cold"
+        },
+        {
+          "Count": 4,
+          "CardName": "Biotech Specialist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
         },
         {
           "Count": 1,
-          "CardName": "Common Goal"
+          "CardName": "Wolverine, Fierce Fighter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overgrown Tomb"
         },
         {
           "Count": 1,
-          "CardName": "Romulus"
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Sackville-Bagginses"
         },
         {
           "Count": 1,
-          "CardName": "Plasma Cascade"
+          "CardName": "Blazemire Verge"
         },
         {
           "Count": 1,
-          "CardName": "Cold-Blooded Crew"
+          "CardName": "Witherbloom Charm"
         },
         {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
-        },
-        {
-          "Count": 1,
-          "CardName": "Orion"
-        },
-        {
-          "Count": 1,
-          "CardName": "Watery Grave"
-        },
-        {
-          "Count": 1,
-          "CardName": "Consider the Prime Directive"
-        },
-        {
-          "Count": 1,
-          "CardName": "Genesis Effect"
-        },
-        {
-          "Count": 1,
-          "CardName": "Humpback Whales"
-        },
-        {
-          "Count": 1,
-          "CardName": "David and Carol Marcus, Creators"
-        },
-        {
-          "Count": 1,
-          "CardName": "Warp Speed"
-        },
-        {
-          "Count": 1,
-          "CardName": "Andoria"
-        },
-        {
-          "Count": 1,
-          "CardName": "Neelix, Moral Support"
-        },
-        {
-          "Count": 1,
-          "CardName": "Final Frontier"
+          "Count": 4,
+          "CardName": "Blood Crypt"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vicious Rivalry"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        }
+      ]
     },
     {
       "Date": null,
@@ -12028,102 +12748,127 @@
       "Date": null,
       "Player": "SethManfieldMTG",
       "Result": "100th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/33abab16-b46b-47a7-b48c-b50100fdd03f",
+      "AnchorUri": "https://melee.gg/Decklist/View/e370d6ef-d6ac-4b90-aff9-b4ff0048cc21",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Common Goal"
+          "CardName": "Guiding Hydra"
         },
         {
-          "Count": 1,
-          "CardName": "In the Pale Moonlight"
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
         },
         {
-          "Count": 1,
-          "CardName": "Cybernetic Specialist"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Voyager, Lone Wanderer"
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
         },
         {
           "Count": 2,
-          "CardName": "Tenacious Drone"
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
         },
         {
           "Count": 1,
-          "CardName": "Vash, Freelance Archaeologist"
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
         },
         {
           "Count": 1,
-          "CardName": "Eject the Warp Core"
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
         },
         {
           "Count": 2,
-          "CardName": "Saurian Explorer"
-        },
-        {
-          "Count": 1,
-          "CardName": "Pattern Buffer Preservation"
+          "CardName": "Voice of Victory"
         },
         {
           "Count": 2,
-          "CardName": "Rogue Artificial Intelligence"
-        },
-        {
-          "Count": 1,
-          "CardName": "Stray from History"
-        },
-        {
-          "Count": 1,
-          "CardName": "Qo'noS"
-        },
-        {
-          "Count": 1,
-          "CardName": "Astute Terraformer"
-        },
-        {
-          "Count": 2,
-          "CardName": "Cha'DIch Investigator"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dathon and Picard at El-Adrel"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Relentless Drednok"
-        },
-        {
-          "Count": 8,
-          "CardName": "Forest"
-        },
-        {
-          "Count": 1,
-          "CardName": "Culber and Stamets, Star-Crossed"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dominion Supervisor"
-        },
-        {
-          "Count": 1,
-          "CardName": "Final Frontier"
-        },
-        {
-          "Count": 1,
-          "CardName": "First Contact"
-        },
-        {
-          "Count": 7,
-          "CardName": "Swamp"
+          "CardName": "Nova Hellkite"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ruinous Rampage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -13115,98 +13860,139 @@
       "Date": null,
       "Player": "Matthew Wright",
       "Result": "108th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/415646b1-3180-43cb-b54f-b501011d6351",
+      "AnchorUri": "https://melee.gg/Decklist/View/4798b754-9458-466b-b5a1-b4ff00fd2070",
       "Mainboard": [
         {
           "Count": 1,
-          "CardName": "Cold-Blooded Crew"
+          "CardName": "Guiding Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
         },
         {
           "Count": 2,
-          "CardName": "Common Goal"
-        },
-        {
-          "Count": 1,
-          "CardName": "Dr. Leonard \"Bones\" McCoy"
-        },
-        {
-          "Count": 1,
-          "CardName": "Moopsy"
+          "CardName": "Starting Town"
         },
         {
           "Count": 2,
-          "CardName": "Saurian Explorer"
+          "CardName": "Torch the Tower"
         },
         {
-          "Count": 1,
-          "CardName": "Warp Speed"
+          "Count": 3,
+          "CardName": "Seam Rip"
         },
         {
-          "Count": 1,
-          "CardName": "Xenobotanist"
+          "Count": 3,
+          "CardName": "Practiced Offense"
         },
         {
-          "Count": 1,
-          "CardName": "Xindi Surveyors"
-        },
-        {
-          "Count": 1,
-          "CardName": "The Doctor, EMH"
-        },
-        {
-          "Count": 1,
-          "CardName": "D'Vana Tendi, Optimistic Ensign"
-        },
-        {
-          "Count": 1,
-          "CardName": "Beckett Mariner, Impetuous Ensign"
-        },
-        {
-          "Count": 2,
-          "CardName": "Captain's Tutelage"
-        },
-        {
-          "Count": 1,
-          "CardName": "Genesis Effect"
-        },
-        {
-          "Count": 1,
-          "CardName": "Horta"
-        },
-        {
-          "Count": 1,
-          "CardName": "La'An Noonien-Singh, Security"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Bombardment"
-        },
-        {
-          "Count": 1,
-          "CardName": "Planetary Patrol"
-        },
-        {
-          "Count": 1,
-          "CardName": "Plasma Cascade"
-        },
-        {
-          "Count": 2,
-          "CardName": "Savvy Profiteer"
-        },
-        {
-          "Count": 8,
+          "Count": 3,
           "CardName": "Mountain"
         },
         {
-          "Count": 8,
-          "CardName": "Forest"
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
         },
         {
           "Count": 1,
-          "CardName": "Orion"
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sage of the Skies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starfield Shepherd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Captain James T. Kirk"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Naked Time"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Giant Cindermaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ruinous Rampage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Split Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        }
+      ]
     },
     {
       "Date": null,
@@ -15078,86 +15864,115 @@
       "Date": null,
       "Player": "Jorge Lopez",
       "Result": "124th Place",
-      "AnchorUri": "https://melee.gg/Decklist/View/3ffe7bd6-8f2d-4be1-9f60-b501011e3fe6",
+      "AnchorUri": "https://melee.gg/Decklist/View/fa6d87d4-ff9b-41dc-9492-b4ff010771ec",
       "Mainboard": [
         {
-          "Count": 1,
-          "CardName": "Primary Unimatrix Adjunct"
+          "Count": 2,
+          "CardName": "Inspiring Vantage"
         },
         {
-          "Count": 1,
-          "CardName": "Locutus, the One Who Speaks"
+          "Count": 3,
+          "CardName": "Starting Town"
         },
         {
-          "Count": 1,
-          "CardName": "Assault Drone"
+          "Count": 4,
+          "CardName": "Ravenous Robots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Krang, Master Mind"
         },
         {
           "Count": 2,
-          "CardName": "Free Borg Revolutionaries"
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voyage Home"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 4,
+          "CardName": "Uthros, Titanic Godcore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dusk Rose Reliquary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Dome"
         },
         {
           "Count": 2,
-          "CardName": "Oberth-Class Starship"
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Emissary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
         },
         {
           "Count": 2,
-          "CardName": "DOT-7 Repair Squad"
+          "CardName": "Spirebluff Canal"
         },
         {
-          "Count": 1,
-          "CardName": "Eject the Warp Core"
-        },
-        {
-          "Count": 9,
-          "CardName": "Plains"
+          "Count": 4,
+          "CardName": "Castle Doom"
         },
         {
           "Count": 2,
-          "CardName": "Andromedan Automatons"
-        },
-        {
-          "Count": 1,
-          "CardName": "Impossible Choice"
-        },
-        {
-          "Count": 1,
-          "CardName": "Vexing Drone"
-        },
-        {
-          "Count": 1,
-          "CardName": "U.S.S. Excelsior, Cutting Edge"
-        },
-        {
-          "Count": 1,
-          "CardName": "Zero, Incorporeal Sensate"
-        },
-        {
-          "Count": 2,
-          "CardName": "Set Phasers to . . ."
-        },
-        {
-          "Count": 1,
-          "CardName": "Collective Drone"
-        },
-        {
-          "Count": 2,
-          "CardName": "Conquest Mission"
-        },
-        {
-          "Count": 2,
-          "CardName": "Malfunctioning Holodeck"
-        },
-        {
-          "Count": 1,
-          "CardName": "Flare of Fortitude"
-        },
-        {
-          "Count": 7,
-          "CardName": "Swamp"
+          "CardName": "Steam Vents"
         }
       ],
-      "Sideboard": []
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mazemind Tome"
+        },
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arabella, Abandoned Doll"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        }
+      ]
     },
     {
       "Date": null,
@@ -15535,6 +16350,986 @@
     }
   ],
   "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "Matches": [
+        {
+          "Player1": "Charis Kikidis",
+          "Player2": "Jordan Selesnick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arne Huschenbeth",
+          "Player2": "Horie Toru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KELLEN PASTORE",
+          "Player2": "Toni Portolan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "João Jorge Sales Junior",
+          "Player2": "Stefan Schütz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "shuhei nakamura",
+          "Player2": "Maxx Kominowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shota Yasooka",
+          "Player2": "Abe Schnake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Derrick Davis",
+          "Player2": "EduS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "James Drake",
+          "Player2": "Robert Wagner Krankel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satoshi nakayama",
+          "Player2": "Bernardo Torres",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yuuki Ichikawa",
+          "Player2": "Matt Nass",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ma Noah",
+          "Player2": "Jacob Mitchell-Rabaey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Samuele Estratti",
+          "Player2": "tchuco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alexander Kans",
+          "Player2": "dcwasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marcelo Rodrigues Cavalcante",
+          "Player2": "Andrew Elenbogen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shaun Henry",
+          "Player2": "McWinSauce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zevin Faust",
+          "Player2": "Rasmus Enegren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nick Deriu",
+          "Player2": "Matt Xu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyprien Tron",
+          "Player2": "Christoffer Larsen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tristan Wylde-LaRue",
+          "Player2": "Marco Del Pivo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JodyK",
+          "Player2": "Andy Garcia-Romo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yimin Zhi",
+          "Player2": "Dawson Courson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Edelson",
+          "Player2": "Yuchen Liu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mattia Oneto",
+          "Player2": "Matthew Wright",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lorenzo Gruppi",
+          "Player2": "Ryan Condon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marc Peral",
+          "Player2": "Will Krueger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allen Wu",
+          "Player2": "Zachary Aymie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Daniel Toledo",
+          "Player2": "Justin Chin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alex Rohan",
+          "Player2": "Vinnie Fino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "Ian Robb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Akira Shibata",
+          "Player2": "RICHMOND TAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Etai Kurtzman",
+          "Player2": "Maxime Rayvich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mikey Bishara",
+          "Player2": "Andrea Fortunati",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Quinn Tonole",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nicholas Odenheimer",
+          "Player2": "JanuaryAdams",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joseph Puglisi",
+          "Player2": "MasahideMoriyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Timo Bertram",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Adria Martin",
+          "Player2": "Samuel Pardee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nathan Goldberg",
+          "Player2": "Nicholas Talbot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arch Dota",
+          "Player2": "Ken Yukuhiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luis Salvatto",
+          "Player2": "Keiichiro Matsumoto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antonín Braniš",
+          "Player2": "Ricardo Dias",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Owen Turcotte",
+          "Player2": "TASE YUYA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elijah Herr",
+          "Player2": "Marco Belacca",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Javier Dominguez",
+          "Player2": "Jorge Lopez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Christopher Kral",
+          "Player2": "Noah Michaud",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Michael DeBenedetto-Plummer",
+          "Player2": "Josep Sanfeliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Anthony Lee",
+          "Player2": "Beenew",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jean-Emmanuel Depraz",
+          "Player2": "Yuta Hori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "NeilsonZhang",
+          "Player2": "Aidan Mirabelli",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nam Dang",
+          "Player2": "Thierry Ramboa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cftsoc",
+          "Player2": "Marco cammilluzzi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Davor Detecnik",
+          "Player2": "Mateo Ferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Riley Beck",
+          "Player2": "Liam Kane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Simon Linabury",
+          "Player2": "Mason Buonadonna",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Julio Bejarano Espejo",
+          "Player2": "Francisco Sanchez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brady Munroe",
+          "Player2": "Francisco Avila",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SethManfieldMTG",
+          "Player2": "Samuel Chang",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John Puglisi Clark",
+          "Player2": "Isael Feitosa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matthew Stefans",
+          "Player2": "Se̍k-un Khó͘",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eli Kassis",
+          "Player2": "LEESHITIAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pierre Liebsch",
+          "Player2": "Nathan Steuer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "NiHaoDyLan",
+          "Player2": "Ondrej Strasky",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Guglielmo Lupi",
+          "Player2": "Alexey Paulot",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "Matches": [
+        {
+          "Player1": "Charis Kikidis",
+          "Player2": "JodyK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arne Huschenbeth",
+          "Player2": "João Jorge Sales Junior",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KELLEN PASTORE",
+          "Player2": "Allen Wu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vinnie Fino",
+          "Player2": "Stefan Schütz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Michael DeBenedetto-Plummer",
+          "Player2": "shuhei nakamura",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Abe Schnake",
+          "Player2": "Justin Chin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EduS",
+          "Player2": "Ryan Condon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "James Drake",
+          "Player2": "Davor Detecnik",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Bernardo Torres",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yuuki Ichikawa",
+          "Player2": "NeilsonZhang",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ma Noah",
+          "Player2": "Tristan Wylde-LaRue",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nathan Steuer",
+          "Player2": "tchuco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyprien Tron",
+          "Player2": "satoshi nakayama",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antonín Braniš",
+          "Player2": "Alexander Kans",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marcelo Rodrigues Cavalcante",
+          "Player2": "Joseph Puglisi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shaun Henry",
+          "Player2": "Shota Yasooka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zevin Faust",
+          "Player2": "Brady Munroe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "SethManfieldMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matt Xu",
+          "Player2": "Maxime Rayvich",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Christoffer Larsen",
+          "Player2": "Keiichiro Matsumoto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy Garcia-Romo",
+          "Player2": "Josep Sanfeliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yimin Zhi",
+          "Player2": "Alex Rohan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matt Nass",
+          "Player2": "Jacob Mitchell-Rabaey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Edelson",
+          "Player2": "MTGHolic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mattia Oneto",
+          "Player2": "Simon Linabury",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lorenzo Gruppi",
+          "Player2": "Nicholas Odenheimer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Elenbogen",
+          "Player2": "MasahideMoriyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mikey Bishara",
+          "Player2": "Marc Peral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Derrick Davis",
+          "Player2": "Jean-Emmanuel Depraz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Toni Portolan",
+          "Player2": "Mateo Ferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ian Robb",
+          "Player2": "Will Krueger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Anthony Lee",
+          "Player2": "Akira Shibata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aidan Mirabelli",
+          "Player2": "Marco Del Pivo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Robert Wagner Krankel",
+          "Player2": "Zachary Aymie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Etai Kurtzman",
+          "Player2": "Nick Deriu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Samuel Pardee",
+          "Player2": "Andrea Fortunati",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Horie Toru",
+          "Player2": "Dawson Courson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nathan Goldberg",
+          "Player2": "Daniel Toledo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ken Yukuhiro",
+          "Player2": "Liam Kane",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Quinn Tonole",
+          "Player2": "Luis Salvatto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rasmus Enegren",
+          "Player2": "Ondrej Strasky",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ricardo Dias",
+          "Player2": "Francisco Sanchez",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "Adria Martin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arch Dota",
+          "Player2": "Guglielmo Lupi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Samuel Chang",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Francisco Avila",
+          "Player2": "TASE YUYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marco Belacca",
+          "Player2": "Noah Michaud",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Javier Dominguez",
+          "Player2": "Matthew Stefans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elijah Herr",
+          "Player2": "Christopher Kral",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Nicholas Talbot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nam Dang",
+          "Player2": "Riley Beck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pierre Liebsch",
+          "Player2": "Samuele Estratti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cftsoc",
+          "Player2": "John Puglisi Clark",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Owen Turcotte",
+          "Player2": "NiHaoDyLan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yuta Hori",
+          "Player2": "JanuaryAdams",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Timo Bertram",
+          "Player2": "Beenew",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Se̍k-un Khó͘",
+          "Player2": "Matthew Wright",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alexey Paulot",
+          "Player2": "Thierry Ramboa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LEESHITIAN",
+          "Player2": "dcwasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Julio Bejarano Espejo",
+          "Player2": "Eli Kassis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Isael Feitosa",
+          "Player2": "Marco cammilluzzi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jordan Selesnick",
+          "Player2": "Maxx Kominowski",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yuchen Liu",
+          "Player2": "RICHMOND TAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mason Buonadonna",
+          "Player2": "Jorge Lopez",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "Matches": [
+        {
+          "Player1": "Charis Kikidis",
+          "Player2": "Michael DeBenedetto-Plummer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yimin Zhi",
+          "Player2": "Arne Huschenbeth",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KELLEN PASTORE",
+          "Player2": "James Drake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Stefan Schütz",
+          "Player2": "Dawson Courson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "shuhei nakamura",
+          "Player2": "JodyK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Abe Schnake",
+          "Player2": "McWinSauce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EduS",
+          "Player2": "Yuta Hori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bernardo Torres",
+          "Player2": "Keiichiro Matsumoto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yuuki Ichikawa",
+          "Player2": "Ma Noah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Marco cammilluzzi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "satoshi nakayama",
+          "Player2": "Luis Salvatto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alexander Kans",
+          "Player2": "Eli Kassis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marcelo Rodrigues Cavalcante",
+          "Player2": "Elijah Herr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shaun Henry",
+          "Player2": "Nathan Goldberg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zevin Faust",
+          "Player2": "Owen Turcotte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "Etai Kurtzman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matt Xu",
+          "Player2": "SethManfieldMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Christoffer Larsen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tristan Wylde-LaRue",
+          "Player2": "NeilsonZhang",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy Garcia-Romo",
+          "Player2": "Jordan Selesnick",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matt Nass",
+          "Player2": "Aidan Mirabelli",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Edelson",
+          "Player2": "Anthony Lee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mattia Oneto",
+          "Player2": "Javier Dominguez",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lorenzo Gruppi",
+          "Player2": "Derrick Davis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Elenbogen",
+          "Player2": "Christopher Kral",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Marc Peral",
+          "Player2": "Adria Martin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Allen Wu",
+          "Player2": "Davor Detecnik",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Toni Portolan",
+          "Player2": "Robert Wagner Krankel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Justin Chin",
+          "Player2": "Nicholas Talbot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Horie Toru",
+          "Player2": "Vinnie Fino",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alex Rohan",
+          "Player2": "João Jorge Sales Junior",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ian Robb",
+          "Player2": "Samuel Pardee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Akira Shibata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jacob Mitchell-Rabaey",
+          "Player2": "Marco Del Pivo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mateo Ferreira",
+          "Player2": "Zachary Aymie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrea Fortunati",
+          "Player2": "Will Krueger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jean-Emmanuel Depraz",
+          "Player2": "Nicholas Odenheimer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "Mikey Bishara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MasahideMoriyama",
+          "Player2": "Noah Michaud",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ken Yukuhiro",
+          "Player2": "Alexey Paulot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rasmus Enegren",
+          "Player2": "Francisco Avila",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LEESHITIAN",
+          "Player2": "Ricardo Dias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Quinn Tonole",
+          "Player2": "Cyprien Tron",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arch Dota",
+          "Player2": "Nam Dang",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxime Rayvich",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ondrej Strasky",
+          "Player2": "TASE YUYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marco Belacca",
+          "Player2": "Joseph Puglisi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antonín Braniš",
+          "Player2": "Julio Bejarano Espejo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Christopher Kral",
+          "Player2": "Andrew Elenbogen",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Nick Deriu",
+          "Player2": "Samuel Chang",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Samuele Estratti",
+          "Player2": "Isael Feitosa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cftsoc",
+          "Player2": "Pierre Liebsch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Daniel Toledo",
+          "Player2": "Shota Yasooka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Riley Beck",
+          "Player2": "Guglielmo Lupi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Simon Linabury",
+          "Player2": "Matthew Stefans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Francisco Sanchez",
+          "Player2": "dcwasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Timo Bertram",
+          "Player2": "Yuchen Liu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Josep Sanfeliu",
+          "Player2": "Maxx Kominowski",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Brady Munroe",
+          "Player2": "NiHaoDyLan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John Puglisi Clark",
+          "Player2": "Nathan Steuer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Se̍k-un Khó͘",
+          "Player2": "Mason Buonadonna",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thierry Ramboa",
+          "Player2": "Liam Kane",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beenew",
+          "Player2": "RICHMOND TAN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JanuaryAdams",
+          "Player2": "Ryan Condon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jorge Lopez",
+          "Player2": "Matthew Wright",
+          "Result": "2-1-0"
+        }
+      ]
+    },
     {
       "RoundName": "Round 4",
       "Matches": [
@@ -16946,6 +18741,516 @@
         {
           "Player1": "JodyK",
           "Player2": "Javier Dominguez",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "Matches": [
+        {
+          "Player1": "Arne Huschenbeth",
+          "Player2": "Charis Kikidis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KELLEN PASTORE",
+          "Player2": "Marc Peral",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "shuhei nakamura",
+          "Player2": "Stefan Schütz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Abe Schnake",
+          "Player2": "Shaun Henry",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EduS",
+          "Player2": "Mattia Oneto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matt Xu",
+          "Player2": "James Drake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bernardo Torres",
+          "Player2": "Nicholas Odenheimer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alexander Kans",
+          "Player2": "Yuuki Ichikawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ma Noah",
+          "Player2": "Tristan Wylde-LaRue",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Ale_Mtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "satoshi nakayama",
+          "Player2": "Marcelo Rodrigues Cavalcante",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Derrick Davis",
+          "Player2": "Zevin Faust",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "Mikey Bishara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Christoffer Larsen",
+          "Player2": "Ken Yukuhiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy Garcia-Romo",
+          "Player2": "Ricardo Dias",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Yimin Zhi",
+          "Player2": "Adam Edelson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matt Nass",
+          "Player2": "MasahideMoriyama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lorenzo Gruppi",
+          "Player2": "Allen Wu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrew Elenbogen",
+          "Player2": "Marco Belacca",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Toni Portolan",
+          "Player2": "Alex Rohan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Justin Chin",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vinnie Fino",
+          "Player2": "Rasmus Enegren",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JodyK",
+          "Player2": "Ian Robb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Akira Shibata",
+          "Player2": "Nathan Goldberg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marco Del Pivo",
+          "Player2": "-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zachary Aymie",
+          "Player2": "TASE YUYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Etai Kurtzman",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jacob Mitchell-Rabaey",
+          "Player2": "Samuel Pardee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrea Fortunati",
+          "Player2": "Javier Dominguez",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Horie Toru",
+          "Player2": "Arch Dota",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MTGHolic",
+          "Player2": "Quinn Tonole",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxime Rayvich",
+          "Player2": "Luis Salvatto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ricardo Dias",
+          "Player2": "Andy Garcia-Romo",
+          "Result": "1-1-1"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 10",
+      "Matches": [
+        {
+          "Player1": "Charis Kikidis",
+          "Player2": "Marc Peral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Arne Huschenbeth",
+          "Player2": "KELLEN PASTORE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stefan Schütz",
+          "Player2": "Mattia Oneto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "shuhei nakamura",
+          "Player2": "EduS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satoshi nakayama",
+          "Player2": "Abe Schnake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "James Drake",
+          "Player2": "Alex Rohan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bernardo Torres",
+          "Player2": "Akira Shibata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Adam Edelson",
+          "Player2": "Yuuki Ichikawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matt Nass",
+          "Player2": "Ma Noah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "MTGHolic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alexander Kans",
+          "Player2": "Yimin Zhi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marcelo Rodrigues Cavalcante",
+          "Player2": "Shaun Henry",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zevin Faust",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "Lorenzo Gruppi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Toni Portolan",
+          "Player2": "Matt Xu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Justin Chin",
+          "Player2": "Christoffer Larsen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tristan Wylde-LaRue",
+          "Player2": "Ricardo Dias",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy Garcia-Romo",
+          "Player2": "Marco Belacca",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MasahideMoriyama",
+          "Player2": "Andrew Elenbogen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Allen Wu",
+          "Player2": "Mikey Bishara",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Etai Kurtzman",
+          "Player2": "Derrick Davis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andrea Fortunati",
+          "Player2": "Vinnie Fino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ian Robb",
+          "Player2": "Luis Salvatto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marco Del Pivo",
+          "Player2": "Zachary Aymie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jacob Mitchell-Rabaey",
+          "Player2": "Horie Toru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Quinn Tonole",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nicholas Odenheimer",
+          "Player2": "Nathan Goldberg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Samuel Pardee",
+          "Player2": "Arch Dota",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ken Yukuhiro",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Javier Dominguez",
+          "Player2": "Rasmus Enegren",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JodyK",
+          "Player2": "Maxime Rayvich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TASE YUYA",
+          "Player2": "-",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 11",
+      "Matches": [
+        {
+          "Player1": "Charis Kikidis",
+          "Player2": "satoshi nakayama",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arne Huschenbeth",
+          "Player2": "shuhei nakamura",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "KELLEN PASTORE",
+          "Player2": "Alexander Kans",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Stefan Schütz",
+          "Player2": "Marc Peral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "shuhei nakamura",
+          "Player2": "Arne Huschenbeth",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Abe Schnake",
+          "Player2": "Etai Kurtzman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EduS",
+          "Player2": "MasahideMoriyama",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "James Drake",
+          "Player2": "Nicholas Odenheimer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matt Nass",
+          "Player2": "Bernardo Torres",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yuuki Ichikawa",
+          "Player2": "Ma Noah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tchuco",
+          "Player2": "Adam Edelson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yimin Zhi",
+          "Player2": "Marcelo Rodrigues Cavalcante",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shaun Henry",
+          "Player2": "Mattia Oneto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zevin Faust",
+          "Player2": "Ian Robb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PetrKikac",
+          "Player2": "Toni Portolan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matt Xu",
+          "Player2": "Marco Del Pivo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Christoffer Larsen",
+          "Player2": "Ken Yukuhiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tristan Wylde-LaRue",
+          "Player2": "Akira Shibata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy Garcia-Romo",
+          "Player2": "Andrew Elenbogen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lorenzo Gruppi",
+          "Player2": "Allen Wu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Derrick Davis",
+          "Player2": "Maxime Rayvich",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Justin Chin",
+          "Player2": "JodyK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vinnie Fino",
+          "Player2": "MTGHolic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zachary Aymie",
+          "Player2": "Alex Rohan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jacob Mitchell-Rabaey",
+          "Player2": "Andrea Fortunati",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Andrea Fortunati",
+          "Player2": "Jacob Mitchell-Rabaey",
+          "Result": "1-1-1"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Javier Dominguez",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Horie Toru",
+          "Player2": "Ricardo Dias",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mikey Bishara",
+          "Player2": "Marco Belacca",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Samuel Pardee",
+          "Player2": "JOAO QUEGE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nathan Goldberg",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luis Salvatto",
+          "Player2": "TASE YUYA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rasmus Enegren",
+          "Player2": "Quinn Tonole",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arch Dota",
+          "Player2": "-",
           "Result": "2-0-0"
         }
       ]
