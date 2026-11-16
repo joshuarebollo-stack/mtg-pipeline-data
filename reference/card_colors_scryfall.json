@@ -7517,6 +7517,18 @@
   {
    "Name": "Zero, Incorporeal Sensate",
    "Color": "WB"
+  },
+  {
+   "Name": "Deanna Troi, Psychic Counsel",
+   "Color": "W"
+  },
+  {
+   "Name": "Memorial Team Leader",
+   "Color": "R"
+  },
+  {
+   "Name": "Tasha Yar, Out of Time",
+   "Color": "R"
   }
  ],
  "Colorless": [
@@ -8189,5 +8201,5 @@
   "Zora, Spider Fancier",
   "Bayo, Irritable Instructor"
  ],
- "updated_at": "2026-11-15T13:33:02Z"
+ "updated_at": "2026-11-16T15:15:21Z"
 }
