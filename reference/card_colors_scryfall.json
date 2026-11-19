@@ -7529,6 +7529,18 @@
   {
    "Name": "Tasha Yar, Out of Time",
    "Color": "R"
+  },
+  {
+   "Name": "Balance of Terror",
+   "Color": "W"
+  },
+  {
+   "Name": "Kobayashi Maru Scenario",
+   "Color": "U"
+  },
+  {
+   "Name": "Mob Lookout",
+   "Color": "UB"
   }
  ],
  "Colorless": [
@@ -8162,7 +8174,8 @@
   "Tea, Earl Grey, Hot",
   "Tricorder",
   "U.S.S. Cerritos, Following Up",
-  "Unexplored Territory"
+  "Unexplored Territory",
+  "Crystalline Entity"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -8199,7 +8212,8 @@
   "Wrench, Speedway Saboteur",
   "Yera and Oski, Weaver and Guide",
   "Zora, Spider Fancier",
-  "Bayo, Irritable Instructor"
+  "Bayo, Irritable Instructor",
+  "Brako, Heartless Hunter"
  ],
- "updated_at": "2026-11-18T15:16:51Z"
+ "updated_at": "2026-11-19T16:31:20Z"
 }
