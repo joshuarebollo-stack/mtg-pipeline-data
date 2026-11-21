@@ -7541,6 +7541,10 @@
   {
    "Name": "Mob Lookout",
    "Color": "UB"
+  },
+  {
+   "Name": "Intervention Pact",
+   "Color": "W"
   }
  ],
  "Colorless": [
@@ -8175,7 +8179,9 @@
   "Tricorder",
   "U.S.S. Cerritos, Following Up",
   "Unexplored Territory",
-  "Crystalline Entity"
+  "Crystalline Entity",
+  "Glasses of Urza",
+  "Nexus of Becoming"
  ],
  "NotFound": [
   "Ademi of the Silkchutes",
@@ -8215,5 +8221,5 @@
   "Bayo, Irritable Instructor",
   "Brako, Heartless Hunter"
  ],
- "updated_at": "2026-11-20T15:18:26Z"
+ "updated_at": "2026-11-21T14:55:12Z"
 }
